@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>NVDA Add-on Download Statistics</title>
+
+  <style>
+    table {
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid #000;
+      padding: 0.4em;
+    }
+    th button {
+      all: unset;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    th button:focus {
+      outline: 2px solid #000;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>NVDA Add-on Download Statistics</h1>
+
+<p>
+This table lists NVDA add-ons and their versions, with download counts retrieved
+from GitHub when available.
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">
+        <button type="button" data-sort="name">Add-on</button>
+      </th>
+      <th scope="col">
+        <button type="button" data-sort="version">Version</button>
+      </th>
+      <th scope="col">
+        <button type="button" data-sort="download_count">Downloads</button>
+      </th>
+      <th scope="col">
+        <button type="button" data-sort="status">Status</button>
+      </th>
+    </tr>
+  </thead>
+  <tbody id="table-body">
+    <!-- rows inserted by JavaScript -->
+  </tbody>
+</table>
+
+<script>
+let data = [];
+let currentSortKey = null;
+let sortAscending = true;
+
+function getStatus(item) {
+  if (!item.on_github) {
+    return "Not hosted on GitHub";
+  }
+  if (item.asset_missing) {
+    return "GitHub asset not found";
+  }
+  return "OK";
+}
+
+function renderTable() {
+  const tbody = document.getElementById("table-body");
+  tbody.innerHTML = "";
+
+  data.forEach(item => {
+    const tr = document.createElement("tr");
+
+    const nameTd = document.createElement("td");
+    nameTd.textContent = item.name;
+
+    const versionTd = document.createElement("td");
+    versionTd.textContent = item.version;
+
+    const downloadsTd = document.createElement("td");
+    downloadsTd.textContent =
+      item.download_count !== null ? item.download_count : "N/A";
+
+    const statusTd = document.createElement("td");
+    statusTd.textContent = getStatus(item);
+
+    tr.appendChild(nameTd);
+    tr.appendChild(versionTd);
+    tr.appendChild(downloadsTd);
+    tr.appendChild(statusTd);
+
+    tbody.appendChild(tr);
+  });
+}
+
+function sortData(key) {
+  if (currentSortKey === key) {
+    sortAscending = !sortAscending;
+  } else {
+    currentSortKey = key;
+    sortAscending = true;
+  }
+
+  data.sort((a, b) => {
+    let va, vb;
+
+    if (key === "status") {
+      va = getStatus(a);
+      vb = getStatus(b);
+    } else {
+      va = a[key];
+      vb = b[key];
+    }
+
+    if (va === null) return 1;
+    if (vb === null) return -1;
+
+    if (typeof va === "number" && typeof vb === "number") {
+      return sortAscending ? va - vb : vb - va;
+    }
+
+    return sortAscending
+      ? String(va).localeCompare(String(vb))
+      : String(vb).localeCompare(String(va));
+  });
+
+  renderTable();
+}
+
+document.querySelectorAll("th button").forEach(button => {
+  button.addEventListener("click", () => {
+    sortData(button.dataset.sort);
+  });
+});
+
+fetch("https://raw.githubusercontent.com/CyrilleB79/NVDAAddonsStats/data/data.json")
+  .then(response => response.json())
+  .then(json => {
+    data = json;
+    renderTable();
+  })
+  .catch(error => {
+    console.error("Failed to load data.json:", error);
+  });
+</script>
+
+</body>
+</html>
