@@ -8,7 +8,7 @@ NVDA_API_URL = "https://addonstore.nvaccess.org/en/all/latest.json"
 GITHUB_API_BASE = "https://api.github.com"
 GITHUB_API_HEADERS = {
     "Accept": "application/vnd.github+json",
-    # You can add Authorization: token YOUR_TOKEN here if you want to increase rate limits
+    "Authorization": f"token {os.getenv('GITHUB_TOKEN')}"
 }
 
 def extract_github_owner_repo(url):
@@ -34,7 +34,19 @@ def get_github_asset_downloads(owner, repo, url):
     releases_url = f"{GITHUB_API_BASE}/repos/{owner}/{repo}/releases"
     try:
         resp = requests.get(releases_url, headers=GITHUB_API_HEADERS, timeout=15)
-        if resp.status_code != 200:
+        if resp.status_code == 403:
+            print(f"Warning: GitHub API returned 403 for {owner}/{repo}")
+            if resp.status_code == 403:
+                try:
+                    error_data = resp.json()
+                    message = error_data.get("message", "No message in response")
+                except ValueError:
+                    # The response is not a valid JSON
+                    message = resp.text or "No error message returned"
+                print(f"Warning: GitHub API returned 403 for {owner}/{repo}: {message}")
+                return None
+            
+        elif resp.status_code != 200:
             print(f"Warning: GitHub API returned {resp.status_code} for {owner}/{repo}")
             return None
         releases = resp.json()

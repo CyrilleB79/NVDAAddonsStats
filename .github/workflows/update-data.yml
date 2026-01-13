@@ -28,6 +28,8 @@ jobs:
         run: pip install requests
 
       - name: Generate new_data.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/fetch_data.py
 
       - name: Checkout data branch
