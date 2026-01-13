@@ -24,14 +24,18 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run fetch_data.py script
+      - name: Generate new_data.json
         run: python scripts/fetch_data.py
 
       - name: Checkout data branch
         run: |
-          git fetch origin data || true
+          git fetch origin data
           git checkout data
 
+      - name: Replace data.json
+        run: |
+          mv new_data.json data.json
+      
       - name: Commit updated data.json
         run: |
           git add data.json

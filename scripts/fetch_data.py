@@ -100,10 +100,10 @@ def main():
         results.append(addon_entry)
 
     # Write result JSON
-    with open("data.json", "w", encoding="utf-8") as f:
+    with open("new_data.json", "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
-    print("Data collection complete. Results saved to data.json")
+    print("Data collection complete. Results saved to new_data.json")
 
 if __name__ == "__main__":
     main()
