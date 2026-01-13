@@ -1,0 +1,20 @@
+[
+  {
+    "id": "robEnhancements",
+    "name": "ROB enhancements",
+    "url": "https://github.com/RainerBrell/robEnhancements/releases/download/2025.11.01s/robEnhancements-2025.11.01s.nvda-addon",
+    "version": "2025.11.01",
+    "on_github": true,
+    "download_count": 676,
+    "asset_missing": false
+  },
+  {
+    "id": "tiktokDownloader",
+    "name": "TikTok Video Downloader",
+    "url": "https://github.com/alano332/tiktokDownloader/releases/download/v1.1.0/tiktokDownloader-1.1.0.nvda-addon",
+    "version": "1.1.0",
+    "on_github": true,
+    "download_count": 26,
+    "asset_missing": false
+  }
+]
