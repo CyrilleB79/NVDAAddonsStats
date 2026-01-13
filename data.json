@@ -50,7 +50,7 @@
     "url": "https://github.com/hkatic/clock/releases/download/v25.07.14/clock-20250714.0.0.nvda-addon",
     "version": "20250714.0.0",
     "on_github": true,
-    "download_count": 13999,
+    "download_count": 14000,
     "asset_missing": false
   },
   {
@@ -176,7 +176,7 @@
     "url": "https://github.com/Aldenor-Neto/Blind-game/releases/download/V2.0.1/blindGame-2.0.1.nvda-addon",
     "version": "2.0.1",
     "on_github": true,
-    "download_count": 77,
+    "download_count": 79,
     "asset_missing": false
   },
   {
@@ -401,7 +401,7 @@
     "url": "https://github.com/addonFactory/instantTranslate/releases/download/v4.8.2-stable/instantTranslate-4.8.2.nvda-addon",
     "version": "4.8.2",
     "on_github": true,
-    "download_count": 19063,
+    "download_count": 19064,
     "asset_missing": false
   },
   {
@@ -410,7 +410,7 @@
     "url": "https://github.com/ruifontes/virtualReview/releases/download/2025.07.12/virtualRevision-2025.07.12.nvda-addon",
     "version": "2025.07.12",
     "on_github": true,
-    "download_count": 9857,
+    "download_count": 9858,
     "asset_missing": false
   },
   {
@@ -428,7 +428,7 @@
     "url": "https://github.com/nvdacn/xyOCR/releases/download/3.2.0/xyOCR-3.2.0.nvda-addon",
     "version": "3.2.0",
     "on_github": true,
-    "download_count": 2878,
+    "download_count": 2879,
     "asset_missing": false
   },
   {
@@ -446,7 +446,7 @@
     "url": "https://github.com/josephsl/wintenApps/releases/download/25.10/wintenApps-25.10.nvda-addon",
     "version": "25.10",
     "on_github": true,
-    "download_count": 10547,
+    "download_count": 10549,
     "asset_missing": false
   },
   {
@@ -536,8 +536,8 @@
     "url": "https://github.com/AndhiMardianto/MyCalculator/releases/download/v2.2.1/myCalculator-2.2.1.nvda-addon",
     "version": "2.2.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1582,
+    "asset_missing": false
   },
   {
     "id": "winWizard",
@@ -545,8 +545,8 @@
     "url": "https://github.com/jakubl7545/winWizard/releases/download/v5.0.7/winWizard-5.0.7.nvda-addon",
     "version": "5.0.7",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 4947,
+    "asset_missing": false
   },
   {
     "id": "columnsReview",
@@ -554,8 +554,8 @@
     "url": "https://github.com/ABuffEr/columnsReview/releases/download/v5.5.0/columnsReview-5.5.0.nvda-addon",
     "version": "5.5.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2039,
+    "asset_missing": false
   },
   {
     "id": "consoleToolkit",
@@ -563,8 +563,8 @@
     "url": "https://github.com/mltony/nvda-console-toolkit/releases/download/v1.4.5/consoleToolkit-1.4.5.nvda-addon",
     "version": "1.4.5",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3653,
+    "asset_missing": false
   },
   {
     "id": "jalaliDateAnnouncer",
@@ -572,8 +572,8 @@
     "url": "https://github.com/hamidrehzaey/jalaliDateAnnouncer/releases/download/v2025.1.2/jalaliDateAnnouncer_2025.1.2.nvda-addon",
     "version": "2025.1.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 635,
+    "asset_missing": false
   },
   {
     "id": "NVDACNMirror",
@@ -588,8 +588,8 @@
     "url": "https://github.com/nvdacn/AiSound5/releases/download/25.06/AiSound5-25.06.nvda-addon",
     "version": "25.06",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3020,
+    "asset_missing": false
   },
   {
     "id": "everything",
@@ -597,8 +597,8 @@
     "url": "https://github.com/Nael-Sayegh/Everything/releases/download/2024.03.26/everything-2024.03.26.nvda-addon",
     "version": "2024.03.26",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2613,
+    "asset_missing": false
   },
   {
     "id": "addressBar",
@@ -606,8 +606,8 @@
     "url": "https://github.com/integrumart/addressBar/releases/download/v1.2/addressBar.nvda-addon",
     "version": "1.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 45,
+    "asset_missing": false
   },
   {
     "id": "rdAccess",
@@ -615,8 +615,8 @@
     "url": "https://github.com/LeonarddeR/rdAccess/releases/download/1.6.0/rdAccess-1.6.0.nvda-addon",
     "version": "1.6.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 4277,
+    "asset_missing": false
   },
   {
     "id": "customNotifications",
@@ -624,8 +624,8 @@
     "url": "https://github.com/nvdaes/customNotifications/releases/download/13.0.0/customNotifications-13.0.0.nvda-addon",
     "version": "13.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1636,
+    "asset_missing": false
   },
   {
     "id": "Weather_Plus",
@@ -640,8 +640,8 @@
     "url": "https://github.com/jmdaweb/inputLock/releases/download/v1.19/inputLock-1.19.nvda-addon",
     "version": "1.19",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 9839,
+    "asset_missing": false
   },
   {
     "id": "Text Encryptor and Decryptor",
@@ -649,8 +649,8 @@
     "url": "https://github.com/s-toolkit/text-encriptor-and-decriptor/releases/download/0.1/Text-Encryptor-and-Decryptor-0.1.nvda-addon",
     "version": "0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 443,
+    "asset_missing": false
   },
   {
     "id": "youtubeDownloader",
@@ -658,8 +658,8 @@
     "url": "https://github.com/beyondsighttech/nvda-youtube-downloader/releases/download/v1.2.1/youtubeDownloader-1.2.1.nvda-addon",
     "version": "1.2.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 590,
+    "asset_missing": false
   },
   {
     "id": "quickDictionary",
@@ -667,8 +667,8 @@
     "url": "https://github.com/grisov/quickDictionary/releases/download/v2.2.2/quickDictionary-2.2.2.nvda-addon",
     "version": "2.2.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1827,
+    "asset_missing": false
   },
   {
     "id": "dayOfTheWeek",
@@ -676,8 +676,8 @@
     "url": "https://github.com/abdel792/dayOfTheWeek/releases/download/v25.07.03/dayOfTheWeek-20250703.0.0.nvda-addon",
     "version": "20250703.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2957,
+    "asset_missing": false
   },
   {
     "id": "recordatorios",
@@ -685,8 +685,8 @@
     "url": "https://github.com/marcomolinaleija/recordatorios/releases/download/v1.4/recordatorios-1.4.nvda-addon",
     "version": "1.4",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 349,
+    "asset_missing": false
   },
   {
     "id": "trainingKeyboardCommands",
@@ -694,8 +694,8 @@
     "url": "https://github.com/ibrahim-s/trainingNvdaCommands/releases/download/3.2.6/trainingKeyboardCommands-3.2.6.nvda-addon",
     "version": "3.2.6",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1716,
+    "asset_missing": false
   },
   {
     "id": "outlookExtended",
@@ -703,8 +703,8 @@
     "url": "https://github.com/CyrilleB79/outlookExtended/releases/download/V3.2/outlookExtended-3.2.nvda-addon",
     "version": "3.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 6379,
+    "asset_missing": false
   },
   {
     "id": "commandHelper",
@@ -712,8 +712,8 @@
     "url": "https://github.com/javidominguez/commandHelper/releases/download/2025.1.0/commandHelper-2025.1.0.nvda-addon",
     "version": "2025.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1777,
+    "asset_missing": false
   },
   {
     "id": "rtkuwp",
@@ -721,8 +721,8 @@
     "url": "https://github.com/dave090679/rtkuwp/releases/download/0.9/rtkuwp-0.9.nvda-addon",
     "version": "0.9",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2742,
+    "asset_missing": false
   },
   {
     "id": "NativeSpeechGeneration",
@@ -739,8 +739,8 @@
     "url": "https://github.com/chaichaimee/uTalk/releases/download/v2026.1.2/uTalk-v2026.1.2.nvda-addon",
     "version": "2026.1.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 214,
+    "asset_missing": false
   },
   {
     "id": "googleContactsManager",
@@ -748,8 +748,8 @@
     "url": "https://github.com/integrumart/googlecontactsManager/releases/download/v1.0/googleContactsManager.nvda-addon",
     "version": "1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 50,
+    "asset_missing": false
   },
   {
     "id": "Battery_Check",
@@ -757,8 +757,8 @@
     "url": "https://github.com/Reyes2005/Battery_Check/releases/download/v1.2/Battery_Check-1.2.nvda-addon",
     "version": "1.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 683,
+    "asset_missing": false
   },
   {
     "id": "winMag",
@@ -766,8 +766,8 @@
     "url": "https://github.com/CyrilleB79/winMag/releases/download/V4.2/winMag-4.2.nvda-addon",
     "version": "4.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1896,
+    "asset_missing": false
   },
   {
     "id": "voiceToggle",
@@ -784,8 +784,8 @@
     "url": "https://github.com/ChrisDuffley/stationPlaylist/releases/download/26.01/stationPlaylist-26.01.nvda-addon",
     "version": "26.01",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 346,
+    "asset_missing": false
   },
   {
     "id": "NVDARecorder",
@@ -793,8 +793,8 @@
     "url": "https://github.com/ruifontes/NVDARecorder/releases/download/2025.08.02/NVDARecorder-2025.08.02.nvda-addon",
     "version": "2025.08.02",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3631,
+    "asset_missing": false
   },
   {
     "id": "newfon",
@@ -802,8 +802,8 @@
     "url": "https://github.com/DraganRatkovich/newfon/releases/download/2025.1/newfon-2025.1.nvda-addon",
     "version": "2025.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2812,
+    "asset_missing": false
   },
   {
     "id": "NVDASpeedTest",
@@ -811,8 +811,8 @@
     "url": "https://github.com/leoguimaoficial/NVDA-SpeedTest/releases/download/v1.1/NVDASpeedTest-1.1.nvda-addon",
     "version": "1.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1937,
+    "asset_missing": false
   },
   {
     "id": "BMI",
@@ -820,8 +820,8 @@
     "url": "https://github.com/EdilbertoFonseca/BMI/releases/download/v2025.8.19/BMI-2025.8.19.nvda-addon",
     "version": "2025.8.19",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1031,
+    "asset_missing": false
   },
   {
     "id": "Vscode-line-numbers",
@@ -829,8 +829,8 @@
     "url": "https://github.com/ashleygrobler04/vscode-line-numbers/releases/download/v1.2.1/Vscode-line-numbers-1.2.1.nvda-addon",
     "version": "1.2.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1564,
+    "asset_missing": false
   },
   {
     "id": "snippetsForNVDA",
@@ -838,8 +838,8 @@
     "url": "https://github.com/thgcode/snippetsForNVDA/releases/download/1.0.10/snippetsForNVDA-1.0.10.nvda-addon",
     "version": "1.0.10",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 778,
+    "asset_missing": false
   },
   {
     "id": "SpeakDecoratedText",
@@ -847,8 +847,8 @@
     "url": "https://github.com/Abdullahashraf32/SpeakDecoratedText/releases/download/v1.1/SpeakDecoratedText-1.1.nvda-addon",
     "version": "1.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 236,
+    "asset_missing": false
   },
   {
     "id": "tiflotecniaVoices",
@@ -856,8 +856,8 @@
     "url": "https://github.com/ruifontes/tiflotecniaVoices/releases/download/4.1.1/tiflotecniaVoices-4.1.1.nvda-addon",
     "version": "4.1.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3794,
+    "asset_missing": false
   },
   {
     "id": "audioScreen",
@@ -865,8 +865,8 @@
     "url": "https://github.com/josephsl/audioScreen/releases/download/release-2025.2/audioScreen-2025.2.nvda-addon",
     "version": "2025.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 885,
+    "asset_missing": false
   },
   {
     "id": "AITranslater",
@@ -874,8 +874,8 @@
     "url": "https://github.com/mesteranas/AITranslater-nvda-add-on/releases/download/v0.3/AITranslater.nvda-addon",
     "version": "0.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2214,
+    "asset_missing": false
   },
   {
     "id": "proxy",
@@ -883,8 +883,8 @@
     "url": "https://github.com/nvda-es/nvda-proxy-support/releases/download/v1.12/proxy-1.12.nvda-addon",
     "version": "1.12",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1402,
+    "asset_missing": false
   },
   {
     "id": "officeDesk",
@@ -892,8 +892,8 @@
     "url": "https://github.com/josephsl/officeDesk/releases/download/25.09/officeDesk-25.09.nvda-addon",
     "version": "25.09",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3180,
+    "asset_missing": false
   },
   {
     "id": "GestorDePomodoros",
@@ -901,8 +901,8 @@
     "url": "https://github.com/jpavonabian/Gestor-de-Pomodoros/releases/download/1.18/GestorDePomodoros-1.18.nvda-addon",
     "version": "1.18",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 624,
+    "asset_missing": false
   },
   {
     "id": "emoticons",
@@ -910,8 +910,8 @@
     "url": "https://github.com/nvdaes/emoticons/releases/download/37.0.0/emoticons-37.0.0.nvda-addon",
     "version": "37.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 8986,
+    "asset_missing": false
   },
   {
     "id": "emojiMenu",
@@ -919,8 +919,8 @@
     "url": "https://github.com/diamondStar35/emoji_menu/releases/download/v1.1/emoji_menu-1.1.nvda-addon",
     "version": "1.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2038,
+    "asset_missing": false
   },
   {
     "id": "frequentText",
@@ -928,8 +928,8 @@
     "url": "https://github.com/ruifontes/frequentText/releases/download/2025.08_03/frequentText-2025.08.03.nvda-addon",
     "version": "2025.08.03",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1275,
+    "asset_missing": false
   },
   {
     "id": "browser history remover",
@@ -937,8 +937,8 @@
     "url": "https://github.com/techvisionaryteam/browser-history-remover-nvda-addon/releases/download/0.1/browser-history-remover-0.1.nvda-addon",
     "version": "0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 980,
+    "asset_missing": false
   },
   {
     "id": "AIContentDescriber",
@@ -946,8 +946,8 @@
     "url": "https://github.com/cartertemm/AI-content-describer/releases/download/v2025.06.17/AIContentDescriber-2025.06.17.nvda-addon",
     "version": "2025.06.17",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 6143,
+    "asset_missing": false
   },
   {
     "id": "hijriDate",
@@ -955,8 +955,8 @@
     "url": "https://github.com/mesteranas/HijriDate-nvda-addon/releases/download/v1.0.1/hijriDate.nvda-addon",
     "version": "1.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 4280,
+    "asset_missing": false
   },
   {
     "id": "controlTypeBeforeLabel",
@@ -973,8 +973,8 @@
     "url": "https://github.com/w-sx/UIANotificationSwitch/releases/download/2025.3/UIANotificationSwitch-2025.3.nvda-addon",
     "version": "2025.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 287,
+    "asset_missing": false
   },
   {
     "id": "phoneticPunctuation",
@@ -982,8 +982,8 @@
     "url": "https://github.com/mltony/nvda-phonetic-punctuation/releases/download/v3.0.6/phoneticPunctuation-3.0.6.nvda-addon",
     "version": "3.0.6",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1565,
+    "asset_missing": false
   },
   {
     "id": "toneMaster",
@@ -991,8 +991,8 @@
     "url": "https://github.com/hkatic/toneMaster/releases/download/v1.5/toneMaster-1.5.nvda-addon",
     "version": "1.5",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2047,
+    "asset_missing": false
   },
   {
     "id": "vismaAdministration",
@@ -1000,8 +1000,8 @@
     "url": "https://github.com/towebo/VismaAdministration-NVDAAddOn/releases/download/v2025.1.5/vismaAdministration-2025.1.5.nvda-addon",
     "version": "2025.1.5",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 300,
+    "asset_missing": false
   },
   {
     "id": "scanvox",
@@ -1009,8 +1009,8 @@
     "url": "https://github.com/Nael-Sayegh/scanvox-for-nvda/releases/download/2025.07.01/scanvox-2025.07.01.nvda-addon",
     "version": "2025.07.01",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2323,
+    "asset_missing": false
   },
   {
     "id": "YandexTranslate",
@@ -1018,8 +1018,8 @@
     "url": "https://github.com/alekssamos/YandexTranslate/releases/download/v2025.12.24/YandexTranslate.nvda-addon",
     "version": "2025.12.24",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1182,
+    "asset_missing": false
   },
   {
     "id": "duxburyinfo",
@@ -1027,8 +1027,8 @@
     "url": "https://github.com/nrundek/duxburyInfo/releases/download/v1.2/duxburyinfo-1.2.nvda-addon",
     "version": "1.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 455,
+    "asset_missing": false
   },
   {
     "id": "NVDABatteryReport",
@@ -1036,8 +1036,8 @@
     "url": "https://github.com/leoguimaoficial/NVDA-BatteryReport/releases/download/v1.0/NVDABatteryReport-1.0.nvda-addon",
     "version": "1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1111,
+    "asset_missing": false
   },
   {
     "id": "internetStatus",
@@ -1045,8 +1045,8 @@
     "url": "https://github.com/hamidrehzaey/internetStatus/releases/download/v2025.1.2/internetStatus_2025.1.2.nvda-addon",
     "version": "2025.1.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1887,
+    "asset_missing": false
   },
   {
     "id": "KeyboardShortcutsAutocompletePro",
@@ -1054,8 +1054,8 @@
     "url": "https://github.com/Mohammedkhaled96/keyboard_shortcut_autocomplete_pro/releases/download/1.1.2/keyboardShortcutsPro-1.1.2.nvda-addon",
     "version": "1.1.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 760,
+    "asset_missing": false
   },
   {
     "id": "Unspoken-ng",
@@ -1063,8 +1063,8 @@
     "url": "https://github.com/fastfinge/unspoken-ng/releases/download/v1.1/Unspoken-ng-1.0.1.nvda-addon",
     "version": "1.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1175,
+    "asset_missing": false
   },
   {
     "id": "textnormalizer",
@@ -1072,8 +1072,8 @@
     "url": "https://github.com/alekssamos/textnormalizer_for_nvda/releases/download/v2025.06.18/textnormalizer.nvda-addon",
     "version": "2025.06.18",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 548,
+    "asset_missing": false
   },
   {
     "id": "referenceStyler",
@@ -1081,8 +1081,8 @@
     "url": "https://github.com/jasonpython50/referenceStyler/releases/download/v24.0.0/referenceStyler-24.0.0.nvda-addon",
     "version": "24.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1078,
+    "asset_missing": false
   },
   {
     "id": "translate",
@@ -1090,8 +1090,8 @@
     "url": "https://github.com/yplassiard/nvda-translate/releases/download/v2022.06.24/translate-2022.06.24.nvda-addon",
     "version": "2022.06.24",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 14674,
+    "asset_missing": false
   },
   {
     "id": "pcloud",
@@ -1099,8 +1099,8 @@
     "url": "https://github.com/dave090679/pcloud/releases/download/0.9/pcloud-0.9.nvda-addon",
     "version": "0.9",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 128,
+    "asset_missing": false
   },
   {
     "id": "enhancedTouchGestures",
@@ -1108,8 +1108,8 @@
     "url": "https://github.com/kefaslungu/enhancedTouchGestures/releases/download/25.07/enhancedTouchGestures-25.12.nvda-addon",
     "version": "25.12",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1032,
+    "asset_missing": false
   },
   {
     "id": "simpleCopy",
@@ -1117,8 +1117,8 @@
     "url": "https://github.com/chaichaimee/simpleCopy/releases/download/v2026.1/simpleCopy-v2026.1.nvda-addon",
     "version": "2026.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 244,
+    "asset_missing": false
   },
   {
     "id": "charInfo",
@@ -1126,8 +1126,8 @@
     "url": "https://github.com/CyrilleB79/charInfo/releases/download/V3.7/charInfo-3.7.nvda-addon",
     "version": "3.7",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1160,
+    "asset_missing": false
   },
   {
     "id": "enpass",
@@ -1135,8 +1135,8 @@
     "url": "https://github.com/dave090679/enpass/releases/download/0.1.5/enpass-0.1.5.nvda-addon",
     "version": "0.1.5",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 246,
+    "asset_missing": false
   },
   {
     "id": "taskSwitcher",
@@ -1144,8 +1144,8 @@
     "url": "https://github.com/mltony/nvda-task-switcher/releases/download/v1.3.3/taskSwitcher-1.3.3.nvda-addon",
     "version": "1.3.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1191,
+    "asset_missing": false
   },
   {
     "id": "pausingInfo",
@@ -1153,8 +1153,8 @@
     "url": "https://github.com/wendrillaksenow/pausingInformation/releases/download/1.5/pausingInfo-1.5.nvda-addon",
     "version": "1.5",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 492,
+    "asset_missing": false
   },
   {
     "id": "rastreiosCorreio",
@@ -1162,8 +1162,8 @@
     "url": "https://github.com/RafaelFernandesBR/NvdaRastreioCorreio/releases/download/V1.14/rastreiosCorreio-1.14.nvda-addon",
     "version": "1.14",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 980,
+    "asset_missing": false
   },
   {
     "id": "nvda_reminder",
@@ -1171,8 +1171,8 @@
     "url": "https://github.com/integrumart/nvdareminder/releases/download/v1.0/nvda_reminder-v1.0.nvda-addon",
     "version": "1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 52,
+    "asset_missing": false
   },
   {
     "id": "browserOptions",
@@ -1180,8 +1180,8 @@
     "url": "https://github.com/AndhiMardianto/browserOptions/releases/download/v1.2.1/browserOptions-1.2.1.nvda-addon",
     "version": "1.2.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1045,
+    "asset_missing": false
   },
   {
     "id": "placeMarkers",
@@ -1189,8 +1189,8 @@
     "url": "https://github.com/nvdaes/placeMarkers/releases/download/50.0.0/placeMarkers-50.0.0.nvda-addon",
     "version": "50.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3102,
+    "asset_missing": false
   },
   {
     "id": "urlShortener",
@@ -1198,8 +1198,8 @@
     "url": "https://github.com/nvdaes/urlShortener/releases/download/19.0.0/urlShortener-19.0.0.nvda-addon",
     "version": "19.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1651,
+    "asset_missing": false
   },
   {
     "id": "indirTube",
@@ -1207,8 +1207,8 @@
     "url": "https://github.com/integrumart/indirtube/releases/download/v5.0/indirTUBE-5.0.nvda-addon",
     "version": "5.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 186,
+    "asset_missing": false
   },
   {
     "id": "clipboardEnhancement",
@@ -1225,8 +1225,8 @@
     "url": "https://github.com/integrumart/supercalculator/releases/download/v1.0/superCalculator-1.0.nvda-addon",
     "version": "1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 37,
+    "asset_missing": false
   },
   {
     "id": "navSounds",
@@ -1234,8 +1234,8 @@
     "url": "https://github.com/ahmedthebest31/navsounds/releases/download/v1.5.2/navSounds_1.5.2.nvda-addon",
     "version": "1.5.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 10099,
+    "asset_missing": false
   },
   {
     "id": "objWatcher",
@@ -1243,8 +1243,8 @@
     "url": "https://github.com/cary-rowen/objWatcher/releases/download/1.0.4/objWatcher-1.0.4.nvda-addon",
     "version": "1.0.4",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2260,
+    "asset_missing": false
   },
   {
     "id": "capitalSelectionIndicator",
@@ -1252,8 +1252,8 @@
     "url": "https://github.com/cary-rowen/capitalSelectionIndicator/releases/download/0.1.0/capitalSelectionIndicator-0.1.0.nvda-addon",
     "version": "0.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 32,
+    "asset_missing": false
   },
   {
     "id": "xBlock",
@@ -1261,8 +1261,8 @@
     "url": "https://github.com/chaichaimee/xBlock/releases/download/v2025.13/xBlock-v2025.13.nvda-addon",
     "version": "2025.13",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 232,
+    "asset_missing": false
   },
   {
     "id": "googleQuickSearch",
@@ -1270,8 +1270,8 @@
     "url": "https://github.com/integrumart/googlehizliara/releases/download/v5.0/googleQuickSearch.nvda-addon",
     "version": "5.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 102,
+    "asset_missing": false
   },
   {
     "id": "typing_settings",
@@ -1279,8 +1279,8 @@
     "url": "https://github.com/abdallah-hader/typing_settings/releases/download/v0.2/typing_settings.nvda-addon",
     "version": "0.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3465,
+    "asset_missing": false
   },
   {
     "id": "ReminderApp",
@@ -1295,8 +1295,8 @@
     "url": "https://github.com/s-toolkit/markdown-to-html-converter-nvda-addon/releases/download/1.3/markdown-to-html-converter-1.3.nvda-addon",
     "version": "1.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 602,
+    "asset_missing": false
   },
   {
     "id": "updateChannel",
@@ -1304,8 +1304,8 @@
     "url": "https://github.com/nvda-es/updateChannel/releases/download/v1.15/updateChannel-1.15.nvda-addon",
     "version": "1.15",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3815,
+    "asset_missing": false
   },
   {
     "id": "searchWith",
@@ -1313,8 +1313,8 @@
     "url": "https://github.com/ibrahim-s/searchWith/releases/download/2.6.6/searchWith-2.6.6.nvda-addon",
     "version": "2.6.6",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3043,
+    "asset_missing": false
   },
   {
     "id": "numpadNavMode",
@@ -1322,8 +1322,8 @@
     "url": "https://github.com/opensourcesys/numpadNavMode/releases/download/v24.1.4/numpadNavMode-24.1.4.nvda-addon",
     "version": "24.1.4",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 4671,
+    "asset_missing": false
   },
   {
     "id": "wordCount",
@@ -1331,8 +1331,8 @@
     "url": "https://github.com/ruifontes/wordCount/releases/download/2024.03.24/wordCount-2024.03.24.nvda-addon",
     "version": "2024.03.24",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 6370,
+    "asset_missing": false
   },
   {
     "id": "bluetoothaudio",
@@ -1340,8 +1340,8 @@
     "url": "https://github.com/mltony/nvda-bluetooth-audio/releases/download/v1.5.3/bluetoothaudio-1.5.3.nvda-addon",
     "version": "1.5.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 11570,
+    "asset_missing": false
   },
   {
     "id": "objLocTones",
@@ -1349,8 +1349,8 @@
     "url": "https://github.com/dbernaca/objLocationTones/releases/download/25.1.0/objLocTones-25.1.0.nvda-addon",
     "version": "25.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1065,
+    "asset_missing": false
   },
   {
     "id": "whatsappImageDescriber",
@@ -1358,8 +1358,8 @@
     "url": "https://github.com/jasonpython50/whatsappImageDescriber/releases/download/v25.0.0/whatsappImageDescriber-25.1.0.nvda-addon",
     "version": "25.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1993,
+    "asset_missing": false
   },
   {
     "id": "lambda",
@@ -1367,8 +1367,8 @@
     "url": "https://github.com/lambda-nvda/lambdaNvda/releases/download/1.4.2/lambda-1.4.2.nvda-addon",
     "version": "1.4.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3357,
+    "asset_missing": false
   },
   {
     "id": "charDescMerge",
@@ -1376,8 +1376,8 @@
     "url": "https://github.com/addonWorkshop/charDescMerge/releases/download/v1.0.0-stable/charDescMerge-1.0.0.nvda-addon",
     "version": "1.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 211,
+    "asset_missing": false
   },
   {
     "id": "crashHero",
@@ -1385,8 +1385,8 @@
     "url": "https://github.com/derekriemer/nvda-crashHero/releases/download/2.0.4/crashHero-2.0.4.nvda-addon",
     "version": "2.0.4",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 530,
+    "asset_missing": false
   },
   {
     "id": "ClipboardContentEditor",
@@ -1394,8 +1394,8 @@
     "url": "https://github.com/fauzan-january/clipboard-content-editor/releases/download/v1.0.0/ClipboardContentEditor-1.0.0.nvda-addon",
     "version": "1.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 46,
+    "asset_missing": false
   },
   {
     "id": "remote",
@@ -1403,8 +1403,8 @@
     "url": "https://github.com/NVDARemote/NVDARemote/releases/download/v2.6.4/remote-2.6.4.nvda-addon",
     "version": "2.6.4",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 44342,
+    "asset_missing": false
   },
   {
     "id": "controlUsageAssistant",
@@ -1412,8 +1412,8 @@
     "url": "https://github.com/nvdaes/controlUsageAssistant/releases/download/20250809.0.0/controlUsageAssistant-20250809.0.0.nvda-addon",
     "version": "20250809.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2169,
+    "asset_missing": false
   },
   {
     "id": "Autoclip",
@@ -1421,8 +1421,8 @@
     "url": "https://github.com/mzanm/NVDAAutoclip/releases/download/v1.3.3/Autoclip.nvda-addon",
     "version": "1.3.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2079,
+    "asset_missing": false
   },
   {
     "id": "eastern_armenian_voices",
@@ -1437,8 +1437,8 @@
     "url": "https://github.com/mltony/nvda-indent-nav/releases/download/v2.2.7/IndentNav-2.2.7.nvda-addon",
     "version": "2.2.7",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2150,
+    "asset_missing": false
   },
   {
     "id": "goldenCursor",
@@ -1446,8 +1446,8 @@
     "url": "https://github.com/nvda-es/goldenCursor/releases/download/6.12/goldenCursor-6.12.nvda-addon",
     "version": "6.12",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 9590,
+    "asset_missing": false
   },
   {
     "id": "toolbarsExplorer",
@@ -1455,8 +1455,8 @@
     "url": "https://github.com/ABuffEr/toolbarsExplorer/releases/download/v1.9.0/toolbarsExplorer-1.9.0.nvda-addon",
     "version": "1.9.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2430,
+    "asset_missing": false
   },
   {
     "id": "enDashBash",
@@ -1464,8 +1464,8 @@
     "url": "https://github.com/codeofdusk/endashbash-nvda/releases/download/v1.0.1/enDashBash-1.0.1.nvda-addon",
     "version": "1.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 841,
+    "asset_missing": false
   },
   {
     "id": "evtTracker",
@@ -1473,8 +1473,8 @@
     "url": "https://github.com/opensourcesys/evtTracker/releases/download/25.1/evtTracker-25.3.nvda-addon",
     "version": "25.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 372,
+    "asset_missing": false
   },
   {
     "id": "PPAWakeUp",
@@ -1482,8 +1482,8 @@
     "url": "https://github.com/chaichaimee/PPAWakeUp/releases/download/v2026.1/PPAWakeUp-V2026.1.nvda-addon",
     "version": "2026.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 100,
+    "asset_missing": false
   },
   {
     "id": "readonlyProfiles",
@@ -1491,8 +1491,8 @@
     "url": "https://github.com/nvdaes/readonlyProfiles/releases/download/1.0.0/readonlyProfiles-1.0.0.nvda-addon",
     "version": "1.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 385,
+    "asset_missing": false
   },
   {
     "id": "VLC",
@@ -1500,8 +1500,8 @@
     "url": "https://github.com/javidominguez/VLC/releases/download/2025.1.0/VLC-2025.1.0.nvda-addon",
     "version": "2025.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 13238,
+    "asset_missing": false
   },
   {
     "id": "espeakWitMbrola",
@@ -1509,8 +1509,8 @@
     "url": "https://github.com/FelipeZanabria/Espeak-wit-Mbrola/releases/download/v2.0/espeakWitMbrola-2.0.nvda-addon",
     "version": "2.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3207,
+    "asset_missing": false
   },
   {
     "id": "screenWrapping",
@@ -1518,8 +1518,8 @@
     "url": "https://github.com/hamadatrichine/nvda-screen-wrapping/releases/download/V2.3.1/screenWrapping-2.3.1.nvda-addon",
     "version": "2.3.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1998,
+    "asset_missing": false
   },
   {
     "id": "tTalk",
@@ -1527,8 +1527,8 @@
     "url": "https://github.com/chaichaimee/tTalk/releases/download/v2025.7/tTalk-v2025.7.nvda-addon",
     "version": "2025.7",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 471,
+    "asset_missing": false
   },
   {
     "id": "whatsAppPlus",
@@ -1545,8 +1545,8 @@
     "url": "https://github.com/mltony/nvda-browser-nav/releases/download/v2.7.6/browsernav-2.7.6.nvda-addon",
     "version": "2.7.6",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2923,
+    "asset_missing": false
   },
   {
     "id": "switchSynth",
@@ -1554,8 +1554,8 @@
     "url": "https://github.com/tspivey/switchSynth/releases/download/v1.06.4/switchSynth-1.06.4.nvda-addon",
     "version": "1.06.4",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2947,
+    "asset_missing": false
   },
   {
     "id": "VolumePower",
@@ -1563,8 +1563,8 @@
     "url": "https://github.com/chaichaimee/VolumePower/releases/download/v2026.1/VolumePower-v2026.1.nvda-addon",
     "version": "2026.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 52,
+    "asset_missing": false
   },
   {
     "id": "contador",
@@ -1572,8 +1572,8 @@
     "url": "https://github.com/marcomolinaleija/contador/releases/download/v2.0.6/contador-2.0.6.nvda-addon",
     "version": "2.0.6",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 444,
+    "asset_missing": false
   },
   {
     "id": "RHVoice",
@@ -1588,8 +1588,8 @@
     "url": "https://github.com/CoBC/easyTableNavigator-1/releases/download/2.6/easyTableNavigator-2.6.nvda-addon",
     "version": "2.6",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 4013,
+    "asset_missing": false
   },
   {
     "id": "MetaTrader",
@@ -1597,8 +1597,8 @@
     "url": "https://github.com/hamidrehzaey/MetaTrader-nvda-addon/releases/download/v2025.1.2/MetaTrader_v2025.1.2.nvda-addon",
     "version": "2025.1.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 724,
+    "asset_missing": false
   },
   {
     "id": "eMule",
@@ -1606,8 +1606,8 @@
     "url": "https://github.com/nvdaes/emule/releases/download/24.0.0/eMule-24.0.0.nvda-addon",
     "version": "24.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1041,
+    "asset_missing": false
   },
   {
     "id": "WiFiMonitor",
@@ -1624,8 +1624,8 @@
     "url": "https://github.com/nvdaes/readFeeds/releases/download/43.0.0/readFeeds-43.0.0.nvda-addon",
     "version": "43.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2557,
+    "asset_missing": false
   },
   {
     "id": "tesseractOCR",
@@ -1633,8 +1633,8 @@
     "url": "https://github.com/ruifontes/tesseractOCR/releases/download/2024.11.02/tesseractOCR-2024.11.02.nvda-addon",
     "version": "2024.11.02",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 9384,
+    "asset_missing": false
   },
   {
     "id": "QuickInfo",
@@ -1642,8 +1642,8 @@
     "url": "https://github.com/rajathtirumangalam/quickinfo-nvda/releases/download/v1.0/quickInfo.nvda-addon",
     "version": "1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 48,
+    "asset_missing": false
   },
   {
     "id": "VisionAssistant",
@@ -1651,8 +1651,8 @@
     "url": "https://github.com/mahmoodhozhabri/VisionAssistantPro/releases/download/v3.6.0/VisionAssistant-3.6.0.nvda-addon",
     "version": "3.6.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1858,
+    "asset_missing": false
   },
   {
     "id": "WorldVoice",
@@ -1660,8 +1660,8 @@
     "url": "https://github.com/tsengwoody/WorldVoice/releases/download/v5.2.1/WorldVoice-5.2.1.nvda-addon",
     "version": "5.2.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 4895,
+    "asset_missing": false
   },
   {
     "id": "WordBridge",
@@ -1669,8 +1669,8 @@
     "url": "https://github.com/coseeing/WordBridge/releases/download/v2025.6.10/WordBridge-2025.6.10.nvda-addon",
     "version": "2025.6.10",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 596,
+    "asset_missing": false
   },
   {
     "id": "speechHistory",
@@ -1678,8 +1678,8 @@
     "url": "https://github.com/jscholes/nvda-speech-history/releases/download/v2025.1/speechHistory-v2025.1.nvda-addon",
     "version": "2025.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 17630,
+    "asset_missing": false
   },
   {
     "id": "ProgressReader",
@@ -1687,8 +1687,8 @@
     "url": "https://github.com/vbprofi/Progress-Reader-NVDA-Addon/releases/download/v0.3.0/ProgressReader-0.3.0.nvda-addon",
     "version": "0.3.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 835,
+    "asset_missing": false
   },
   {
     "id": "landropPlus",
@@ -1696,8 +1696,8 @@
     "url": "https://github.com/RPTools-org/landropPlus/releases/download/v2023.05.23/landropPlus-2023.05.23.nvda-addon",
     "version": "2023.05.23",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1725,
+    "asset_missing": false
   },
   {
     "id": "clipManager",
@@ -1705,8 +1705,8 @@
     "url": "https://github.com/diamondStar35/clipManager/releases/download/v0.6/clip_manager-0.6.nvda-addon",
     "version": "0.6",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1727,
+    "asset_missing": false
   },
   {
     "id": "reportSymbols",
@@ -1714,8 +1714,8 @@
     "url": "https://github.com/nvdaes/reportSymbols/releases/download/30.0.0/reportSymbols-30.0.0.nvda-addon",
     "version": "30.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2147,
+    "asset_missing": false
   },
   {
     "id": "net_speed_counter",
@@ -1723,8 +1723,8 @@
     "url": "https://github.com/wl-fw/NVDA-network_speed_counter/releases/download/25.11.1/net_speed_counter-25.11.1.nvda-addon",
     "version": "25.11.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 290,
+    "asset_missing": false
   },
   {
     "id": "visionAccess",
@@ -1732,8 +1732,8 @@
     "url": "https://github.com/sarperarikan/vision-access-nvda-addon/releases/download/vision-access-v-1-0-1/vision-access.nvda-addon",
     "version": "1.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 136,
+    "asset_missing": false
   },
   {
     "id": "baiduTranslation",
@@ -1741,8 +1741,8 @@
     "url": "https://github.com/huaiyinfeilong/baidutranslation/releases/download/v1.7.7/baiduTranslation-1.7.6.nvda-addon",
     "version": "1.7.6",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 566,
+    "asset_missing": false
   },
   {
     "id": "subtitle_reader",
@@ -1750,8 +1750,8 @@
     "url": "https://github.com/maxe-hsieh/subtitle_reader/releases/download/Snow_halation/subtitle_reader.nvda-addon",
     "version": "3.60",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2841,
+    "asset_missing": false
   },
   {
     "id": "soundSplitter",
@@ -1759,8 +1759,8 @@
     "url": "https://github.com/opensourcesys/soundSplitter/releases/download/v24.0.4/soundSplitter-24.0.4.nvda-addon",
     "version": "24.0.4",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 4084,
+    "asset_missing": false
   },
   {
     "id": "continuousClock",
@@ -1768,8 +1768,8 @@
     "url": "https://github.com/integrumart/continuous_clock/releases/download/v9.9/continuousClock-9.9.nvda-addon",
     "version": "9.9",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 48,
+    "asset_missing": false
   },
   {
     "id": "AudioToggles",
@@ -1786,8 +1786,8 @@
     "url": "https://github.com/dave090679/virtualbox/releases/download/0.5/virtualbox-0.5.nvda-addon",
     "version": "0.5",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 561,
+    "asset_missing": false
   },
   {
     "id": "timezone",
@@ -1795,8 +1795,8 @@
     "url": "https://github.com/munawarb/NVDA-Time-Zoner/releases/download/v3.04/timezone-3.04.nvda-addon",
     "version": "3.04",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1466,
+    "asset_missing": false
   },
   {
     "id": "agenda",
@@ -1804,8 +1804,8 @@
     "url": "https://github.com/ruifontes/agenda-for-NVDA/releases/download/2025.06.11/agenda-2025.06.11.nvda-addon",
     "version": "2025.06.11",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1961,
+    "asset_missing": false
   },
   {
     "id": "WeChatEnhancement",
@@ -1813,8 +1813,8 @@
     "url": "https://github.com/cary-rowen/WeChatEnhancement/releases/download/1.8.8/WeChatEnhancement-1.8.8.nvda-addon",
     "version": "1.8.8",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1800,
+    "asset_missing": false
   },
   {
     "id": "AVC",
@@ -1822,8 +1822,8 @@
     "url": "https://github.com/RainerBrell/avc/releases/download/2025.06.16/AVC-2025.06.16.nvda-addon",
     "version": "2025.06.16",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 9962,
+    "asset_missing": false
   },
   {
     "id": "mouseEnhancement",
@@ -1831,8 +1831,8 @@
     "url": "https://github.com/hwf1324/mouseEnhancement/releases/download/v0.9.1/mouseEnhancement-0.9.1.nvda-addon",
     "version": "0.9.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 470,
+    "asset_missing": false
   },
   {
     "id": "shortcutLauncher",
@@ -1840,8 +1840,8 @@
     "url": "https://github.com/so-demonio/shortcutlauncher/releases/download/v1.0.0/ShortcutLauncher.nvda-addon",
     "version": "1.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 76,
+    "asset_missing": false
   },
   {
     "id": "applicationDictionary",
@@ -1849,8 +1849,8 @@
     "url": "https://github.com/ruifontes/applicationDictionary-/releases/download/2025.06.14/applicationDictionary-2025.06.14.nvda-addon",
     "version": "2025.06.14",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 5805,
+    "asset_missing": false
   },
   {
     "id": "customBrowseMode",
@@ -1858,8 +1858,8 @@
     "url": "https://github.com/nvdaes/customBrowseMode/releases/download/5.0.0/customBrowseMode-5.0.0.nvda-addon",
     "version": "5.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 860,
+    "asset_missing": false
   },
   {
     "id": "customSpeakTypedCharacters",
@@ -1867,8 +1867,8 @@
     "url": "https://github.com/cary-rowen/NVDA-CustomSpeakTypedCharacters/releases/download/v1.1.1/customSpeakTypedCharacters-1.1.1.nvda-addon",
     "version": "1.1.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1817,
+    "asset_missing": false
   },
   {
     "id": "AMRadio",
@@ -1876,8 +1876,8 @@
     "url": "https://github.com/jpavonabian/AMRadio-Addon/releases/download/1.5/AMRadio-1.5.nvda-addon",
     "version": "1.5",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1364,
+    "asset_missing": false
   },
   {
     "id": "sayProductNameAndVersion",
@@ -1885,8 +1885,8 @@
     "url": "https://github.com/opensourcesys/sayProductNameAndVersion/releases/download/v2025.1.0/sayProductNameAndVersion-2025.1.0.nvda-addon",
     "version": "2025.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 6752,
+    "asset_missing": false
   },
   {
     "id": "virtualKeyboard",
@@ -1894,8 +1894,8 @@
     "url": "https://github.com/w-sx/virtualKeyboard/releases/download/2025.3/virtualKeyboard-2025.3.nvda-addon",
     "version": "2025.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 936,
+    "asset_missing": false
   },
   {
     "id": "HearthstoneCardLookup",
@@ -1903,8 +1903,8 @@
     "url": "https://github.com/SamKacer/HearthstoneCardLookup/releases/download/v0.10.7/HearthstoneCardLookup-0.10.7.nvda-addon",
     "version": "0.10.7",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 197,
+    "asset_missing": false
   },
   {
     "id": "linkLibrary",
@@ -1912,8 +1912,8 @@
     "url": "https://github.com/ibrahim-s/linkLibrary/releases/download/2.2.3/linkLibrary-2.2.3.nvda-addon",
     "version": "2.2.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 174,
+    "asset_missing": false
   },
   {
     "id": "consoleLog",
@@ -1921,8 +1921,8 @@
     "url": "https://github.com/nvda-es/consoleLog/releases/download/1.3/consoleLog-1.3.nvda-addon",
     "version": "1.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2886,
+    "asset_missing": false
   },
   {
     "id": "deltaTalk",
@@ -1930,8 +1930,8 @@
     "url": "https://github.com/wendrillaksenow/deltaTalkTTS/releases/download/0.4.1/deltaTalk-0.4.1.nvda-addon",
     "version": "0.4.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 888,
+    "asset_missing": false
   },
   {
     "id": "unigram",
@@ -1948,8 +1948,8 @@
     "url": "https://github.com/ruifontes/addonsHelp/releases/download/2025.06.11/addonsHelp-2025.06.11.nvda-addon",
     "version": "2025.06.11",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 6658,
+    "asset_missing": false
   },
   {
     "id": "textInformation",
@@ -1957,8 +1957,8 @@
     "url": "https://github.com/cartertemm/text_information/releases/download/v1.4/textInformation-1.4.nvda-addon",
     "version": "1.4",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1212,
+    "asset_missing": false
   },
   {
     "id": "sayCurrentKeyboardLanguage",
@@ -1966,8 +1966,8 @@
     "url": "https://github.com/abdel792/sayCurrentKeyboardLanguage/releases/download/v25.07.03/sayCurrentKeyboardLanguage-20250703.0.0.nvda-addon",
     "version": "20250703.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1747,
+    "asset_missing": false
   },
   {
     "id": "virtualNotesForNVDA",
@@ -1975,8 +1975,8 @@
     "url": "https://github.com/juliano-lopes/virtual-notes-for-NVDA/releases/download/v1.2.0/virtualNotesForNVDA-1.2.0.nvda-addon",
     "version": "1.2.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1487,
+    "asset_missing": false
   },
   {
     "id": "nao",
@@ -1984,8 +1984,8 @@
     "url": "https://github.com/sharkboyto/nao/releases/download/v_2023.1.1/nao-2023.1.1.nvda-addon",
     "version": "2023.1.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 168481,
+    "asset_missing": false
   },
   {
     "id": "mouseWheelScrolling",
@@ -2002,8 +2002,8 @@
     "url": "https://github.com/NSoiffer/MathCATForPython/releases/download/0.7.5/MathCAT-0.7.5.nvda-addon",
     "version": "0.7.5",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2195,
+    "asset_missing": false
   },
   {
     "id": "Banking4W",
@@ -2011,8 +2011,8 @@
     "url": "https://github.com/RainerBrell/Banking4W/releases/download/2025.06.16/Banking4W-2025.06.16.nvda-addon",
     "version": "2025.06.16",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1223,
+    "asset_missing": false
   },
   {
     "id": "siamSquare",
@@ -2020,8 +2020,8 @@
     "url": "https://github.com/chaichaimee/siamSquare/releases/download/v2026.1/siamSquare-v2026.1.nvda-addon",
     "version": "2026.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 56,
+    "asset_missing": false
   },
   {
     "id": "withSounds",
@@ -2029,8 +2029,8 @@
     "url": "https://github.com/nvdacn/withSounds/releases/download/0.0.4/withSounds-0.0.4.nvda-addon",
     "version": "0.0.4",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1402,
+    "asset_missing": false
   },
   {
     "id": "IntelliJImproved",
@@ -2038,8 +2038,8 @@
     "url": "https://github.com/SamKacer/IntelliJ_NVDA_Addon/releases/download/v1.5.1/IntelliJImproved-1.5.1.nvda-addon",
     "version": "1.5.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 199,
+    "asset_missing": false
   },
   {
     "id": "audiocinemateca",
@@ -2047,8 +2047,8 @@
     "url": "https://github.com/nvda-es/Audiocinemateca-para-NVDA/releases/download/1.3/audiocinemateca-1.3.nvda-addon",
     "version": "1.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 4189,
+    "asset_missing": false
   },
   {
     "id": "dictionaries",
@@ -2056,8 +2056,8 @@
     "url": "https://github.com/ruifontes/Dictionaries/releases/download/2025.08.11/dictionaries-2025.08.11.nvda-addon",
     "version": "2025.08.11",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2901,
+    "asset_missing": false
   },
   {
     "id": "thunderbirdPlusG5",
@@ -2065,8 +2065,8 @@
     "url": "https://github.com/RPTools-org/thunderbirdPlusG5/releases/download/v2601.09.00/thunderbirdPlusG5-2601.09.00.nvda-addon",
     "version": "2601.09.00",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1309,
+    "asset_missing": false
   },
   {
     "id": "wordNav",
@@ -2074,8 +2074,8 @@
     "url": "https://github.com/mltony/nvda-word-nav/releases/download/v2.2.13/wordNav-2.2.13.nvda-addon",
     "version": "2.2.13",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1622,
+    "asset_missing": false
   },
   {
     "id": "clipSaver",
@@ -2083,8 +2083,8 @@
     "url": "https://github.com/integrumart/clipsaver/releases/download/v5.0/clipsaver-5.0.nvda-addon",
     "version": "5.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 73,
+    "asset_missing": false
   },
   {
     "id": "WebDataSSML",
@@ -2092,8 +2092,8 @@
     "url": "https://github.com/dan-tripp/nvda-add-on-data-ssml/releases/download/0.2/WebDataSSML-0.2.nvda-addon",
     "version": "0.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 161,
+    "asset_missing": false
   },
   {
     "id": "invisinote",
@@ -2101,8 +2101,8 @@
     "url": "https://github.com/ClippyCat/invisinote/releases/download/v1.2/invisinote-1.2.nvda-addon",
     "version": "1.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 275,
+    "asset_missing": false
   },
   {
     "id": "gestureDuplicate",
@@ -2110,8 +2110,8 @@
     "url": "https://github.com/chaichaimee/gestureDuplicate/releases/download/v2026.1/gestureDuplicate-v2026.1.nvda-addon",
     "version": "2026.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 80,
+    "asset_missing": false
   },
   {
     "id": "BasicYoutubeDownloader",
@@ -2119,8 +2119,8 @@
     "url": "https://github.com/borfirbora/BasicYoutubeDownloader/releases/download/v2.2/BasicYoutubeDownloader-2.2.nvda-addon",
     "version": "2.0.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 8363,
+    "asset_missing": false
   },
   {
     "id": "EasySoundRecorder",
@@ -2128,8 +2128,8 @@
     "url": "https://github.com/DarkoMilosevic86/EasySoundRecorder/releases/download/v1.1.1/EasySoundRecorder-1.1.1.nvda-addon",
     "version": "1.1.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1852,
+    "asset_missing": false
   },
   {
     "id": "accentManager",
@@ -2137,8 +2137,8 @@
     "url": "https://github.com/derekriemer/accentManager/releases/download/1.0/accentManager-1.0.nvda-addon",
     "version": "1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1069,
+    "asset_missing": false
   },
   {
     "id": "androidStudio",
@@ -2155,8 +2155,8 @@
     "url": "https://github.com/javidominguez/Calibre/releases/download/2025.1.0/calibre-2025.1.0.nvda-addon",
     "version": "2025.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2252,
+    "asset_missing": false
   },
   {
     "id": "showContextMenu",
@@ -2164,8 +2164,8 @@
     "url": "https://github.com/senya-pol/showContextMenu/releases/download/v1.1/showContextMenu-1.1.nvda-addon",
     "version": "1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 267,
+    "asset_missing": false
   },
   {
     "id": "screenshots",
@@ -2173,8 +2173,8 @@
     "url": "https://github.com/javidominguez/screenshots/releases/download/2025.1/screenshots-2025.1.0.nvda-addon",
     "version": "2025.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 4181,
+    "asset_missing": false
   },
   {
     "id": "unigetui",
@@ -2182,8 +2182,8 @@
     "url": "https://github.com/dave090679/unigetui/releases/download/0.5/unigetui-0.5.nvda-addon",
     "version": "0.5",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 324,
+    "asset_missing": false
   },
   {
     "id": "keepAwake",
@@ -2191,8 +2191,8 @@
     "url": "https://github.com/javidominguez/keepAwake/releases/download/2025.1.2/keepAwake-2025.1.2.nvda-addon",
     "version": "2025.1.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 717,
+    "asset_missing": false
   },
   {
     "id": "nvdaChatGPT",
@@ -2200,8 +2200,8 @@
     "url": "https://github.com/mo29cg/nvda-chatGPT/releases/download/v0.26/nvdaChatGPT-0.26.nvda-addon",
     "version": "0.26",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 6763,
+    "asset_missing": false
   },
   {
     "id": "killNVDA",
@@ -2209,8 +2209,8 @@
     "url": "https://github.com/tspivey/killNVDA/releases/download/v0.6.0/killNVDA-0.6.0.nvda-addon",
     "version": "0.6.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1724,
+    "asset_missing": false
   },
   {
     "id": "CurrencyConverter",
@@ -2218,8 +2218,8 @@
     "url": "https://github.com/mesteranas/CurrencyConverter-nvda-add-on/releases/download/v2.0/currency_converter_2.0.nvda-addon",
     "version": "2.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2515,
+    "asset_missing": false
   },
   {
     "id": "xPlorer",
@@ -2227,8 +2227,8 @@
     "url": "https://github.com/chaichaimee/xPlorer/releases/download/v2026.1/xPlorer-v2026.1.nvda-addon",
     "version": "2026.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 598,
+    "asset_missing": false
   },
   {
     "id": "filezilla",
@@ -2236,8 +2236,8 @@
     "url": "https://github.com/Nael-Sayegh/filezilla/releases/download/2025.01.01/filezilla-2025.01.01.nvda-addon",
     "version": "2025.01.01",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1514,
+    "asset_missing": false
   },
   {
     "id": "TransIPA",
@@ -2245,8 +2245,8 @@
     "url": "https://github.com/cary-rowen/TransIPA/releases/download/v1.2.3/TransIPA-1.2.3.nvda-addon",
     "version": "1.2.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 852,
+    "asset_missing": false
   },
   {
     "id": "biblia-acessivel",
@@ -2261,8 +2261,8 @@
     "url": "https://github.com/chaichaimee/soundAlign/releases/download/v2025.12/soundAlign-v2025.12.nvda-addon",
     "version": "2025.12",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 300,
+    "asset_missing": false
   },
   {
     "id": "QQEnhancement",
@@ -2270,8 +2270,8 @@
     "url": "https://github.com/nvdacn/QQEnhancement/releases/download/v1.2.2/QQEnhancement-1.2.2.nvda-addon",
     "version": "1.2.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2191,
+    "asset_missing": false
   },
   {
     "id": "YoutubeChatClientForNVDA",
@@ -2279,8 +2279,8 @@
     "url": "https://github.com/AdemErdogan007/YoutubeChatClientForNVDA/releases/download/V1.6/Youtube-Chat-Client-For-NVDA-V1.6.nvda-addon",
     "version": "1.6",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 217,
+    "asset_missing": false
   },
   {
     "id": "dual_voice",
@@ -2288,8 +2288,8 @@
     "url": "https://github.com/Mahmood-Taghavi/dual_voice/releases/download/v5.3/dual_voice-5.3.nvda-addon",
     "version": "5.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 7954,
+    "asset_missing": false
   },
   {
     "id": "googleDocs",
@@ -2297,8 +2297,8 @@
     "url": "https://github.com/mltony/nvda-google-docs/releases/download/v1.4.2/googleDocs-1.4.2.nvda-addon",
     "version": "1.4.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3455,
+    "asset_missing": false
   },
   {
     "id": "logViewer",
@@ -2306,8 +2306,8 @@
     "url": "https://github.com/chaichaimee/logViewer/releases/download/v2025.12/logViewer-v2025.12.nvda-addon",
     "version": "2025.12",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 155,
+    "asset_missing": false
   },
   {
     "id": "whatsapp-normalizer",
@@ -2315,8 +2315,8 @@
     "url": "https://github.com/MLMatheus/whatsapp-normalizer/releases/download/v1.1/whatsapp-normalizer-1.1.nvda-addon",
     "version": "1.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1776,
+    "asset_missing": false
   },
   {
     "id": "objPad",
@@ -2324,8 +2324,8 @@
     "url": "https://github.com/ChrisDuffley/objPad/releases/download/25.06/objPad-25.12.nvda-addon",
     "version": "25.12",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3761,
+    "asset_missing": false
   },
   {
     "id": "whiteNoise",
@@ -2333,8 +2333,8 @@
     "url": "https://github.com/albzan/whiteNoise/releases/download/2023.1/whiteNoise-2023.1.nvda-addon",
     "version": "2023.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2776,
+    "asset_missing": false
   },
   {
     "id": "NotepadPlusPlus",
@@ -2342,8 +2342,8 @@
     "url": "https://github.com/derekriemer/nvda-notepadPlusPlus/releases/download/2025.1/NotepadPlusPlus-2023.06.2.nvda-addon",
     "version": "2023.06.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1706,
+    "asset_missing": false
   },
   {
     "id": "Hear2ReadNG",
@@ -2351,8 +2351,8 @@
     "url": "https://github.com/Hear2Read/hear2read-ng-nvda/releases/download/v1.8.1/Hear2ReadNG.1.8.1.nvda-addon",
     "version": "1.8.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1381,
+    "asset_missing": false
   },
   {
     "id": "SanamLuang",
@@ -2360,8 +2360,8 @@
     "url": "https://github.com/chaichaimee/SanamLuang/releases/download/v2026.1/SanamLuang-v2026.1.nvda-addon",
     "version": "2026.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 52,
+    "asset_missing": false
   },
   {
     "id": "pdfReader",
@@ -2369,8 +2369,8 @@
     "url": "https://github.com/techvisionarynp/pdf-reader-nvda-addon/releases/download/1.0/pdf-reader-1.0.nvda-addon",
     "version": "1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 922,
+    "asset_missing": false
   },
   {
     "id": "CloudVision",
@@ -2378,8 +2378,8 @@
     "url": "https://github.com/alekssamos/cloudvision/releases/download/v6.1.8/CloudVision.nvda-addon",
     "version": "6.1.8",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 8427,
+    "asset_missing": false
   },
   {
     "id": "ifInterpreters",
@@ -2387,8 +2387,8 @@
     "url": "https://github.com/nvdaes/ifInterpreters/releases/download/5.0.0/ifInterpreters-5.0.0.nvda-addon",
     "version": "5.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1641,
+    "asset_missing": false
   },
   {
     "id": "extendedWinamp",
@@ -2396,8 +2396,8 @@
     "url": "https://github.com/addonFactory/extendedWinamp/releases/download/v2.3.1-stable/extendedWinamp-2.3.1.nvda-addon",
     "version": "2.3.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1766,
+    "asset_missing": false
   },
   {
     "id": "Sight-Free-Talon",
@@ -2405,8 +2405,8 @@
     "url": "https://github.com/C-Loftus/sight-free-talon/releases/download/v1.0.1/Sight-Free-Talon-1.0.1.nvda-addon",
     "version": "1.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1084,
+    "asset_missing": false
   },
   {
     "id": "SentenceNav",
@@ -2414,8 +2414,8 @@
     "url": "https://github.com/mltony/nvda-sentence-nav/releases/download/v2.14.1/SentenceNav-2.14.1.nvda-addon",
     "version": "2.14.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3321,
+    "asset_missing": false
   },
   {
     "id": "fenReader",
@@ -2423,8 +2423,8 @@
     "url": "https://github.com/javidominguez/FenReader/releases/download/2024.1.0/fenReader-2024.1.0.nvda-addon",
     "version": "2024.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1965,
+    "asset_missing": false
   },
   {
     "id": "perky",
@@ -2432,8 +2432,8 @@
     "url": "https://github.com/nvdaes/perky/releases/download/10.0.0/perky-10.0.0.nvda-addon",
     "version": "10.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 599,
+    "asset_missing": false
   },
   {
     "id": "MSEdgeDiscardAnnouncements",
@@ -2441,8 +2441,8 @@
     "url": "https://github.com/addonFactory/MSEdgeDiscardAnnouncements/releases/download/v0.10.3-stable/MSEdgeDiscardAnnouncements-0.10.3.nvda-addon",
     "version": "0.10.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1866,
+    "asset_missing": false
   },
   {
     "id": "TranslateAdvanced",
@@ -2450,8 +2450,8 @@
     "url": "https://github.com/hxebolax/TranslateAdvanced/releases/download/2024.09.19/TranslateAdvanced-2024.09.19.nvda-addon",
     "version": "2024.09.19",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 8077,
+    "asset_missing": false
   },
   {
     "id": "LanguageIdent",
@@ -2468,8 +2468,8 @@
     "url": "https://github.com/chaichaimee/xTrack/releases/download/v2025.12/xTrack-v2025.12.nvda-addon",
     "version": "2025.12",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 364,
+    "asset_missing": false
   },
   {
     "id": "quickNote",
@@ -2477,8 +2477,8 @@
     "url": "https://github.com/integrumart/nvdahizlinot/releases/download/v5.0/quickNote.nvda-addon",
     "version": "5.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 43,
+    "asset_missing": false
   },
   {
     "id": "SpeaKey",
@@ -2486,8 +2486,8 @@
     "url": "https://github.com/albzan/SpeaKey/releases/download/2023.1/SpeaKey-2023.1.nvda-addon",
     "version": "2023.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1429,
+    "asset_missing": false
   },
   {
     "id": "TeleNVDA",
@@ -2495,8 +2495,8 @@
     "url": "https://github.com/nvda-es/TeleNVDA/releases/download/2025.8.23/TeleNVDA-2025.8.23.nvda-addon",
     "version": "2025.8.23",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 18373,
+    "asset_missing": false
   },
   {
     "id": "AI image generator",
@@ -2504,8 +2504,8 @@
     "url": "https://github.com/techvisionaryteam/ai-image-generator-nvda-addon/releases/download/0.24/AI-image-generator-0.24.nvda-addon",
     "version": "0.24",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1700,
+    "asset_missing": false
   },
   {
     "id": "goldwave",
@@ -2513,8 +2513,8 @@
     "url": "https://github.com/day-garwood/NVDA-GoldWave/releases/download/25.08.1/goldwave-25.09.nvda-addon",
     "version": "25.09",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 6975,
+    "asset_missing": false
   },
   {
     "id": "contactsManager",
@@ -2522,8 +2522,8 @@
     "url": "https://github.com/EdilbertoFonseca/contactsManager/releases/download/v2025.6.2/contactsManager-2025.6.2.nvda-addon",
     "version": "2025.6.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 572,
+    "asset_missing": false
   },
   {
     "id": "StayAwake",
@@ -2531,8 +2531,8 @@
     "url": "https://github.com/rajathtirumangalam/stayAwake/releases/download/v1.0/stayAwake.nvda-addon",
     "version": "1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 49,
+    "asset_missing": false
   },
   {
     "id": "AIChatbot",
@@ -2540,8 +2540,8 @@
     "url": "https://github.com/techvisionaryteam/AIChatbot-nvda-addon/releases/download/0.1/AIChatbot-0.1.nvda-addon",
     "version": "0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2726,
+    "asset_missing": false
   },
   {
     "id": "jumpToWindow",
@@ -2549,8 +2549,8 @@
     "url": "https://github.com/ctoth/jumpToWindow/releases/download/v0.6/jumpToWindow-0.6.nvda-addon",
     "version": "0.6",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 333,
+    "asset_missing": false
   },
   {
     "id": "WakeSpeaker",
@@ -2558,8 +2558,8 @@
     "url": "https://github.com/davidacm/WakeSpeaker/releases/download/0.4.0/WakeSpeaker-0.4.0.nvda-addon",
     "version": "0.4.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2693,
+    "asset_missing": false
   },
   {
     "id": "clipspeak",
@@ -2567,8 +2567,8 @@
     "url": "https://github.com/ruifontes/clipspeak/releases/download/2025.06.13/clipspeak-2025.06.13.nvda-addon",
     "version": "2025.06.13",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 12653,
+    "asset_missing": false
   },
   {
     "id": "KoruzBiz_MurText",
@@ -2576,8 +2576,8 @@
     "url": "https://github.com/koruzbiz/murtext/releases/download/2.2.2/KoruzBiz_MurText-2.2.2.nvda-addon",
     "version": "2.2.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 135,
+    "asset_missing": false
   },
   {
     "id": "remapApplicationsKey",
@@ -2585,8 +2585,8 @@
     "url": "https://github.com/ruifontes/RemapKeyAplication-para-NVDA/releases/download/2025.07.14/remapApplicationsKey-2025.07.14.nvda-addon",
     "version": "2025.07.14",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2271,
+    "asset_missing": false
   },
   {
     "id": "nvdaDevTestToolbox",
@@ -2594,8 +2594,8 @@
     "url": "https://github.com/CyrilleB79/NVDA-Dev-Test-Toolbox/releases/download/V8.0/nvdaDevTestToolbox-8.0.nvda-addon",
     "version": "8.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 674,
+    "asset_missing": false
   },
   {
     "id": "reviewCursorCopier",
@@ -2603,8 +2603,8 @@
     "url": "https://github.com/tuukkao/nvda-reviewCursorCopier/releases/download/1.8/reviewCursorCopier-1.8.nvda-addon",
     "version": "1.8",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 3110,
+    "asset_missing": false
   },
   {
     "id": "unigramPlus",
@@ -2612,8 +2612,8 @@
     "url": "https://github.com/Kostya-Gladkiy/UnigramPlus/releases/download/5.3.0/unigramPlus-5.3.0.nvda-addon",
     "version": "5.3.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 8170,
+    "asset_missing": false
   },
   {
     "id": "unmute",
@@ -2621,8 +2621,8 @@
     "url": "https://github.com/grisov/Unmute/releases/download/v1.6.0/unmute-1.6.0.nvda-addon",
     "version": "1.6.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 7902,
+    "asset_missing": false
   },
   {
     "id": "ttAnnouncer",
@@ -2639,8 +2639,8 @@
     "url": "https://github.com/marlon-sousa/EnhancedDictionaries/releases/download/1.6.0/EnhancedDictionaries-1.6.0.nvda-addon",
     "version": "1.6.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 992,
+    "asset_missing": false
   },
   {
     "id": "cursorLocator",
@@ -2648,8 +2648,8 @@
     "url": "https://github.com/nvdaes/cursorLocator/releases/download/19.0.0/cursorLocator-19.0.0.nvda-addon",
     "version": "19.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1588,
+    "asset_missing": false
   },
   {
     "id": "invisible",
@@ -2657,8 +2657,8 @@
     "url": "https://github.com/chaichaimee/invisible/releases/download/v2025.14/invisible-v2025.14.nvda-addon",
     "version": "2025.14",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 83,
+    "asset_missing": false
   },
   {
     "id": "speechLogger",
@@ -2666,8 +2666,8 @@
     "url": "https://github.com/opensourcesys/speechLogger/releases/download/v25.1.0/speechLogger-25.1.0.nvda-addon",
     "version": "25.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1957,
+    "asset_missing": false
   },
   {
     "id": "enhancedObjectNavigation",
@@ -2675,8 +2675,8 @@
     "url": "https://github.com/Emil-18/enhanced-object-navigation/releases/download/v0.3/enhancedObjectNavigation-0.3.nvda-addon",
     "version": "0.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 326,
+    "asset_missing": false
   },
   {
     "id": "appOn",
@@ -2684,8 +2684,8 @@
     "url": "https://github.com/chaichaimee/appON/releases/download/v2025.8/appOn-V.2025.8.nvda-addon",
     "version": "2025.8",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 623,
+    "asset_missing": false
   },
   {
     "id": "dropbox",
@@ -2693,8 +2693,8 @@
     "url": "https://github.com/ruifontes/dropbox/releases/download/2025.06.13/dropbox-2025.06.13.nvda-addon",
     "version": "2025.06.13",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 5450,
+    "asset_missing": false
   },
   {
     "id": "zoomEnhancements",
@@ -2702,8 +2702,8 @@
     "url": "https://github.com/mohammad-suliman/zoom-enhancements/releases/download/v1.2/zoomEnhancements-1.2.nvda-addon",
     "version": "1.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 11052,
+    "asset_missing": false
   },
   {
     "id": "enhancedAnnotations",
@@ -2711,8 +2711,8 @@
     "url": "https://github.com/nvdaes/enhancedAnnotations/releases/download/21.0.0/enhancedAnnotations-21.0.0.nvda-addon",
     "version": "21.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1279,
+    "asset_missing": false
   },
   {
     "id": "simpleMediaPlayer",
@@ -2720,8 +2720,8 @@
     "url": "https://github.com/firatatass/basit_medya_oynatici/releases/download/v1.0/basit_medya_oynatici.nvda-addon",
     "version": "1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 61,
+    "asset_missing": false
   },
   {
     "id": "clipContentsDesigner",
@@ -2729,8 +2729,8 @@
     "url": "https://github.com/nvdaes/clipContentsDesigner/releases/download/50.0.0/clipContentsDesigner-50.0.0.nvda-addon",
     "version": "50.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2940,
+    "asset_missing": false
   },
   {
     "id": "Virtual_explorer",
@@ -2738,8 +2738,8 @@
     "url": "https://github.com/marcomolinaleija/virtual_explorer/releases/download/v2.0.0/Virtual_explorer-2.0.0.nvda-addon",
     "version": "2.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 162,
+    "asset_missing": false
   },
   {
     "id": "easyNavigation",
@@ -2747,8 +2747,8 @@
     "url": "https://github.com/javidominguez/easyNavigation/releases/download/2025.1.0/easyNavigation-2025.1.0.nvda-addon",
     "version": "2025.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1929,
+    "asset_missing": false
   },
   {
     "id": "specialCharacter",
@@ -2756,8 +2756,8 @@
     "url": "https://github.com/chaichaimee/specialCharacter/releases/download/v2026.1/specialCharacter-V.2026.1.nvda-addon",
     "version": "2026.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 144,
+    "asset_missing": false
   },
   {
     "id": "SimpleCalculator",
@@ -2765,8 +2765,8 @@
     "url": "https://github.com/mesteranas/SimpleCalculator/releases/download/v2.0/SimpleCalculator.nvda-addon",
     "version": "2.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2316,
+    "asset_missing": false
   },
   {
     "id": "ignoreBlanksIndentationReporting",
@@ -2774,8 +2774,8 @@
     "url": "https://github.com/SamKacer/IgnoreBlanksIndentation/releases/download/v0.5/ignoreBlanksIndentationReporting-0.5.nvda-addon",
     "version": "0.5",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1411,
+    "asset_missing": false
   },
   {
     "id": "resourceMonitor",
@@ -2783,8 +2783,8 @@
     "url": "https://github.com/kefaslungu/resourceMonitor/releases/download/25.09/resourceMonitor-25.12.nvda-addon",
     "version": "25.12",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 9165,
+    "asset_missing": false
   },
   {
     "id": "quickNotetaker",
@@ -2792,8 +2792,8 @@
     "url": "https://github.com/mohammad-suliman/quickNotetaker/releases/download/v1.2/quickNotetaker-1.2.nvda-addon",
     "version": "1.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 4205,
+    "asset_missing": false
   },
   {
     "id": "reviewCursorFind",
@@ -2810,8 +2810,8 @@
     "url": "https://github.com/ruifontes/systrayList/releases/download/2025.07.13/systrayList-2025.07.13.nvda-addon",
     "version": "2025.07.13",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 11351,
+    "asset_missing": false
   },
   {
     "id": "alzaker",
@@ -2819,8 +2819,8 @@
     "url": "https://github.com/ahmedthebest31/alzaker.nvda-addon/releases/download/v1.2.3/alzaker_1.2.3.nvda-addon",
     "version": "1.2.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1620,
+    "asset_missing": false
   },
   {
     "id": "decimal2fraction",
@@ -2828,8 +2828,8 @@
     "url": "https://github.com/techexplorers123/decimal2fraction/releases/download/v1.2/decimal2fraction-1.2.nvda-addon",
     "version": "1.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1815,
+    "asset_missing": false
   },
   {
     "id": "game_mode",
@@ -2837,8 +2837,8 @@
     "url": "https://github.com/maxe-hsieh/game_mode/releases/download/2025.6.14/game_mode-2025.6.14.nvda-addon",
     "version": "2025.6.14",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1198,
+    "asset_missing": false
   },
   {
     "id": "robEnhancements",
@@ -2846,8 +2846,8 @@
     "url": "https://github.com/RainerBrell/robEnhancements/releases/download/2025.08.13b/robEnhancements-2025.08.13b.nvda-addon",
     "version": "2025.08.13",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 131,
+    "asset_missing": false
   },
   {
     "id": "XPoseImage Captioner",
@@ -2855,8 +2855,8 @@
     "url": "https://github.com/cmillsap/XPoseImageCaptioner/releases/download/v0.8.4/XPoseImage.Captioner-0.8.4.nvda-addon",
     "version": "0.8.4",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1244,
+    "asset_missing": false
   },
   {
     "id": "showSelectionWhenBrailleTetheredToReview",
@@ -2864,8 +2864,8 @@
     "url": "https://github.com/burmancomp/show-selection-when-braille-tethered-to-review/releases/download/v2025.0423.0/showSelectionWhenBrailleTetheredToReview-2025.0423.0.nvda-addon",
     "version": "2025.0423.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 301,
+    "asset_missing": false
   },
   {
     "id": "Mozilla",
@@ -2873,8 +2873,8 @@
     "url": "https://github.com/javidominguez/MozillaScripts/releases/download/B2024.0.9/Mozilla-2024.0.9.nvda-addon",
     "version": "2024.0.9",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1127,
+    "asset_missing": false
   },
   {
     "id": "mp3DirectCut",
@@ -2882,8 +2882,8 @@
     "url": "https://github.com/abdel792/mp3DirectCut/releases/download/v25.10.22/mp3DirectCut-20251022.0.1.nvda-addon",
     "version": "20251022.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 420,
+    "asset_missing": false
   },
   {
     "id": "unicodeBrailleInput",
@@ -2891,8 +2891,8 @@
     "url": "https://github.com/LeonarddeR/unicodebrailleinput/releases/download/5.0.0/unicodeBrailleInput-5.0.0.nvda-addon",
     "version": "5.0.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 321,
+    "asset_missing": false
   },
   {
     "id": "volumeAdjustment",
@@ -2900,8 +2900,8 @@
     "url": "https://github.com/grisov/NVDA_Volume_Adjustment/releases/download/v1.3.5/volumeAdjustment-1.3.5.nvda-addon",
     "version": "1.3.5",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2799,
+    "asset_missing": false
   },
   {
     "id": "favoriteFolders",
@@ -2909,8 +2909,8 @@
     "url": "https://github.com/ruifontes/favoriteFolders/releases/download/2024.01.04/favoriteFolders-2024.01.04.nvda-addon",
     "version": "2024.01.04",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1026,
+    "asset_missing": false
   },
   {
     "id": "favoriteLinks",
@@ -2918,8 +2918,8 @@
     "url": "https://github.com/EdilbertoFonseca/favoriteLinks/releases/download/v2026.1.0-beta.1/favoriteLinks-2026.1.0.nvda-addon",
     "version": "2026.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 17,
+    "asset_missing": false
   },
   {
     "id": "virtualRevision",
@@ -2927,8 +2927,8 @@
     "url": "https://github.com/ruifontes/virtualReview/releases/download/2024.01.07/virtualRevision-2024.01.07.nvda-addon",
     "version": "2024.01.07",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2633,
+    "asset_missing": false
   },
   {
     "id": "wintenApps",
@@ -2936,8 +2936,8 @@
     "url": "https://github.com/josephsl/wintenApps/releases/download/24.08/wintenApps-24.07.99.nvda-addon",
     "version": "24.07.99",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 809,
+    "asset_missing": false
   },
   {
     "id": "pcKbBrl",
@@ -2945,8 +2945,8 @@
     "url": "https://github.com/nvdaes/pcKbBrl/releases/download/43.1.0/pcKbBrl-43.1.0.nvda-addon",
     "version": "43.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 390,
+    "asset_missing": false
   },
   {
     "id": "speechFilter",
@@ -2963,8 +2963,8 @@
     "url": "https://github.com/LeonarddeR/rdAccess/releases/download/1.4.6/rdAccess-1.4.6.nvda-addon",
     "version": "1.4.6",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 555,
+    "asset_missing": false
   },
   {
     "id": "customNotifications",
@@ -2972,8 +2972,8 @@
     "url": "https://github.com/nvdaes/customNotifications/releases/download/10.1.0/customNotifications-10.1.0.nvda-addon",
     "version": "10.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 435,
+    "asset_missing": false
   },
   {
     "id": "Weather_Plus",
@@ -2988,8 +2988,8 @@
     "url": "https://github.com/abdel792/dayOfTheWeek/releases/download/v25.10.22/dayOfTheWeek-20251022.0.1.nvda-addon",
     "version": "20251022.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 425,
+    "asset_missing": false
   },
   {
     "id": "trainingKeyboardCommands",
@@ -2997,8 +2997,8 @@
     "url": "https://github.com/ibrahim-s/trainingNvdaCommands/releases/download/3.1.1/trainingKeyboardCommands-3.1.1.nvda-addon",
     "version": "3.1.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 526,
+    "asset_missing": false
   },
   {
     "id": "commandHelper",
@@ -3006,8 +3006,8 @@
     "url": "https://github.com/javidominguez/commandHelper/releases/download/B2024.0.3/commandHelper-2024.0.3.nvda-addon",
     "version": "2024.0.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1439,
+    "asset_missing": false
   },
   {
     "id": "stationPlaylist",
@@ -3015,8 +3015,8 @@
     "url": "https://github.com/ChrisDuffley/stationPlaylist/releases/download/24.01/stationPlaylist-24.01.20.nvda-addon",
     "version": "24.01.20",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 590,
+    "asset_missing": false
   },
   {
     "id": "NVDARecorder",
@@ -3024,8 +3024,8 @@
     "url": "https://github.com/ruifontes/NVDARecorder/releases/download/2024.01.06/NVDARecorder-2024.01.06.nvda-addon",
     "version": "2024.01.06",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1484,
+    "asset_missing": false
   },
   {
     "id": "BMI",
@@ -3033,8 +3033,8 @@
     "url": "https://github.com/EdilbertoFonseca/BMI/releases/download/v2026.2.0-beta.2/BMI-2026.2.0.nvda-addon",
     "version": "2026.2.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 65,
+    "asset_missing": false
   },
   {
     "id": "tiflotecniaVoices",
@@ -3042,8 +3042,8 @@
     "url": "https://github.com/ruifontes/tiflotecniaVoices/releases/download/4.1.0/tiflotecniaVoices-4.1.0.nvda-addon",
     "version": "4.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 606,
+    "asset_missing": false
   },
   {
     "id": "emoticons",
@@ -3051,8 +3051,8 @@
     "url": "https://github.com/nvdaes/emoticons/releases/download/33.1.0/emoticons-33.1.0.nvda-addon",
     "version": "33.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 671,
+    "asset_missing": false
   },
   {
     "id": "frequentText",
@@ -3060,8 +3060,8 @@
     "url": "https://github.com/ruifontes/frequentText/releases/download/2024.01.04/frequentText-2024.01.04.nvda-addon",
     "version": "2024.01.04",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 553,
+    "asset_missing": false
   },
   {
     "id": "YandexTranslate",
@@ -3069,8 +3069,8 @@
     "url": "https://github.com/alekssamos/YandexTranslate/releases/download/v2025.10.14/YandexTranslate.nvda-addon",
     "version": "2025.10.14",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 121,
+    "asset_missing": false
   },
   {
     "id": "Unspoken-ng",
@@ -3078,8 +3078,8 @@
     "url": "https://github.com/fastfinge/unspoken-ng/releases/download/v1.0.3/Unspoken-ng-1.0.3.nvda-addon",
     "version": "1.0.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 40,
+    "asset_missing": false
   },
   {
     "id": "placeMarkers",
@@ -3087,8 +3087,8 @@
     "url": "https://github.com/nvdaes/placeMarkers/releases/download/44.3.0/placeMarkers-44.3.0.nvda-addon",
     "version": "44.3.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 447,
+    "asset_missing": false
   },
   {
     "id": "urlShortener",
@@ -3096,8 +3096,8 @@
     "url": "https://github.com/nvdaes/urlShortener/releases/download/17.1.0/urlShortener-17.1.0.nvda-addon",
     "version": "17.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 313,
+    "asset_missing": false
   },
   {
     "id": "ReminderApp",
@@ -3112,8 +3112,8 @@
     "url": "https://github.com/ibrahim-s/searchWith/releases/download/2.6.5/searchWith-2.6.5.nvda-addon",
     "version": "2.6.5",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 660,
+    "asset_missing": false
   },
   {
     "id": "numpadNavMode",
@@ -3121,8 +3121,8 @@
     "url": "https://github.com/opensourcesys/numpadNavMode/releases/download/v24.1.104-beta/numpadNavMode-24.1.104.nvda-addon",
     "version": "24.1.104",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 785,
+    "asset_missing": false
   },
   {
     "id": "wordCount",
@@ -3130,8 +3130,8 @@
     "url": "https://github.com/ruifontes/wordCount/releases/download/2024.02.25/wordCount-2024.02.25.nvda-addon",
     "version": "2024.02.25",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 795,
+    "asset_missing": false
   },
   {
     "id": "crashHero",
@@ -3139,8 +3139,8 @@
     "url": "https://github.com/derekriemer/nvda-crashHero/releases/download/release-2.0.3-retry2/crashHero-2.0.3.nvda-addon",
     "version": "2.0.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 841,
+    "asset_missing": false
   },
   {
     "id": "controlUsageAssistant",
@@ -3148,8 +3148,8 @@
     "url": "https://github.com/nvdaes/controlUsageAssistant/releases/download/20241215.1.0/controlUsageAssistant-20241215.1.0.nvda-addon",
     "version": "20241215.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 344,
+    "asset_missing": false
   },
   {
     "id": "evtTracker",
@@ -3157,8 +3157,8 @@
     "url": "https://github.com/opensourcesys/evtTracker/releases/download/v24.1.102-beta/evtTracker-24.1.102.nvda-addon",
     "version": "24.1.102",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 626,
+    "asset_missing": false
   },
   {
     "id": "readonlyProfiles",
@@ -3166,8 +3166,8 @@
     "url": "https://github.com/nvdaes/readonlyProfiles/releases/download/0.2.0/readonlyProfiles-0.2.0.nvda-addon",
     "version": "0.2.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 75,
+    "asset_missing": false
   },
   {
     "id": "VLC",
@@ -3175,8 +3175,8 @@
     "url": "https://github.com/javidominguez/VLC/releases/download/B2024.0.2/VLC-2024.0.2.nvda-addon",
     "version": "2024.0.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1388,
+    "asset_missing": false
   },
   {
     "id": "RHVoice",
@@ -3191,8 +3191,8 @@
     "url": "https://github.com/nvdaes/emule/releases/download/19.3.0/eMule-19.3.0.nvda-addon",
     "version": "19.3.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 209,
+    "asset_missing": false
   },
   {
     "id": "readFeeds",
@@ -3200,8 +3200,8 @@
     "url": "https://github.com/nvdaes/readFeeds/releases/download/43.1.0/readFeeds-43.1.0.nvda-addon",
     "version": "43.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 623,
+    "asset_missing": false
   },
   {
     "id": "tesseractOCR",
@@ -3209,8 +3209,8 @@
     "url": "https://github.com/ruifontes/tesseractOCR/releases/download/2024.02.25/tesseractOCR-2024.02.25.nvda-addon",
     "version": "2024.02.25",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1078,
+    "asset_missing": false
   },
   {
     "id": "reportSymbols",
@@ -3218,8 +3218,8 @@
     "url": "https://github.com/nvdaes/reportSymbols/releases/download/27.1.0/reportSymbols-27.1.0.nvda-addon",
     "version": "27.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 249,
+    "asset_missing": false
   },
   {
     "id": "net_speed_counter",
@@ -3227,8 +3227,8 @@
     "url": "https://github.com/wl-fw/NVDA-network_speed_counter/releases/download/2025.7.15/net_speed_counter-2025.7.15.nvda-addon",
     "version": "2025.7.15",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 261,
+    "asset_missing": false
   },
   {
     "id": "techiaith_tts",
@@ -3236,8 +3236,8 @@
     "url": "https://github.com/techiaith/nvda-addon/releases/download/v2025.11.2/techiaith_tts-2025.11.2.nvda-addon",
     "version": "2025.11.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 72,
+    "asset_missing": false
   },
   {
     "id": "agenda",
@@ -3245,8 +3245,8 @@
     "url": "https://github.com/ruifontes/agenda-for-NVDA/releases/download/2024.01.01/agenda-2024.01.01.nvda-addon",
     "version": "2024.01.01",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 821,
+    "asset_missing": false
   },
   {
     "id": "AVC",
@@ -3254,8 +3254,8 @@
     "url": "https://github.com/RainerBrell/avc/releases/download/2025.11.30b/avc-2025.11.30b.nvda-addon",
     "version": "2025.11.30",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 539,
+    "asset_missing": false
   },
   {
     "id": "applicationDictionary",
@@ -3263,8 +3263,8 @@
     "url": "https://github.com/ruifontes/applicationDictionary-/releases/download/2024.01.03/applicationDictionary-2024.01.03.nvda-addon",
     "version": "2024.01.03",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2064,
+    "asset_missing": false
   },
   {
     "id": "customBrowseMode",
@@ -3272,8 +3272,8 @@
     "url": "https://github.com/nvdaes/customBrowseMode/releases/download/3.1.0/customBrowseMode-3.1.0.nvda-addon",
     "version": "3.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 272,
+    "asset_missing": false
   },
   {
     "id": "deltaTalk",
@@ -3281,8 +3281,8 @@
     "url": "https://github.com/wendrillaksenow/deltaTalkTTS/releases/download/0.2/deltaTalk-0.2.nvda-addon",
     "version": "0.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 569,
+    "asset_missing": false
   },
   {
     "id": "addonsHelp",
@@ -3290,8 +3290,8 @@
     "url": "https://github.com/ruifontes/addonsHelp/releases/download/2024.01.01/addonsHelp-2024.01.01.nvda-addon",
     "version": "2024.01.01",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1478,
+    "asset_missing": false
   },
   {
     "id": "sayCurrentKeyboardLanguage",
@@ -3299,8 +3299,8 @@
     "url": "https://github.com/abdel792/sayCurrentKeyboardLanguage/releases/download/v25.10.22/sayCurrentKeyboardLanguage-20251022.0.1.nvda-addon",
     "version": "20251022.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 271,
+    "asset_missing": false
   },
   {
     "id": "nao",
@@ -3308,8 +3308,8 @@
     "url": "https://github.com/sharkboyto/nao/releases/download/v_2025.1.0/nao-2025.1.0.nvda-addon",
     "version": "2025.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 96472,
+    "asset_missing": false
   },
   {
     "id": "MathCAT",
@@ -3317,8 +3317,8 @@
     "url": "https://github.com/NSoiffer/MathCATForPython/releases/download/V0.6.9/MathCAT-0.6.9.nvda-addon",
     "version": "0.6.9",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 522,
+    "asset_missing": false
   },
   {
     "id": "Banking4W",
@@ -3326,8 +3326,8 @@
     "url": "https://github.com/RainerBrell/Banking4W/releases/download/2024.03.08/Banking4W-2024.03.08.nvda-addon",
     "version": "2024.03.08",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 317,
+    "asset_missing": false
   },
   {
     "id": "dictionaries",
@@ -3335,8 +3335,8 @@
     "url": "https://github.com/ruifontes/Dictionaries/releases/download/2024.01.01/dictionaries-2024.01.01.nvda-addon",
     "version": "2024.01.01",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 963,
+    "asset_missing": false
   },
   {
     "id": "thunderbirdPlusG5",
@@ -3344,8 +3344,8 @@
     "url": "https://github.com/RPTools-org/thunderbirdPlusG5/releases/download/v2403.15.00/thunderbirdPlusG5-2403.15.00.nvda-addon",
     "version": "2403.15.00",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 688,
+    "asset_missing": false
   },
   {
     "id": "calibre",
@@ -3353,8 +3353,8 @@
     "url": "https://github.com/javidominguez/Calibre/releases/download/B2024.0.2/calibre-2024.0.2.nvda-addon",
     "version": "2024.0.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 576,
+    "asset_missing": false
   },
   {
     "id": "versionCollector",
@@ -3362,8 +3362,8 @@
     "url": "https://github.com/opensourcesys/versionCollector/releases/download/v23.00.065-beta/versionCollector-23.00.065.nvda-addon",
     "version": "23.00.065",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 621,
+    "asset_missing": false
   },
   {
     "id": "googleDocs",
@@ -3371,8 +3371,8 @@
     "url": "https://github.com/mltony/nvda-google-docs/releases/download/v1.1/googleDocs-1.1.nvda-addon",
     "version": "1.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 802,
+    "asset_missing": false
   },
   {
     "id": "Hear2ReadNG",
@@ -3380,8 +3380,8 @@
     "url": "https://github.com/Hear2Read/hear2read-ng-nvda/releases/download/v1.8.0-beta.0/Hear2ReadNG.1.8.0-beta.0.nvda-addon",
     "version": "1.8.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 280,
+    "asset_missing": false
   },
   {
     "id": "CloudVision",
@@ -3389,8 +3389,8 @@
     "url": "https://github.com/alekssamos/cloudvision/releases/download/v6.1.9-beta/CloudVision_v6.1.9.nvda-addon",
     "version": "6.1.9",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1347,
+    "asset_missing": false
   },
   {
     "id": "ifInterpreters",
@@ -3398,8 +3398,8 @@
     "url": "https://github.com/nvdaes/ifInterpreters/releases/download/5.1.0/ifInterpreters-5.1.0.nvda-addon",
     "version": "5.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 261,
+    "asset_missing": false
   },
   {
     "id": "fenReader",
@@ -3407,8 +3407,8 @@
     "url": "https://github.com/javidominguez/FenReader/releases/download/B2024.0.2/fenReader-2024.0.2.nvda-addon",
     "version": "2024.0.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 311,
+    "asset_missing": false
   },
   {
     "id": "perky",
@@ -3416,8 +3416,8 @@
     "url": "https://github.com/nvdaes/perky/releases/download/8.1.0/perky-8.1.0.nvda-addon",
     "version": "8.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 294,
+    "asset_missing": false
   },
   {
     "id": "aidaMenu",
@@ -3425,8 +3425,8 @@
     "url": "https://github.com/addonWorkshop/aidaMenu/releases/download/v0.1.1-beta/aidaMenu-0.1.1.nvda-addon",
     "version": "0.1.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 110,
+    "asset_missing": false
   },
   {
     "id": "TeleNVDA",
@@ -3434,8 +3434,8 @@
     "url": "https://github.com/nvda-es/TeleNVDA/releases/download/2025.5.3/TeleNVDA-2025.5.3.nvda-addon",
     "version": "2025.5.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2025,
+    "asset_missing": false
   },
   {
     "id": "contactsManager",
@@ -3443,8 +3443,8 @@
     "url": "https://github.com/EdilbertoFonseca/contactsManager/releases/download/v2026.1.0-beta.1/contactsManager-2026.1.0.nvda-addon",
     "version": "2026.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 21,
+    "asset_missing": false
   },
   {
     "id": "clipspeak",
@@ -3452,8 +3452,8 @@
     "url": "https://github.com/ruifontes/clipspeak/releases/download/2024.01.04/clipspeak-2024.01.04.nvda-addon",
     "version": "2024.01.04",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2059,
+    "asset_missing": false
   },
   {
     "id": "remapApplicationsKey",
@@ -3461,8 +3461,8 @@
     "url": "https://github.com/ruifontes/RemapKeyAplication-para-NVDA/releases/download/2024.01.07/remapApplicationsKey-2024.01.07.nvda-addon",
     "version": "2024.01.07",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 818,
+    "asset_missing": false
   },
   {
     "id": "documentFormattingRotor",
@@ -3470,8 +3470,8 @@
     "url": "https://github.com/derekriemer/nvda-documentFormattingRotor/releases/download/v1.1/documentFormattingRotor-1.1.nvda-addon",
     "version": "1.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 708,
+    "asset_missing": false
   },
   {
     "id": "cursorLocator",
@@ -3479,8 +3479,8 @@
     "url": "https://github.com/nvdaes/cursorLocator/releases/download/17.1.0/cursorLocator-17.1.0.nvda-addon",
     "version": "17.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 310,
+    "asset_missing": false
   },
   {
     "id": "speechLogger",
@@ -3488,8 +3488,8 @@
     "url": "https://github.com/opensourcesys/speechLogger/releases/download/v25.0.100-beta/speechLogger-25.0.100.nvda-addon",
     "version": "25.0.100",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 181,
+    "asset_missing": false
   },
   {
     "id": "dropbox",
@@ -3497,8 +3497,8 @@
     "url": "https://github.com/ruifontes/dropbox/releases/download/2024.01.01/dropbox-2024.01.01.nvda-addon",
     "version": "2024.01.01",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1310,
+    "asset_missing": false
   },
   {
     "id": "enhancedAnnotations",
@@ -3506,8 +3506,8 @@
     "url": "https://github.com/nvdaes/enhancedAnnotations/releases/download/19.1.0/enhancedAnnotations-19.1.0.nvda-addon",
     "version": "19.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 330,
+    "asset_missing": false
   },
   {
     "id": "clipContentsDesigner",
@@ -3515,8 +3515,8 @@
     "url": "https://github.com/nvdaes/clipContentsDesigner/releases/download/48.1.0/clipContentsDesigner-48.1.0.nvda-addon",
     "version": "48.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 481,
+    "asset_missing": false
   },
   {
     "id": "systrayList",
@@ -3524,8 +3524,8 @@
     "url": "https://github.com/ruifontes/systrayList/releases/download/2024.01.07/systrayList-2024.01.07.nvda-addon",
     "version": "2024.01.07",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2747,
+    "asset_missing": false
   },
   {
     "id": "decimal2fraction",
@@ -3533,8 +3533,8 @@
     "url": "https://github.com/techexplorers123/decimal2fraction/releases/download/v1.3/decimal2fraction-1.3.nvda-addon",
     "version": "1.3",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 373,
+    "asset_missing": false
   },
   {
     "id": "robEnhancements",
@@ -3542,8 +3542,8 @@
     "url": "https://github.com/RainerBrell/robEnhancements/releases/download/2024.09.09dev/robEnhancements-2024.09.09dev.nvda-addon",
     "version": "2024.09.09",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 714,
+    "asset_missing": false
   },
   {
     "id": "clock",
@@ -3551,8 +3551,8 @@
     "url": "https://github.com/hkatic/clock/releases/download/25.07.07-dev/clock-20250707.1.0.nvda-addon",
     "version": "20250707.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 919,
+    "asset_missing": false
   },
   {
     "id": "showSelectionWhenBrailleTetheredToReview",
@@ -3560,8 +3560,8 @@
     "url": "https://github.com/burmancomp/show-selection-when-braille-tethered-to-review/releases/download/v2025.0815.0/showSelectionWhenBrailleTetheredToReview-2025.0815.0.nvda-addon",
     "version": "2025.0815.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 372,
+    "asset_missing": false
   },
   {
     "id": "Mozilla",
@@ -3569,8 +3569,8 @@
     "url": "https://github.com/javidominguez/MozillaScripts/releases/download/dev2024.0.7/Mozilla-2024.0.7.nvda-addon",
     "version": "2024.0.7",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1098,
+    "asset_missing": false
   },
   {
     "id": "webAccess",
@@ -3578,8 +3578,8 @@
     "url": "https://github.com/accessolutions/WebAccessForNVDA/releases/download/2024.04.11-dev/webAccess-2024.04.11.nvda-addon",
     "version": "2024.04.11",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1289,
+    "asset_missing": false
   },
   {
     "id": "volumeAdjustment",
@@ -3587,8 +3587,8 @@
     "url": "https://github.com/grisov/NVDA_Volume_Adjustment/releases/download/v1.3.4/volumeAdjustment-1.3.4.nvda-addon",
     "version": "1.3.4",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1215,
+    "asset_missing": false
   },
   {
     "id": "virtualRevision",
@@ -3596,8 +3596,8 @@
     "url": "https://github.com/ruifontes/virtualReview/releases/download/2023.09.19/virtualRevision-2023.09.19.nvda-addon",
     "version": "2023.09.19",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 5900,
+    "asset_missing": false
   },
   {
     "id": "wintenApps",
@@ -3605,8 +3605,8 @@
     "url": "https://github.com/josephsl/wintenApps/releases/download/25.06/wintenApps-25.05.3100.nvda-addon",
     "version": "25.05.3100",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 901,
+    "asset_missing": false
   },
   {
     "id": "pcKbBrl",
@@ -3614,8 +3614,8 @@
     "url": "https://github.com/nvdaes/pcKbBrl/releases/download/43.0.1/pcKbBrl-43.0.1.nvda-addon",
     "version": "43.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 550,
+    "asset_missing": false
   },
   {
     "id": "speechFilter",
@@ -3623,8 +3623,8 @@
     "url": "https://github.com/addonWorkshop/speechFilter/releases/download/v0.2.1-dev/speechFilter-0.2.1.nvda-addon",
     "version": "0.2.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 74,
+    "asset_missing": false
   },
   {
     "id": "columnsReview",
@@ -3632,8 +3632,8 @@
     "url": "https://github.com/ABuffEr/columnsReview/releases/download/v5.4.20241127/columnsReview-5.4.20241127.nvda-addon",
     "version": "5.4.20241127",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 679,
+    "asset_missing": false
   },
   {
     "id": "rdAccess",
@@ -3641,8 +3641,8 @@
     "url": "https://github.com/LeonarddeR/rdAccess/releases/download/1.6.1/rdAccess-1.6.1.nvda-addon",
     "version": "1.6.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 476,
+    "asset_missing": false
   },
   {
     "id": "customNotifications",
@@ -3650,8 +3650,8 @@
     "url": "https://github.com/nvdaes/customNotifications/releases/download/3.0.1/customNotifications-3.0.1.nvda-addon",
     "version": "3.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 897,
+    "asset_missing": false
   },
   {
     "id": "dayOfTheWeek",
@@ -3659,8 +3659,8 @@
     "url": "https://github.com/abdel792/dayOfTheWeek/releases/download/v25.04.19-1-dev/dayOfTheWeek-20250419.2.0.nvda-addon",
     "version": "20250419.2.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 515,
+    "asset_missing": false
   },
   {
     "id": "trainingKeyboardCommands",
@@ -3668,8 +3668,8 @@
     "url": "https://github.com/ibrahim-s/trainingNvdaCommands/releases/download/3.2.4/trainingKeyboardCommands-3.2.4.nvda-addon",
     "version": "3.2.4",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 504,
+    "asset_missing": false
   },
   {
     "id": "commandHelper",
@@ -3677,8 +3677,8 @@
     "url": "https://github.com/javidominguez/commandHelper/releases/download/dev2024.0.2/commandHelper-2024.0.2.nvda-addon",
     "version": "2024.0.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1241,
+    "asset_missing": false
   },
   {
     "id": "stationPlaylist",
@@ -3686,8 +3686,8 @@
     "url": "https://github.com/ChrisDuffley/stationPlaylist/releases/download/25.12/stationPlaylist-25.12.1700.nvda-addon",
     "version": "25.12.1700",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 84,
+    "asset_missing": false
   },
   {
     "id": "NVDARecorder",
@@ -3695,8 +3695,8 @@
     "url": "https://github.com/ruifontes/NVDARecorder/releases/download/2023.09.18/NVDARecorder-2023.09.18.nvda-addon",
     "version": "2023.09.18",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2827,
+    "asset_missing": false
   },
   {
     "id": "audioTimer",
@@ -3704,8 +3704,8 @@
     "url": "https://github.com/addonWorkshop/audioTimer/releases/download/v0.9.0-dev/audioTimer-0.9.0.nvda-addon",
     "version": "0.9.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 59,
+    "asset_missing": false
   },
   {
     "id": "audioScreen",
@@ -3713,8 +3713,8 @@
     "url": "https://github.com/josephsl/audioScreen/releases/download/release-2025.1/audioScreen-2025.1.100.nvda-addon",
     "version": "2025.1.100",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 103,
+    "asset_missing": false
   },
   {
     "id": "emoticons",
@@ -3722,8 +3722,8 @@
     "url": "https://github.com/nvdaes/emoticons/releases/download/32.0.1/emoticons-32.0.1.nvda-addon",
     "version": "32.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 887,
+    "asset_missing": false
   },
   {
     "id": "scanvox",
@@ -3731,8 +3731,8 @@
     "url": "https://github.com/Nael-Sayegh/scanvox-for-nvda/releases/download/2024.07.21d/scanvox-2024.07.21.nvda-addon",
     "version": "2024.07.21",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 480,
+    "asset_missing": false
   },
   {
     "id": "BrailleExtender",
@@ -3749,8 +3749,8 @@
     "url": "https://github.com/nvdaes/urlShortener/releases/download/17.0.1/urlShortener-17.0.1.nvda-addon",
     "version": "17.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 373,
+    "asset_missing": false
   },
   {
     "id": "numpadNavMode",
@@ -3758,8 +3758,8 @@
     "url": "https://github.com/opensourcesys/numpadNavMode/releases/download/v24.1.504-dev/numpadNavMode-24.1.504.nvda-addon",
     "version": "24.1.504",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1023,
+    "asset_missing": false
   },
   {
     "id": "wordCount",
@@ -3767,8 +3767,8 @@
     "url": "https://github.com/ruifontes/wordCount/releases/download/2023.09.25/wordCount-2023.09.25.nvda-addon",
     "version": "2023.09.25",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2323,
+    "asset_missing": false
   },
   {
     "id": "volumeManager",
@@ -3776,8 +3776,8 @@
     "url": "https://github.com/addonFactory/volumeManager/releases/download/v0.6.9-dev/volumeManager-0.6.9.nvda-addon",
     "version": "0.6.9",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 681,
+    "asset_missing": false
   },
   {
     "id": "charDescMerge",
@@ -3785,8 +3785,8 @@
     "url": "https://github.com/addonWorkshop/charDescMerge/releases/download/v0.1.0-dev/charDescMerge-0.1.0.nvda-addon",
     "version": "0.1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 112,
+    "asset_missing": false
   },
   {
     "id": "controlUsageAssistant",
@@ -3794,8 +3794,8 @@
     "url": "https://github.com/nvdaes/controlUsageAssistant/releases/download/20241215.0.1/controlUsageAssistant-20241215.0.1.nvda-addon",
     "version": "20241215.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 481,
+    "asset_missing": false
   },
   {
     "id": "evtTracker",
@@ -3803,8 +3803,8 @@
     "url": "https://github.com/opensourcesys/evtTracker/releases/download/v24.1.502-dev/evtTracker-24.1.502.nvda-addon",
     "version": "24.1.502",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 664,
+    "asset_missing": false
   },
   {
     "id": "VLC",
@@ -3812,8 +3812,8 @@
     "url": "https://github.com/javidominguez/VLC/releases/download/dev2024.0.1/VLC-2024.0.1.nvda-addon",
     "version": "2024.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1704,
+    "asset_missing": false
   },
   {
     "id": "eMule",
@@ -3821,8 +3821,8 @@
     "url": "https://github.com/nvdaes/emule/releases/download/14.0.1/eMule-14.0.1.nvda-addon",
     "version": "14.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 780,
+    "asset_missing": false
   },
   {
     "id": "readFeeds",
@@ -3830,8 +3830,8 @@
     "url": "https://github.com/nvdaes/readFeeds/releases/download/38.1.1/readFeeds-38.1.1.nvda-addon",
     "version": "38.1.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 253,
+    "asset_missing": false
   },
   {
     "id": "tesseractOCR",
@@ -3839,8 +3839,8 @@
     "url": "https://github.com/ruifontes/tesseractOCR/releases/download/2023.11.13/tesseractOCR-2023.11.13.nvda-addon",
     "version": "2023.11.13",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2104,
+    "asset_missing": false
   },
   {
     "id": "OpenAI",
@@ -3848,8 +3848,8 @@
     "url": "https://github.com/AAClause/nvda-OpenAI/releases/download/2025.07.24/OpenAI-25.07.24.nvda-addon",
     "version": "25.07.24",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 806,
+    "asset_missing": false
   },
   {
     "id": "NVDAControlEx",
@@ -3857,8 +3857,8 @@
     "url": "https://github.com/m1maker/NVDAControlEx/releases/download/v0.1/NVDAControlEx-0.1.nvda-addon",
     "version": "0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 289,
+    "asset_missing": false
   },
   {
     "id": "reportSymbols",
@@ -3866,8 +3866,8 @@
     "url": "https://github.com/nvdaes/reportSymbols/releases/download/27.0.1/reportSymbols-27.0.1.nvda-addon",
     "version": "27.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 515,
+    "asset_missing": false
   },
   {
     "id": "soundSplitter",
@@ -3875,8 +3875,8 @@
     "url": "https://github.com/opensourcesys/soundSplitter/releases/download/v24.0.504-dev/soundSplitter-24.0.504.nvda-addon",
     "version": "24.0.504",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 864,
+    "asset_missing": false
   },
   {
     "id": "discordToTray",
@@ -3884,8 +3884,8 @@
     "url": "https://github.com/cyrmax/DiscordToTray/releases/download/1.0/discordToTray-1.0.nvda-addon",
     "version": "1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1037,
+    "asset_missing": false
   },
   {
     "id": "agenda",
@@ -3893,8 +3893,8 @@
     "url": "https://github.com/ruifontes/agenda-for-NVDA/releases/download/2023.10.17/agenda-2023.10.17.nvda-addon",
     "version": "2023.10.17",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 937,
+    "asset_missing": false
   },
   {
     "id": "AVC",
@@ -3902,8 +3902,8 @@
     "url": "https://github.com/RainerBrell/avc/releases/download/2025.11.03d/avc-2025.11.03d.nvda-addon",
     "version": "2025.11.03",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 839,
+    "asset_missing": false
   },
   {
     "id": "applicationDictionary",
@@ -3911,8 +3911,8 @@
     "url": "https://github.com/ruifontes/applicationDictionary-/releases/download/2023.09.24/applicationDictionary-2023.09.24.nvda-addon",
     "version": "2023.09.24",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 4315,
+    "asset_missing": false
   },
   {
     "id": "customBrowseMode",
@@ -3920,8 +3920,8 @@
     "url": "https://github.com/nvdaes/customBrowseMode/releases/download/0.0.1/customBrowseMode-0.0.1.nvda-addon",
     "version": "0.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 418,
+    "asset_missing": false
   },
   {
     "id": "sayProductNameAndVersion",
@@ -3929,8 +3929,8 @@
     "url": "https://github.com/opensourcesys/sayProductNameAndVersion/releases/download/v2025.1.500-dev/sayProductNameAndVersion-2025.1.500.nvda-addon",
     "version": "2025.1.500",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1866,
+    "asset_missing": false
   },
   {
     "id": "addonsHelp",
@@ -3938,8 +3938,8 @@
     "url": "https://github.com/ruifontes/addonsHelp/releases/download/2023.09.21/addonsHelp-2023.09.21.nvda-addon",
     "version": "2023.09.21",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2663,
+    "asset_missing": false
   },
   {
     "id": "dictionaries",
@@ -3947,8 +3947,8 @@
     "url": "https://github.com/ruifontes/Dictionaries/releases/download/2023.10.17/dictionaries-2023.10.17.nvda-addon",
     "version": "2023.10.17",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1093,
+    "asset_missing": false
   },
   {
     "id": "speakTypingWords",
@@ -3956,8 +3956,8 @@
     "url": "https://github.com/javidominguez/speakTypingWords/releases/download/2025.0.1/speakTypingWords-2025.0.1.nvda-addon",
     "version": "2025.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1057,
+    "asset_missing": false
   },
   {
     "id": "calibre",
@@ -3965,8 +3965,8 @@
     "url": "https://github.com/javidominguez/Calibre/releases/download/dev2024.0.1/calibre-2024.0.1.nvda-addon",
     "version": "2024.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 633,
+    "asset_missing": false
   },
   {
     "id": "screenshots",
@@ -3974,8 +3974,8 @@
     "url": "https://github.com/javidominguez/screenshots/releases/download/dev2024.0.2/screenshots-2024.0.2.nvda-addon",
     "version": "2024.0.2",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 1015,
+    "asset_missing": false
   },
   {
     "id": "programRAMReporter",
@@ -3992,8 +3992,8 @@
     "url": "https://github.com/javidominguez/FenReader/releases/download/dev2024.0.1/fenReader-2024.0.1.nvda-addon",
     "version": "2024.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 389,
+    "asset_missing": false
   },
   {
     "id": "devBox",
@@ -4001,8 +4001,8 @@
     "url": "https://github.com/addonWorkshop/devBox/releases/download/v0.2.0-dev/devBox-0.2.0.nvda-addon",
     "version": "0.2.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 103,
+    "asset_missing": false
   },
   {
     "id": "remapApplicationsKey",
@@ -4010,8 +4010,8 @@
     "url": "https://github.com/ruifontes/RemapKeyAplication-para-NVDA/releases/download/2023.09.30/remapApplicationsKey-2023.09.30.nvda-addon",
     "version": "2023.09.30",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2378,
+    "asset_missing": false
   },
   {
     "id": "cursorLocator",
@@ -4019,8 +4019,8 @@
     "url": "https://github.com/nvdaes/cursorLocator/releases/download/9.0.1/cursorLocator-9.0.1.nvda-addon",
     "version": "9.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 925,
+    "asset_missing": false
   },
   {
     "id": "speechLogger",
@@ -4028,8 +4028,8 @@
     "url": "https://github.com/opensourcesys/speechLogger/releases/download/v25.0.500-dev/speechLogger-25.0.500.nvda-addon",
     "version": "25.0.500",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 273,
+    "asset_missing": false
   },
   {
     "id": "dropbox",
@@ -4037,8 +4037,8 @@
     "url": "https://github.com/ruifontes/dropbox/releases/download/2023.10.01latest/dropbox-2023.10.01.nvda-addon",
     "version": "2023.10.01",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 2546,
+    "asset_missing": false
   },
   {
     "id": "clipContentsDesigner",
@@ -4046,8 +4046,8 @@
     "url": "https://github.com/nvdaes/clipContentsDesigner/releases/download/45.0.4/clipContentsDesigner-45.0.4.nvda-addon",
     "version": "45.0.4",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 570,
+    "asset_missing": false
   },
   {
     "id": "easyNavigation",
@@ -4055,8 +4055,8 @@
     "url": "https://github.com/javidominguez/easyNavigation/releases/download/dev2024.0.1/easyNavigation-2024.0.1.nvda-addon",
     "version": "2024.0.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 781,
+    "asset_missing": false
   },
   {
     "id": "SimpleCalculator",
@@ -4064,8 +4064,8 @@
     "url": "https://github.com/mesteranas/SimpleCalculator/releases/download/v1.0/SimpleCalculator.nvda-addon",
     "version": "1.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 584,
+    "asset_missing": false
   },
   {
     "id": "nvdaControllerUncancel",
@@ -4073,8 +4073,8 @@
     "url": "https://github.com/addonWorkshop/nvdaControllerUncancel/releases/download/v0.2.0-dev/nvdaControllerUncancel-0.2.0.nvda-addon",
     "version": "0.2.0",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 120,
+    "asset_missing": false
   },
   {
     "id": "resourceMonitor",
@@ -4082,8 +4082,8 @@
     "url": "https://github.com/kefaslungu/resourceMonitor/releases/download/25.07/resourceMonitor-25.08.1400.nvda-addon",
     "version": "25.08.1400",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 942,
+    "asset_missing": false
   },
   {
     "id": "systrayList",
@@ -4091,8 +4091,8 @@
     "url": "https://github.com/ruifontes/systrayList/releases/download/2023.09.18/systrayList-2023.09.18.nvda-addon",
     "version": "2023.09.18",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 6937,
+    "asset_missing": false
   },
   {
     "id": "alzaker",
@@ -4100,7 +4100,7 @@
     "url": "https://github.com/ahmedthebest31/alzaker.nvda-addon/releases/download/v1.2.1/alzaker_1.2.1.nvda-addon",
     "version": "1.2.1",
     "on_github": true,
-    "download_count": -1,
-    "asset_missing": true
+    "download_count": 897,
+    "asset_missing": false
   }
 ]
