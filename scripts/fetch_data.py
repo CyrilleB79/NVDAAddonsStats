@@ -62,7 +62,7 @@ def main():
 
     results = []
 
-    for addon in addons[:2]:
+    for addon in addons:
         addon_id = addon.get("addonId")
         addon_name = addon.get("displayName")
         url = addon.get("URL")
