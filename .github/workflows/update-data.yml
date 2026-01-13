@@ -36,6 +36,11 @@ jobs:
         run: |
           mv new_data.json data.json
       
+      - name: Configure Git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      
       - name: Commit updated data.json
         run: |
           git add data.json
