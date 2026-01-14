@@ -48,6 +48,8 @@ def isSameReleaseUrl(url1, url2):
     """
     Compares two GitHub release URLs to decide if they are the same.
     We ignore owner and repo in the path. to test if same release because owner / repo may have changed.
+    We also ignore case because some URL suffixes only differ with case; but GitHub download URL are not
+    case sensitive.
     """
     def get_suffix(url):
         p = urlparse(url)
@@ -64,10 +66,7 @@ def isSameReleaseUrl(url1, url2):
     suffix2 = get_suffix(url2)
     if suffix1 is None or suffix2 is None:
         return False
-    if suffix1 != suffix2:
-        if suffix1.lower() == suffix2.lower():
-            print(f"Warning: similar suffixes:\n{url1=}\n{url2=}")
-    return suffix1 == suffix2
+    return suffix1.lower() == suffix2.lower()
 
 def get_github_asset_downloads(owner, repo, url):
     """
