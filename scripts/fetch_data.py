@@ -1,6 +1,7 @@
 import json
 import requests
 import time
+import datetime
 import os
 from urllib.parse import urlparse
 
@@ -64,6 +65,10 @@ def get_github_asset_downloads(owner, repo, url):
 
 def main():
     print(f"Fetching NVDA add-ons list from {NVDA_API_URL}")
+    start_time = time.perf_counter()
+    generated_at = datetime.datetime.utcnow().isoformat() + "Z"
+
+    github_requests_count = 0
     try:
         r = requests.get(NVDA_API_URL, timeout=30)
         r.raise_for_status()
@@ -72,20 +77,26 @@ def main():
         print(f"Failed to fetch NVDA add-ons JSON: {e}")
         return
 
-    results = []
+    items = []
 
     for addon in addons:
         addon_id = addon.get("addonId")
         addon_name = addon.get("displayName")
         url = addon.get("URL")
         version = addon.get("addonVersionName")
-        
+        channel = addon.get("channel")
+        publisher = addon.get("publisher")
+        submissionTime = addon.get("submissionTime")
+
         # Prepare result entry per add-on with list of versions stats
         addon_entry = {
             "id": addon_id,
             "name": addon_name,
             "url": url,
             "version": version,
+            "channel": channel,
+            "publisher": publisher,
+            "submission_time": submissionTime,
             "on_github": None,  # will be True/False after check
         }
 
@@ -94,7 +105,7 @@ def main():
         if githubOwnerRepo is None:
             addon_entry["on_github"] = False
             # No GitHub hosting, skip download counts
-            results.append(addon_entry)
+            items.append(addon_entry)
             continue
         else:
             addon_entry["on_github"] = True
@@ -102,6 +113,7 @@ def main():
         owner, repo = githubOwnerRepo
         
         download_count = get_github_asset_downloads(owner, repo, url)
+        github_requests_count += 1
         if download_count is None:
         	addon_entry["download_count"] = -1
         	addon_entry["asset_missing"] = True
@@ -109,12 +121,25 @@ def main():
         	addon_entry["download_count"] = download_count
         	addon_entry["asset_missing"] = False
 
-        results.append(addon_entry)
+        items.append(addon_entry)
+
+    end_time = time.perf_counter()
+    duration = round(end_time - start_time, 2)
 
     # Write result JSON
+    output = {
+        "meta": {
+            "generated_at": generated_at,
+            "generation_duration_seconds": duration,
+            "total_addons": len(items),
+            "github_api_requests": github_requests_count,
+        },
+        "items": items
+    }
+    
     with open("new_data.json", "w", encoding="utf-8") as f:
-        json.dump(results, f, indent=2, ensure_ascii=False)
-
+        json.dump(output, f, indent=2, ensure_ascii=False)
+    
     print("Data collection complete. Results saved to new_data.json")
 
 if __name__ == "__main__":

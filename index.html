@@ -42,6 +42,15 @@ from GitHub when available.
         <button type="button" data-sort="version">Version</button>
       </th>
       <th scope="col">
+        <button type="button" data-sort="channel">Channel</button>
+      </th>
+      <th scope="col">
+        <button type="button" data-sort="publisher">Publisher</button>
+      </th>
+      <th scope="col">
+        <button type="button" data-sort="submission_time">Submission time</button>
+      </th>
+      <th scope="col">
         <button type="button" data-sort="download_count">Downloads</button>
       </th>
       <th scope="col">
@@ -82,6 +91,15 @@ function renderTable() {
     const versionTd = document.createElement("td");
     versionTd.textContent = item.version;
 
+    const channelTd = document.createElement("td");
+    channelTd.textContent = item.channel;
+
+    const publicherTd = document.createElement("td");
+    publicherTd.textContent = item.publicher;
+
+    const submissionTimeTd = document.createElement("td");
+    submissionTimeTd.textContent = item.submission_time || "N/A";
+
     const downloadsTd = document.createElement("td");
     downloadsTd.textContent =
       item.download_count !== null ? item.download_count : "N/A";
@@ -91,6 +109,9 @@ function renderTable() {
 
     tr.appendChild(nameTd);
     tr.appendChild(versionTd);
+    tr.appendChild(channelTd);
+    tr.appendChild(publisherTd);
+    tr.appendChild(publicationDateTd);
     tr.appendChild(downloadsTd);
     tr.appendChild(statusTd);
 
@@ -132,6 +153,22 @@ function sortData(key) {
   renderTable();
 }
 
+function renderMeta(meta) {
+  const p = document.getElementById("meta-info");
+
+  const generated = meta.generated_at
+    ? new Date(meta.generated_at).toLocaleString()
+    : "Unknown";
+
+  const duration = meta.generation_duration_seconds != null
+    ? meta.generation_duration_seconds + " seconds"
+    : "Unknown";
+
+  p.textContent =
+    `Data generated at: ${generated} — ` +
+    `Generation time: ${duration}`;
+}
+
 document.querySelectorAll("th button").forEach(button => {
   button.addEventListener("click", () => {
     sortData(button.dataset.sort);
@@ -141,13 +178,16 @@ document.querySelectorAll("th button").forEach(button => {
 fetch("https://raw.githubusercontent.com/CyrilleB79/NVDAAddonsStats/data/data.json")
   .then(response => response.json())
   .then(json => {
-    data = json;
+    data = json.items;
     renderTable();
+    renderMeta(json.meta);
   })
   .catch(error => {
     console.error("Failed to load data.json:", error);
   });
 </script>
+
+<p id="meta-info"></p>
 
 </body>
 </html>
