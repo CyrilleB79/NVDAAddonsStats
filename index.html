@@ -122,9 +122,9 @@ function getStatus(item) {
 
 // Define sorting order for GitHub statuses in submissionGroup (lowest first)
 const GITHUB_STATUS_ORDER = {
-  [GITHUB_STATUS.NOT_ON_GITHUB]: 0,
-  [GITHUB_STATUS.ASSET_MISSING]: 0,
-  [GITHUB_STATUS.OK]: 1,
+  [GITHUB_STATUS.OK]: 0,
+  [GITHUB_STATUS.ASSET_MISSING]: 1,
+  [GITHUB_STATUS.NOT_ON_GITHUB]: 2,
 };
 
 function submissionGroup(item) {
