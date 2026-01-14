@@ -1,3 +1,22 @@
+<!--
+  This file is part of NVDA add-ons stats.
+
+  Copyright (C) 2026 Cyrille Bougot
+
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program; if not, see <https://www.gnu.org/licenses/>.
+-->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -68,14 +87,135 @@ let data = [];
 let currentSortKey = null;
 let sortAscending = true;
 
-function getStatus(item) {
+// Constants to represent GitHub statuses
+const GITHUB_STATUS = {
+  NOT_ON_GITHUB: "NOT_ON_GITHUB",
+  ASSET_MISSING: "ASSET_MISSING",
+  OK: "OK",
+};
+
+// Function returning the internal GitHub status code for an item
+function getGithubStatusCode(item) {
   if (!item.on_github) {
-    return "Not hosted on GitHub";
+    return GITHUB_STATUS.NOT_ON_GITHUB;
   }
   if (item.asset_missing) {
-    return "GitHub asset not found";
+    return GITHUB_STATUS.ASSET_MISSING;
   }
-  return "OK";
+  // Could add more logic here for other statuses
+  return GITHUB_STATUS.OK;
+}
+
+// User-facing status text, derived from internal status codes
+function getStatus(item) {
+  switch (getGithubStatusCode(item)) {
+    case GITHUB_STATUS.NOT_ON_GITHUB:
+      return "Not hosted on GitHub";
+    case GITHUB_STATUS.ASSET_MISSING:
+      return "GitHub asset not found";
+    // case GITHUB_STATUS.RATE_LIMITED:
+    //   return "GitHub API rate limited";
+    default:
+      return "OK";
+  }
+}
+
+// Define sorting order for GitHub statuses in submissionGroup (lowest first)
+const GITHUB_STATUS_ORDER = {
+  [GITHUB_STATUS.NOT_ON_GITHUB]: 0,
+  [GITHUB_STATUS.ASSET_MISSING]: 0,
+  [GITHUB_STATUS.OK]: 1,
+};
+
+function submissionGroup(item) {
+  // 0 = no date
+  // 1 = has date
+  return item.submission_time === null ? 0 : 1;
+}
+
+function sortData(key) {
+  if (currentSortKey === key) {
+    sortAscending = !sortAscending;
+  } else {
+    currentSortKey = key;
+    sortAscending = true;
+  }
+
+  data.sort((a, b) => {
+    if (key === "submission_time") {
+      // First criterion: group according to date (0 = no date, 1 = has date)
+      const groupA = submissionGroup(a);
+      const groupB = submissionGroup(b);
+
+      if (groupA !== groupB) {
+        return sortAscending ? groupA - groupB : groupB - groupA;
+      }
+
+      // If both have dates (group 1), sort by date
+      if (groupA === 1) {
+        const timeA = Number(a.submission_time);
+        const timeB = Number(b.submission_time);
+        if (timeA !== timeB) {
+          return sortAscending ? timeA - timeB : timeB - timeA;
+        }
+      }
+
+      // If same group and same date (or no date), sort by GitHub status
+      const statusA = getGithubStatusCode(a);
+      const statusB = getGithubStatusCode(b);
+      if (statusA !== statusB) {
+        // Desired order: NOT_ON_GITHUB < ASSET_MISSING < OK
+        // We define an explicit order here:
+        const orderMap = {
+          [GITHUB_STATUS.NOT_ON_GITHUB]: 0,
+          [GITHUB_STATUS.ASSET_MISSING]: 1,
+          [GITHUB_STATUS.OK]: 2,
+        };
+        return sortAscending
+          ? orderMap[statusA] - orderMap[statusB]
+          : orderMap[statusB] - orderMap[statusA];
+      }
+
+      // Otherwise stable (equality)
+      return 0;
+    }
+
+    // Sorting for the status column
+    if (key === "status") {
+      const statusA = getGithubStatusCode(a);
+      const statusB = getGithubStatusCode(b);
+
+      if (statusA !== statusB) {
+        return sortAscending
+          ? GITHUB_STATUS_ORDER[statusA] - GITHUB_STATUS_ORDER[statusB]
+          : GITHUB_STATUS_ORDER[statusB] - GITHUB_STATUS_ORDER[statusA];
+      }
+      return 0;
+    }
+
+    // Default sort for other columns
+    let valA = a[key];
+    let valB = b[key];
+
+    if (valA === null) return 1;
+    if (valB === null) return -1;
+
+    if (typeof valA === "number" && typeof valB === "number") {
+      return sortAscending ? valA - valB : valB - valA;
+    }
+
+    return sortAscending
+      ? String(valA).localeCompare(String(valB))
+      : String(valB).localeCompare(String(valA));
+  });
+
+  renderTable();
+}
+
+function formatSubmissionTime(timestamp) {
+  if (!timestamp) return "N/A";
+  // timestamp is in ms
+  return new Date(timestamp).toLocaleString();
 }
 
 function renderTable() {
@@ -94,11 +234,11 @@ function renderTable() {
     const channelTd = document.createElement("td");
     channelTd.textContent = item.channel;
 
-    const publicherTd = document.createElement("td");
-    publicherTd.textContent = item.publicher;
+    const publisherTd = document.createElement("td");
+    publisherTd.textContent = item.publisher;
 
     const submissionTimeTd = document.createElement("td");
-    submissionTimeTd.textContent = item.submission_time || "N/A";
+    submissionTimeTd.textContent = formatSubmissionTime(item.submission_time);
 
     const downloadsTd = document.createElement("td");
     downloadsTd.textContent =
@@ -111,46 +251,12 @@ function renderTable() {
     tr.appendChild(versionTd);
     tr.appendChild(channelTd);
     tr.appendChild(publisherTd);
-    tr.appendChild(publicationDateTd);
+    tr.appendChild(submissionTimeTd);
     tr.appendChild(downloadsTd);
     tr.appendChild(statusTd);
 
     tbody.appendChild(tr);
   });
-}
-
-function sortData(key) {
-  if (currentSortKey === key) {
-    sortAscending = !sortAscending;
-  } else {
-    currentSortKey = key;
-    sortAscending = true;
-  }
-
-  data.sort((a, b) => {
-    let va, vb;
-
-    if (key === "status") {
-      va = getStatus(a);
-      vb = getStatus(b);
-    } else {
-      va = a[key];
-      vb = b[key];
-    }
-
-    if (va === null) return 1;
-    if (vb === null) return -1;
-
-    if (typeof va === "number" && typeof vb === "number") {
-      return sortAscending ? va - vb : vb - va;
-    }
-
-    return sortAscending
-      ? String(va).localeCompare(String(vb))
-      : String(vb).localeCompare(String(va));
-  });
-
-  renderTable();
 }
 
 function renderMeta(meta) {
@@ -165,7 +271,7 @@ function renderMeta(meta) {
     : "Unknown";
 
   p.textContent =
-    `Data generated at: ${generated} — ` +
+    `Data generated at: ${generated} - ` +
     `Generation time: ${duration}`;
 }
 
@@ -179,7 +285,7 @@ fetch("https://raw.githubusercontent.com/CyrilleB79/NVDAAddonsStats/data/data.js
   .then(response => response.json())
   .then(json => {
     data = json.items;
-    renderTable();
+    sortData("name"); // already calls renderTable
     renderMeta(json.meta);
   })
   .catch(error => {
