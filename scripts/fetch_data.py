@@ -99,6 +99,12 @@ def get_github_asset_downloads(owner, repo, url):
                     return asset.get("download_count", -1)
         # Asset not found in any release
         print(f"Info: Asset '{url}' not found in releases of {owner}/{repo}")
+        # Debug info
+        print(f"{url=}")
+        for release in releases:
+            assets = release.get("assets", [])
+            for asset in assets:
+                print(f'{asset.get("browser_download_url")=}')
         return None
     except Exception as e:
         print(f"Error querying GitHub releases for {owner}/{repo}: {e}")
