@@ -55,7 +55,7 @@ from GitHub when available.
   <thead>
     <tr>
       <th scope="col">
-        <button type="button" data-sort="name">Add-on</button>
+        <button type="button" data-sort="name">Name</button>
       </th>
       <th scope="col">
         <button type="button" data-sort="version">Version</button>
@@ -67,7 +67,7 @@ from GitHub when available.
         <button type="button" data-sort="publisher">Publisher</button>
       </th>
       <th scope="col">
-        <button type="button" data-sort="submission_time">Submission time</button>
+        <button type="button" data-sort="submission_time">Publication date</button>
       </th>
       <th scope="col">
         <button type="button" data-sort="download_count">Downloads</button>
@@ -131,6 +131,24 @@ function submissionGroup(item) {
   // 0 = no date
   // 1 = has date
   return item.submission_time === null ? 0 : 1;
+}
+
+function updateSortIndicators() {
+  document.querySelectorAll("th").forEach(th => {
+    const button = th.querySelector("button");
+    if (!button) return;
+
+    const key = button.dataset.sort;
+    if (key === currentSortKey) {
+      th.setAttribute("aria-sort", sortAscending ? "ascending" : "descending");
+      button.textContent = button.textContent.replace(/[▲▼]/g, "") + (sortAscending ? " ▲" : " ▼");
+      button.setAttribute("aria-label", `${button.textContent.replace(/[▲▼]/g, "").trim()}, ${sortAscending ? "ascending" : "descending"}`);
+    } else {
+      th.setAttribute("aria-sort", "none");
+      button.textContent = button.textContent.replace(/[▲▼]/g, "");
+      button.setAttribute("aria-label", `${button.textContent.trim()}`);
+    }
+  });
 }
 
 function sortData(key) {
@@ -210,6 +228,7 @@ function sortData(key) {
   });
 
   renderTable();
+  updateSortIndicators();
 }
 
 function formatSubmissionTime(timestamp) {
@@ -294,6 +313,16 @@ fetch("https://raw.githubusercontent.com/CyrilleB79/NVDAAddonsStats/data/data.js
 </script>
 
 <p id="meta-info"></p>
+
+<footer>
+  <p>
+    &copy; 2026 Cyrille Bougot. Licensed under <a href="https://github.com/CyrilleB79/NVDAAddonsStats/blob/main/LICENSE" target="_blank" rel="noopener">
+      GNU General Public License v2 or later
+    </a>
+    .
+    Source code on <a href="https://github.com/CyrilleB79/NVDAAddonsStats" target="_blank" rel="noopener">GitHub</a>.
+  </p>
+</footer>
 
 </body>
 </html>
