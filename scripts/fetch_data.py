@@ -44,6 +44,31 @@ def extract_github_owner_repo(url):
         return None
     return parts[0], parts[1]
 
+def isSameReleaseUrl(url1, url2):
+    """
+    Compares two GitHub release URLs to decide if they are the same.
+    We ignore owner and repo in the path. to test if same release because owner / repo may have changed.
+    """
+    def get_suffix(url):
+        p = urlparse(url)
+        # E.g.: path = /owner/repo/releases/download/tag/filename
+        parts = p.path.split('/')
+        try:
+            idx = parts.index("download")
+            suffix = parts[idx+1:]
+            return "/".join(suffix)
+        except ValueError:
+            return None
+
+    suffix1 = get_suffix(url1)
+    suffix2 = get_suffix(url2)
+    if suffix1 is None or suffix2 is None:
+        return False
+    if suffix1 != suffix2:
+        if suffix1.lower() == suffix2.lower():
+            print(f"Warning: similar suffixes:\n{url1=}\n{url2=}")
+    return suffix1 == suffix2
+
 def get_github_asset_downloads(owner, repo, url):
     """
     Query GitHub releases API for a repo and look for an asset by name.
@@ -71,7 +96,7 @@ def get_github_asset_downloads(owner, repo, url):
         for release in releases:
             assets = release.get("assets", [])
             for asset in assets:
-                if asset.get("browser_download_url") == url:
+                if isSameReleaseUrl(asset.get("browser_download_url"), url):
                     return asset.get("download_count", -1)
         # Asset not found in any release
         print(f"Info: Asset '{url}' not found in releases of {owner}/{repo}")
