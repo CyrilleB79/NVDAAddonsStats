@@ -29,18 +29,23 @@ GITHUB_API_HEADERS = {
     "Authorization": f"token {os.getenv('GITHUB_TOKEN')}"
 }
 
-def extract_github_owner_repo(url):
+def extract_github_release_owner_repo(url):
     """
-    Extract GitHub owner and repo from a URL if possible.
-    Return (owner, repo) or None if not GitHub URL.
+    Extract GitHub owner and repo from a GitHub release URL if possible.
+    Return (owner, repo) or None if not GitHub URL or not a GitHub release URL.
     """
-    if not url:
-        return None
     parsed = urlparse(url)
     if parsed.netloc.lower() != "github.com":
+        print(f"Warning: Non-GitHub URL : {url}")
         return None
+    # E.g.: parsed.path = "/owner/repo/releases/download/tag/filename"
     parts = parsed.path.strip("/").split("/")
-    if len(parts) < 2:
+    if not (
+        len(parts) >= 4
+        and parts[2].lower() == "releases"
+        and parts[3].lower() == "download"
+    ):
+        print(f"Warning: Non-release GitHub URL : {url}")
         return None
     return parts[0], parts[1]
 
@@ -148,10 +153,10 @@ def main():
         }
 
         # Determine if hosted on GitHub from homepage url
-        githubOwnerRepo = extract_github_owner_repo(url)
+        githubOwnerRepo = extract_github_release_owner_repo(url)
         if githubOwnerRepo is None:
             addon_entry["on_github"] = False
-            # No GitHub hosting, skip download counts
+            # No GitHub release hosting, skip download counts
             items.append(addon_entry)
             continue
         else:
