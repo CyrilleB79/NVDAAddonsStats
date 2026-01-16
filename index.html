@@ -51,6 +51,24 @@ This table lists NVDA add-ons and their versions, with download counts retrieved
 from GitHub when available.
 </p>
 
+<section aria-label="Filters" id="filters" style="margin-bottom:1em;">
+
+  <label for="channel-filter">Channel:</label>
+  <select id="channel-filter" name="channel">
+    <option value="all">All</option>
+    <option value="stable">Stable</option>
+    <option value="beta">Beta</option>
+    <option value="dev">Dev</option>
+  </select>
+
+  <label for="status-filter" style="margin-left: 2em;">Status:</label>
+  <select id="status-filter" name="status">
+    <option value="all">All add-ons</option>
+    <option value="github_release">GitHub release</option>
+    <option value="not_github_release">Not a GitHub release</option>
+  </select>
+</section>
+
 <table>
   <thead>
     <tr>

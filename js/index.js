@@ -20,12 +20,17 @@
 "use strict";
 
 let data = [];
+let filteredData = [];
 let currentSortKey = null;
 let sortAscending = true;
 
+// Filter state
+let channelFilter = "all";   // all | stable | beta / dev
+let statusFilter = "all";    // all | github_release | not_a_github_release
+
 // Constants to represent GitHub statuses
 const GITHUB_STATUS = {
-  NOT_ON_GITHUB: "NOT_ON_GITHUB",
+  NOT_A_GITHUB_RELEASE: "NOT_A_GITHUB_RELEASE",
   ASSET_MISSING: "ASSET_MISSING",
   OK: "OK",
 };
@@ -33,7 +38,7 @@ const GITHUB_STATUS = {
 // Function returning the internal GitHub status code for an item
 function getGithubStatusCode(item) {
   if (!item.on_github) {
-    return GITHUB_STATUS.NOT_ON_GITHUB;
+    return GITHUB_STATUS.NOT_A_GITHUB_RELEASE;
   }
   if (item.asset_missing) {
     return GITHUB_STATUS.ASSET_MISSING;
@@ -45,8 +50,8 @@ function getGithubStatusCode(item) {
 // User-facing status text, derived from internal status codes
 function getStatus(item) {
   switch (getGithubStatusCode(item)) {
-    case GITHUB_STATUS.NOT_ON_GITHUB:
-      return "Not hosted on GitHub";
+    case GITHUB_STATUS.NOT_A_GITHUB_RELEASE:
+      return "Not a GitHub release";
     case GITHUB_STATUS.ASSET_MISSING:
       return "GitHub asset not found";
     // case GITHUB_STATUS.RATE_LIMITED:
@@ -60,7 +65,7 @@ function getStatus(item) {
 const GITHUB_STATUS_ORDER = {
   [GITHUB_STATUS.OK]: 0,
   [GITHUB_STATUS.ASSET_MISSING]: 1,
-  [GITHUB_STATUS.NOT_ON_GITHUB]: 2,
+  [GITHUB_STATUS.NOT_A_GITHUB_RELEASE]: 2,
 };
 
 function submissionGroup(item) {
@@ -87,15 +92,19 @@ function updateSortIndicators() {
   });
 }
 
-function sortData(key) {
-  if (currentSortKey === key) {
-    sortAscending = !sortAscending;
+function sortData(key, keepDirection = false) {
+  if (!keepDirection) {
+    if (currentSortKey === key) {
+      sortAscending = !sortAscending;
+    } else {
+      currentSortKey = key;
+      sortAscending = true;
+    }
   } else {
     currentSortKey = key;
-    sortAscending = true;
   }
 
-  data.sort((a, b) => {
+  filteredData.sort((a, b) => {
     if (key === "submission_time") {
       // First criterion: group according to date (0 = no date, 1 = has date)
       const groupA = submissionGroup(a);
@@ -166,11 +175,57 @@ function formatSubmissionTime(timestamp) {
   return new Date(timestamp).toLocaleString();
 }
 
+function channelMatches(item) {
+  if (channelFilter === "all") return true;
+  return item.channel === channelFilter;
+}
+
+function statusMatches(item) {
+  if (statusFilter === "all") return true;
+
+  const status = getGithubStatusCode(item);
+
+  if (statusFilter === "github_release") {
+    // We accept OK and ASSET_MISSING because both are GitHub releases
+    return status === GITHUB_STATUS.OK || status === GITHUB_STATUS.ASSET_MISSING;
+  }
+
+  if (statusFilter === "not_github_release") {
+    return status === GITHUB_STATUS.NOT_A_GITHUB_RELEASE;
+  }
+
+  return true;
+}
+
+function applyFilters() {
+  filteredData = data.filter(item =>
+    channelMatches(item) &&
+    statusMatches(item)
+  );
+
+  // Re-apply sorting on filtered data
+  if (currentSortKey) {
+    sortData(currentSortKey, true);
+  } else {
+    renderTable();
+  }
+}
+
+function setChannelFilter(value) {
+  channelFilter = value;
+  applyFilters();
+}
+
+function setStatusFilter(value) {
+  statusFilter = value;
+  applyFilters();
+}
+
 function renderTable() {
   const tbody = document.getElementById("table-body");
   tbody.innerHTML = "";
 
-  data.forEach(item => {
+  filteredData.forEach(item => {
     const tr = document.createElement("tr");
 
     const nameTd = document.createElement("td");
@@ -229,13 +284,26 @@ document.querySelectorAll("th button").forEach(button => {
   });
 });
 
-fetch("https://raw.githubusercontent.com/CyrilleB79/NVDAAddonsStats/data/data.json")
-  .then(response => response.json())
-  .then(json => {
-    data = json.items;
-    sortData("name"); // already calls renderTable
-    renderMeta(json.meta);
-  })
-  .catch(error => {
-    console.error("Failed to load data.json:", error);
+document.addEventListener("DOMContentLoaded", () => {
+  document.getElementById("channel-filter").addEventListener("change", (e) => {
+    setChannelFilter(e.target.value);
   });
+
+  document.getElementById("status-filter").addEventListener("change", (e) => {
+    setStatusFilter(e.target.value);
+  });
+
+  fetch("https://raw.githubusercontent.com/CyrilleB79/NVDAAddonsStats/data/data.json")
+    .then(response => response.json())
+    .then(json => {
+      data = json.items;
+      document.getElementById("channel-filter").value = channelFilter;
+      document.getElementById("status-filter").value = statusFilter;
+      applyFilters();        // initialise filteredData
+      sortData("name"); // already calls renderTable
+      renderMeta(json.meta);
+    })
+    .catch(error => {
+      console.error("Failed to load data.json:", error);
+    });
+});
