@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-03-15T02:49:13.054994Z",
-    "generation_duration_seconds": 208.96,
+    "generated_at": "2026-03-15T07:04:28.695877Z",
+    "generation_duration_seconds": 152.36,
     "total_addons": 509,
     "github_api_requests": 497
   },
@@ -135,7 +135,7 @@
       "publisher": "rayo-alcantar",
       "submission_time": 1770865144000,
       "on_github": true,
-      "download_count": 4456,
+      "download_count": 4457,
       "asset_missing": false
     },
     {
@@ -279,7 +279,7 @@
       "publisher": "Oleksandr Gryshchenko",
       "submission_time": 1750364127000,
       "on_github": true,
-      "download_count": 4084,
+      "download_count": 4088,
       "asset_missing": false
     },
     {
@@ -297,13 +297,13 @@
     {
       "id": "ime_expressive",
       "name": "Chinese input method support for NVDA",
-      "url": "https://github.com/nvdacn/ime_expressive/releases/download/2025.6.13/ime_expressive-2025.6.13.nvda-addon",
-      "version": "2025.6.13",
+      "url": "https://github.com/nvdacn/ime_expressive/releases/download/2026.3.15/ime_expressive-2026.3.15.nvda-addon",
+      "version": "2026.3.15",
       "channel": "stable",
-      "publisher": "NVDACN",
-      "submission_time": 1749797302000,
+      "publisher": "Cary-rowen <manchen_0528@outlook.com>",
+      "submission_time": 1773517700000,
       "on_github": true,
-      "download_count": 2999,
+      "download_count": 1,
       "asset_missing": false
     },
     {
@@ -553,7 +553,7 @@
       "publisher": "Nuno Costa",
       "submission_time": 1773044403000,
       "on_github": true,
-      "download_count": 646,
+      "download_count": 650,
       "asset_missing": false
     },
     {
@@ -565,7 +565,7 @@
       "publisher": "addonFactory",
       "submission_time": 1752614630000,
       "on_github": true,
-      "download_count": 21427,
+      "download_count": 21428,
       "asset_missing": false
     },
     {
@@ -649,7 +649,7 @@
       "publisher": "josephsl",
       "submission_time": 1760440963000,
       "on_github": true,
-      "download_count": 13474,
+      "download_count": 13476,
       "asset_missing": false
     },
     {
@@ -673,7 +673,7 @@
       "publisher": "Ángel Reyes",
       "submission_time": null,
       "on_github": true,
-      "download_count": 1120,
+      "download_count": 1121,
       "asset_missing": false
     },
     {
@@ -1159,7 +1159,7 @@
       "publisher": "josephsl",
       "submission_time": 1773146103000,
       "on_github": true,
-      "download_count": 171,
+      "download_count": 174,
       "asset_missing": false
     },
     {
@@ -1255,7 +1255,7 @@
       "publisher": "snippetsForNVDA contributors",
       "submission_time": 1758478261000,
       "on_github": true,
-      "download_count": 954,
+      "download_count": 955,
       "asset_missing": false
     },
     {
@@ -1327,7 +1327,7 @@
       "publisher": "josephsl",
       "submission_time": 1756739681000,
       "on_github": true,
-      "download_count": 3677,
+      "download_count": 3678,
       "asset_missing": false
     },
     {
@@ -1387,7 +1387,7 @@
       "publisher": "Carter Temm, Carter Temm <cartertemm@gmail.com> and other contributors",
       "submission_time": 1750194945000,
       "on_github": true,
-      "download_count": 6892,
+      "download_count": 6893,
       "asset_missing": false
     },
     {
@@ -1843,7 +1843,7 @@
       "publisher": "ahmed samy",
       "submission_time": 1750080995000,
       "on_github": true,
-      "download_count": 11552,
+      "download_count": 11553,
       "asset_missing": false
     },
     {
@@ -2317,7 +2317,7 @@
       "publisher": "tspivey",
       "submission_time": 1750077769000,
       "on_github": true,
-      "download_count": 3265,
+      "download_count": 3266,
       "asset_missing": false
     },
     {
@@ -2423,7 +2423,7 @@
       "publisher": "nvdaes",
       "submission_time": 1772882471000,
       "on_github": true,
-      "download_count": 342,
+      "download_count": 343,
       "asset_missing": false
     },
     {
@@ -2447,7 +2447,7 @@
       "publisher": "Rui Fontes",
       "submission_time": 1730588339000,
       "on_github": true,
-      "download_count": 9674,
+      "download_count": 9675,
       "asset_missing": false
     },
     {
@@ -2471,7 +2471,7 @@
       "publisher": "Mahmood Hozhabri",
       "submission_time": 1771772372000,
       "on_github": true,
-      "download_count": 2495,
+      "download_count": 2497,
       "asset_missing": false
     },
     {
@@ -2483,7 +2483,7 @@
       "publisher": "Tseng Woody",
       "submission_time": 1755828141000,
       "on_github": true,
-      "download_count": 5646,
+      "download_count": 5647,
       "asset_missing": false
     },
     {
@@ -2507,7 +2507,7 @@
       "publisher": "James Scholes",
       "submission_time": 1750287698000,
       "on_github": true,
-      "download_count": 19510,
+      "download_count": 19511,
       "asset_missing": false
     },
     {
@@ -2591,7 +2591,7 @@
       "publisher": "huaiyinfeilong",
       "submission_time": 1767072123000,
       "on_github": true,
-      "download_count": 992,
+      "download_count": 993,
       "asset_missing": false
     },
     {
@@ -2795,7 +2795,7 @@
       "publisher": "Luke Davis",
       "submission_time": 1773238933000,
       "on_github": true,
-      "download_count": 526,
+      "download_count": 527,
       "asset_missing": false
     },
     {
@@ -2987,7 +2987,7 @@
       "publisher": "Rainer Brell",
       "submission_time": 1750086122000,
       "on_github": true,
-      "download_count": 1439,
+      "download_count": 1440,
       "asset_missing": false
     },
     {
@@ -3023,7 +3023,7 @@
       "publisher": "NVDA_TH",
       "submission_time": 1772676578000,
       "on_github": true,
-      "download_count": 186,
+      "download_count": 187,
       "asset_missing": false
     },
     {
@@ -3311,7 +3311,7 @@
       "publisher": "chaichaimee",
       "submission_time": 1770359435000,
       "on_github": true,
-      "download_count": 713,
+      "download_count": 714,
       "asset_missing": false
     },
     {
@@ -3441,7 +3441,7 @@
       "publisher": "josephsl",
       "submission_time": 1771612054000,
       "on_github": true,
-      "download_count": 1945,
+      "download_count": 1946,
       "asset_missing": false
     },
     {
@@ -3681,7 +3681,7 @@
       "publisher": "josephsl",
       "submission_time": 1771859491000,
       "on_github": true,
-      "download_count": 2586,
+      "download_count": 2589,
       "asset_missing": false
     },
     {
@@ -3945,7 +3945,7 @@
       "publisher": "josephsl",
       "submission_time": 1772038066000,
       "on_github": true,
-      "download_count": 1113,
+      "download_count": 1114,
       "asset_missing": false
     },
     {
@@ -3969,7 +3969,7 @@
       "publisher": "Fırat ATAŞ",
       "submission_time": 1768110981000,
       "on_github": true,
-      "download_count": 356,
+      "download_count": 357,
       "asset_missing": false
     },
     {
@@ -4077,7 +4077,7 @@
       "publisher": "josephsl",
       "submission_time": 1771859177000,
       "on_github": true,
-      "download_count": 5284,
+      "download_count": 5287,
       "asset_missing": false
     },
     {
@@ -4125,7 +4125,7 @@
       "publisher": "ruifontes",
       "submission_time": 1770595807000,
       "on_github": true,
-      "download_count": 5670,
+      "download_count": 5671,
       "asset_missing": false
     },
     {
@@ -5835,7 +5835,7 @@
       "publisher": "Luke Davis",
       "submission_time": 1773240483000,
       "on_github": true,
-      "download_count": 166,
+      "download_count": 167,
       "asset_missing": false
     },
     {
@@ -5883,7 +5883,7 @@
       "publisher": "Javi Dominguez",
       "submission_time": 1751228543000,
       "on_github": true,
-      "download_count": 1186,
+      "download_count": 1187,
       "asset_missing": false
     },
     {
@@ -5967,7 +5967,7 @@
       "publisher": "nvdaes",
       "submission_time": null,
       "on_github": true,
-      "download_count": 977,
+      "download_count": 978,
       "asset_missing": false
     },
     {
