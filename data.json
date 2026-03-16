@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-03-16T07:24:51.596021Z",
-    "generation_duration_seconds": 200.53,
+    "generated_at": "2026-03-16T13:23:24.419622Z",
+    "generation_duration_seconds": 236.97,
     "total_addons": 511,
     "github_api_requests": 499
   },
@@ -27,7 +27,7 @@
       "publisher": "Alano",
       "submission_time": 1768213596000,
       "on_github": true,
-      "download_count": 374,
+      "download_count": 375,
       "asset_missing": false
     },
     {
@@ -39,7 +39,7 @@
       "publisher": "Halimon Alexandr",
       "submission_time": 1773077427000,
       "on_github": true,
-      "download_count": 99,
+      "download_count": 100,
       "asset_missing": false
     },
     {
@@ -135,7 +135,7 @@
       "publisher": "rayo-alcantar",
       "submission_time": 1770865144000,
       "on_github": true,
-      "download_count": 4467,
+      "download_count": 4470,
       "asset_missing": false
     },
     {
@@ -1339,7 +1339,7 @@
       "publisher": "jpavonabian",
       "submission_time": 1771000661000,
       "on_github": true,
-      "download_count": 290,
+      "download_count": 291,
       "asset_missing": false
     },
     {
@@ -1609,13 +1609,13 @@
     {
       "id": "simpleCopy",
       "name": "simpleCopy",
-      "url": "https://github.com/chaichaimee/simpleCopy/releases/download/2026.3/simpleCopy-v2026.3.nvda-addon",
-      "version": "2026.3",
+      "url": "https://github.com/chaichaimee/simpleCopy/releases/download/2026.3.3/simpleCopy-v2026.3.3.nvda-addon",
+      "version": "2026.3.3",
       "channel": "stable",
       "publisher": "chai chaimee",
-      "submission_time": 1773397427000,
+      "submission_time": 1773639661000,
       "on_github": true,
-      "download_count": 17,
+      "download_count": 6,
       "asset_missing": false
     },
     {
@@ -2329,7 +2329,7 @@
       "publisher": "Shunxian Wu",
       "submission_time": 1769487987000,
       "on_github": true,
-      "download_count": 182,
+      "download_count": 183,
       "asset_missing": false
     },
     {
@@ -2423,7 +2423,7 @@
       "publisher": "nvdaes",
       "submission_time": 1773600841000,
       "on_github": true,
-      "download_count": 19,
+      "download_count": 25,
       "asset_missing": false
     },
     {
@@ -2471,7 +2471,7 @@
       "publisher": "Mahmood Hozhabri",
       "submission_time": 1771772372000,
       "on_github": true,
-      "download_count": 2499,
+      "download_count": 2500,
       "asset_missing": false
     },
     {
@@ -2795,7 +2795,7 @@
       "publisher": "Luke Davis",
       "submission_time": 1773238933000,
       "on_github": true,
-      "download_count": 540,
+      "download_count": 544,
       "asset_missing": false
     },
     {
@@ -3945,7 +3945,7 @@
       "publisher": "josephsl",
       "submission_time": 1772038066000,
       "on_github": true,
-      "download_count": 1116,
+      "download_count": 1117,
       "asset_missing": false
     },
     {
@@ -4089,7 +4089,7 @@
       "publisher": "josephsl",
       "submission_time": 1771859177000,
       "on_github": true,
-      "download_count": 5299,
+      "download_count": 5301,
       "asset_missing": false
     },
     {
@@ -4269,7 +4269,7 @@
       "publisher": "Oleksandr Gryshchenko",
       "submission_time": 1773613290000,
       "on_github": true,
-      "download_count": 2,
+      "download_count": 3,
       "asset_missing": false
     },
     {
@@ -4471,7 +4471,7 @@
       "publisher": "Javi Dominguez",
       "submission_time": null,
       "on_github": true,
-      "download_count": 1542,
+      "download_count": 1543,
       "asset_missing": false
     },
     {
@@ -4685,7 +4685,7 @@
       "publisher": "josephsl",
       "submission_time": 1771860098000,
       "on_github": true,
-      "download_count": 82,
+      "download_count": 83,
       "asset_missing": false
     },
     {
@@ -5859,7 +5859,7 @@
       "publisher": "Luke Davis",
       "submission_time": 1773240483000,
       "on_github": true,
-      "download_count": 170,
+      "download_count": 171,
       "asset_missing": false
     },
     {
