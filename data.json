@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-03-25T13:20:59.927931Z",
-    "generation_duration_seconds": 218.98,
+    "generated_at": "2026-03-25T19:01:31.794668Z",
+    "generation_duration_seconds": 163.41,
     "total_addons": 512,
     "github_api_requests": 500
   },
@@ -39,7 +39,7 @@
       "publisher": "Halimon Alexandr",
       "submission_time": 1774075821000,
       "on_github": true,
-      "download_count": 34,
+      "download_count": 35,
       "asset_missing": false
     },
     {
@@ -87,7 +87,7 @@
       "publisher": "abdel792",
       "submission_time": 1752501570000,
       "on_github": true,
-      "download_count": 15689,
+      "download_count": 15693,
       "asset_missing": false
     },
     {
@@ -123,7 +123,7 @@
       "publisher": "Darko Milošević",
       "submission_time": 1750447632000,
       "on_github": true,
-      "download_count": 3695,
+      "download_count": 3699,
       "asset_missing": false
     },
     {
@@ -135,7 +135,7 @@
       "publisher": "rayo-alcantar",
       "submission_time": 1770865144000,
       "on_github": true,
-      "download_count": 4601,
+      "download_count": 4630,
       "asset_missing": false
     },
     {
@@ -147,7 +147,7 @@
       "publisher": "Fawaz Abdul Rahman",
       "submission_time": null,
       "on_github": true,
-      "download_count": 4608,
+      "download_count": 4609,
       "asset_missing": false
     },
     {
@@ -171,7 +171,7 @@
       "publisher": "Javi Dominguez",
       "submission_time": 1750403212000,
       "on_github": true,
-      "download_count": 7163,
+      "download_count": 7164,
       "asset_missing": false
     },
     {
@@ -255,7 +255,7 @@
       "publisher": "Aldenor Neto",
       "submission_time": 1772377993000,
       "on_github": true,
-      "download_count": 177,
+      "download_count": 180,
       "asset_missing": false
     },
     {
@@ -303,7 +303,7 @@
       "publisher": "Cary-rowen <manchen_0528@outlook.com>",
       "submission_time": 1774225306000,
       "on_github": true,
-      "download_count": 38,
+      "download_count": 47,
       "asset_missing": false
     },
     {
@@ -375,7 +375,7 @@
       "publisher": "Cary-rowen",
       "submission_time": 1766822361000,
       "on_github": true,
-      "download_count": 730,
+      "download_count": 731,
       "asset_missing": false
     },
     {
@@ -423,7 +423,7 @@
       "publisher": "Oleksandr Gryshchenko",
       "submission_time": 1750364966000,
       "on_github": true,
-      "download_count": 7423,
+      "download_count": 7425,
       "asset_missing": false
     },
     {
@@ -459,7 +459,7 @@
       "publisher": "Edilberto Fonseca",
       "submission_time": 1770230884000,
       "on_github": true,
-      "download_count": 535,
+      "download_count": 536,
       "asset_missing": false
     },
     {
@@ -483,7 +483,7 @@
       "publisher": "Emil-18",
       "submission_time": 1766870379000,
       "on_github": true,
-      "download_count": 747,
+      "download_count": 748,
       "asset_missing": false
     },
     {
@@ -553,7 +553,7 @@
       "publisher": "Nuno Costa",
       "submission_time": 1773044403000,
       "on_github": true,
-      "download_count": 719,
+      "download_count": 725,
       "asset_missing": false
     },
     {
@@ -565,7 +565,7 @@
       "publisher": "addonFactory",
       "submission_time": 1752614630000,
       "on_github": true,
-      "download_count": 21469,
+      "download_count": 21472,
       "asset_missing": false
     },
     {
@@ -577,7 +577,7 @@
       "publisher": "Rui Fontes",
       "submission_time": 1752425509000,
       "on_github": true,
-      "download_count": 10838,
+      "download_count": 10840,
       "asset_missing": false
     },
     {
@@ -589,7 +589,7 @@
       "publisher": "mrido1",
       "submission_time": 1771376564000,
       "on_github": true,
-      "download_count": 1855,
+      "download_count": 1859,
       "asset_missing": false
     },
     {
@@ -649,7 +649,7 @@
       "publisher": "josephsl",
       "submission_time": 1760440963000,
       "on_github": true,
-      "download_count": 13536,
+      "download_count": 13539,
       "asset_missing": false
     },
     {
@@ -661,7 +661,7 @@
       "publisher": "Alberto Buffolino",
       "submission_time": 1750214457000,
       "on_github": true,
-      "download_count": 1752,
+      "download_count": 1753,
       "asset_missing": false
     },
     {
@@ -685,7 +685,7 @@
       "publisher": "nvdaes",
       "submission_time": 1754769013000,
       "on_github": true,
-      "download_count": 3890,
+      "download_count": 3891,
       "asset_missing": false
     },
     {
@@ -757,7 +757,7 @@
       "publisher": "huaiyinfeilong",
       "submission_time": 1751739234000,
       "on_github": true,
-      "download_count": 8306,
+      "download_count": 8307,
       "asset_missing": false
     },
     {
@@ -769,7 +769,7 @@
       "publisher": "Andhi Mardianto",
       "submission_time": 1751499401000,
       "on_github": true,
-      "download_count": 1901,
+      "download_count": 1903,
       "asset_missing": false
     },
     {
@@ -793,7 +793,7 @@
       "publisher": "Jakub Lukowicz",
       "submission_time": 1750424470000,
       "on_github": true,
-      "download_count": 5476,
+      "download_count": 5477,
       "asset_missing": false
     },
     {
@@ -817,7 +817,7 @@
       "publisher": "Alberto Buffolino",
       "submission_time": 1750127845000,
       "on_github": true,
-      "download_count": 2298,
+      "download_count": 2299,
       "asset_missing": false
     },
     {
@@ -841,7 +841,7 @@
       "publisher": "hamidrehzaey",
       "submission_time": 1753735895000,
       "on_github": true,
-      "download_count": 781,
+      "download_count": 782,
       "asset_missing": false
     },
     {
@@ -899,7 +899,7 @@
       "publisher": "Leonard de Ruijter",
       "submission_time": 1755103653000,
       "on_github": true,
-      "download_count": 5014,
+      "download_count": 5017,
       "asset_missing": false
     },
     {
@@ -957,7 +957,7 @@
       "publisher": "Aakash",
       "submission_time": 1767685485000,
       "on_github": true,
-      "download_count": 2113,
+      "download_count": 2116,
       "asset_missing": false
     },
     {
@@ -993,7 +993,7 @@
       "publisher": "abdel792",
       "submission_time": 1751537079000,
       "on_github": true,
-      "download_count": 3296,
+      "download_count": 3297,
       "asset_missing": false
     },
     {
@@ -1005,7 +1005,7 @@
       "publisher": "Marco Leija <marcoleija@marco-ml.com>",
       "submission_time": 1759215379000,
       "on_github": true,
-      "download_count": 485,
+      "download_count": 487,
       "asset_missing": false
     },
     {
@@ -1029,7 +1029,7 @@
       "publisher": "Cyrille Bougot",
       "submission_time": 1749651445000,
       "on_github": true,
-      "download_count": 6987,
+      "download_count": 6988,
       "asset_missing": false
     },
     {
@@ -1077,7 +1077,7 @@
       "publisher": "Muhammad",
       "submission_time": 1770689484000,
       "on_github": true,
-      "download_count": 1535,
+      "download_count": 1538,
       "asset_missing": false
     },
     {
@@ -1137,7 +1137,7 @@
       "publisher": "Cyrille Bougot",
       "submission_time": 1771330357000,
       "on_github": true,
-      "download_count": 759,
+      "download_count": 760,
       "asset_missing": false
     },
     {
@@ -1159,7 +1159,7 @@
       "publisher": "josephsl",
       "submission_time": 1774146382000,
       "on_github": true,
-      "download_count": 78,
+      "download_count": 83,
       "asset_missing": false
     },
     {
@@ -1171,7 +1171,7 @@
       "publisher": "Rui Fontes",
       "submission_time": 1754184084000,
       "on_github": true,
-      "download_count": 4214,
+      "download_count": 4217,
       "asset_missing": false
     },
     {
@@ -1183,7 +1183,7 @@
       "publisher": "Sergey Shishmintsev, Alexy Sadovoi, Sergey A.K.A. Electrik, Kvark and other developers",
       "submission_time": 1743157102000,
       "on_github": true,
-      "download_count": 2989,
+      "download_count": 2990,
       "asset_missing": false
     },
     {
@@ -1207,7 +1207,7 @@
       "publisher": "Edilberto Fonseca",
       "submission_time": 1756127825000,
       "on_github": true,
-      "download_count": 1214,
+      "download_count": 1216,
       "asset_missing": false
     },
     {
@@ -1279,7 +1279,7 @@
       "publisher": "ruifontes",
       "submission_time": 1749925143000,
       "on_github": true,
-      "download_count": 4429,
+      "download_count": 4430,
       "asset_missing": false
     },
     {
@@ -1291,7 +1291,7 @@
       "publisher": "josephsl",
       "submission_time": 1772036838000,
       "on_github": true,
-      "download_count": 259,
+      "download_count": 260,
       "asset_missing": false
     },
     {
@@ -1387,7 +1387,7 @@
       "publisher": "Carter Temm, Carter Temm <cartertemm@gmail.com> and other contributors",
       "submission_time": 1750194945000,
       "on_github": true,
-      "download_count": 6912,
+      "download_count": 6914,
       "asset_missing": false
     },
     {
@@ -1483,7 +1483,7 @@
       "publisher": "alekssamos",
       "submission_time": 1766405626000,
       "on_github": true,
-      "download_count": 2087,
+      "download_count": 2090,
       "asset_missing": false
     },
     {
@@ -1519,7 +1519,7 @@
       "publisher": "hamidrehzaey",
       "submission_time": 1753726292000,
       "on_github": true,
-      "download_count": 2240,
+      "download_count": 2241,
       "asset_missing": false
     },
     {
@@ -1579,7 +1579,7 @@
       "publisher": "Yannick Plassiard <plassiardyannick@gmail.com> Hxebolax",
       "submission_time": null,
       "on_github": true,
-      "download_count": 14966,
+      "download_count": 14967,
       "asset_missing": false
     },
     {
@@ -1615,7 +1615,7 @@
       "publisher": "chai chaimee",
       "submission_time": 1773639661000,
       "on_github": true,
-      "download_count": 36,
+      "download_count": 39,
       "asset_missing": false
     },
     {
@@ -1627,7 +1627,7 @@
       "publisher": "Cyrille Bougot",
       "submission_time": 1760044367000,
       "on_github": true,
-      "download_count": 1511,
+      "download_count": 1513,
       "asset_missing": false
     },
     {
@@ -1663,7 +1663,7 @@
       "publisher": "Wendrill Aksenow Brandão <wendrillaksenow@gmail.com>",
       "submission_time": 1752554143000,
       "on_github": true,
-      "download_count": 599,
+      "download_count": 600,
       "asset_missing": false
     },
     {
@@ -1687,7 +1687,7 @@
       "publisher": "vireon-interactive",
       "submission_time": 1769792184000,
       "on_github": true,
-      "download_count": 128,
+      "download_count": 129,
       "asset_missing": false
     },
     {
@@ -1699,7 +1699,7 @@
       "publisher": "Leandro Souza",
       "submission_time": 1773724705000,
       "on_github": true,
-      "download_count": 4,
+      "download_count": 5,
       "asset_missing": false
     },
     {
@@ -1759,7 +1759,7 @@
       "publisher": "Andhi Mardianto",
       "submission_time": 1751499357000,
       "on_github": true,
-      "download_count": 1243,
+      "download_count": 1244,
       "asset_missing": false
     },
     {
@@ -1783,7 +1783,7 @@
       "publisher": "nvdaes",
       "submission_time": 1754769856000,
       "on_github": true,
-      "download_count": 1892,
+      "download_count": 1893,
       "asset_missing": false
     },
     {
@@ -1819,7 +1819,7 @@
       "publisher": "Volkan Ozdemir Software Services <bilgi@volkan-ozdemir.com.tr>",
       "submission_time": 1768110661000,
       "on_github": true,
-      "download_count": 187,
+      "download_count": 188,
       "asset_missing": false
     },
     {
@@ -1843,7 +1843,7 @@
       "publisher": "ahmed samy",
       "submission_time": 1750080995000,
       "on_github": true,
-      "download_count": 11580,
+      "download_count": 11586,
       "asset_missing": false
     },
     {
@@ -1961,7 +1961,7 @@
       "publisher": "Luke Davis, Josephsl",
       "submission_time": 1774263959000,
       "on_github": true,
-      "download_count": 51,
+      "download_count": 59,
       "asset_missing": false
     },
     {
@@ -2009,7 +2009,7 @@
       "publisher": "Dalen",
       "submission_time": 1753407409000,
       "on_github": true,
-      "download_count": 1279,
+      "download_count": 1280,
       "asset_missing": false
     },
     {
@@ -2081,7 +2081,7 @@
       "publisher": "Tyler Spivey <tspivey@pcdesk.net>, Christopher Toth <q@q-continuum.net>",
       "submission_time": null,
       "on_github": true,
-      "download_count": 45204,
+      "download_count": 45207,
       "asset_missing": false
     },
     {
@@ -2105,7 +2105,7 @@
       "publisher": "mzanm",
       "submission_time": 1762545020000,
       "on_github": true,
-      "download_count": 2748,
+      "download_count": 2749,
       "asset_missing": false
     },
     {
@@ -2127,7 +2127,7 @@
       "publisher": "Tony Malykh",
       "submission_time": 1751485465000,
       "on_github": true,
-      "download_count": 2394,
+      "download_count": 2397,
       "asset_missing": false
     },
     {
@@ -2139,7 +2139,7 @@
       "publisher": "jmdaweb",
       "submission_time": 1749839710000,
       "on_github": true,
-      "download_count": 10419,
+      "download_count": 10420,
       "asset_missing": false
     },
     {
@@ -2185,7 +2185,7 @@
       "publisher": "josephsl",
       "submission_time": 1771860131000,
       "on_github": true,
-      "download_count": 250,
+      "download_count": 253,
       "asset_missing": false
     },
     {
@@ -2221,7 +2221,7 @@
       "publisher": "Cary-rowen <manchen_0528@outlook.com>",
       "submission_time": 1768724241000,
       "on_github": true,
-      "download_count": 658,
+      "download_count": 659,
       "asset_missing": false
     },
     {
@@ -2293,7 +2293,7 @@
       "publisher": "Kostya Gladkiy",
       "submission_time": null,
       "on_github": true,
-      "download_count": 21592,
+      "download_count": 21593,
       "asset_missing": false
     },
     {
@@ -2317,7 +2317,7 @@
       "publisher": "tspivey",
       "submission_time": 1750077769000,
       "on_github": true,
-      "download_count": 3273,
+      "download_count": 3274,
       "asset_missing": false
     },
     {
@@ -2375,7 +2375,7 @@
       "publisher": "Corentin Bacqué-Cazenave",
       "submission_time": 1753607754000,
       "on_github": true,
-      "download_count": 4587,
+      "download_count": 4588,
       "asset_missing": false
     },
     {
@@ -2423,7 +2423,7 @@
       "publisher": "nvdaes",
       "submission_time": 1773600841000,
       "on_github": true,
-      "download_count": 70,
+      "download_count": 76,
       "asset_missing": false
     },
     {
@@ -2447,7 +2447,7 @@
       "publisher": "Rui Fontes",
       "submission_time": 1730588339000,
       "on_github": true,
-      "download_count": 9684,
+      "download_count": 9694,
       "asset_missing": false
     },
     {
@@ -2471,7 +2471,7 @@
       "publisher": "Mahmood Hozhabri",
       "submission_time": 1771772372000,
       "on_github": true,
-      "download_count": 2520,
+      "download_count": 2527,
       "asset_missing": false
     },
     {
@@ -2483,7 +2483,7 @@
       "publisher": "Tseng Woody",
       "submission_time": 1755828141000,
       "on_github": true,
-      "download_count": 5666,
+      "download_count": 5667,
       "asset_missing": false
     },
     {
@@ -2507,7 +2507,7 @@
       "publisher": "James Scholes",
       "submission_time": 1750287698000,
       "on_github": true,
-      "download_count": 19554,
+      "download_count": 19560,
       "asset_missing": false
     },
     {
@@ -2543,7 +2543,7 @@
       "publisher": "Abdalrahmen Maher",
       "submission_time": 1750156582000,
       "on_github": true,
-      "download_count": 1997,
+      "download_count": 1998,
       "asset_missing": false
     },
     {
@@ -2567,7 +2567,7 @@
       "publisher": "Wallan Martins",
       "submission_time": 1762906976000,
       "on_github": true,
-      "download_count": 483,
+      "download_count": 485,
       "asset_missing": false
     },
     {
@@ -2603,7 +2603,7 @@
       "publisher": "maxe-hsieh",
       "submission_time": 1764998626000,
       "on_github": true,
-      "download_count": 4086,
+      "download_count": 4087,
       "asset_missing": false
     },
     {
@@ -2675,7 +2675,7 @@
       "publisher": "Munawar Bijani",
       "submission_time": 1751356329000,
       "on_github": true,
-      "download_count": 1731,
+      "download_count": 1732,
       "asset_missing": false
     },
     {
@@ -2711,7 +2711,7 @@
       "publisher": "Rainer Brell",
       "submission_time": 1769338283000,
       "on_github": true,
-      "download_count": 5095,
+      "download_count": 5099,
       "asset_missing": false
     },
     {
@@ -2723,7 +2723,7 @@
       "publisher": "hwf1324",
       "submission_time": 1767709128000,
       "on_github": true,
-      "download_count": 1131,
+      "download_count": 1132,
       "asset_missing": false
     },
     {
@@ -2747,7 +2747,7 @@
       "publisher": "ruifontes",
       "submission_time": 1749846297000,
       "on_github": true,
-      "download_count": 6427,
+      "download_count": 6430,
       "asset_missing": false
     },
     {
@@ -2783,7 +2783,7 @@
       "publisher": "jpavonabian",
       "submission_time": 1750168781000,
       "on_github": true,
-      "download_count": 1605,
+      "download_count": 1606,
       "asset_missing": false
     },
     {
@@ -2795,7 +2795,7 @@
       "publisher": "Luke Davis",
       "submission_time": 1773238933000,
       "on_github": true,
-      "download_count": 605,
+      "download_count": 612,
       "asset_missing": false
     },
     {
@@ -2831,7 +2831,7 @@
       "publisher": "Ibrahim Hamadeh",
       "submission_time": 1770662589000,
       "on_github": true,
-      "download_count": 279,
+      "download_count": 280,
       "asset_missing": false
     },
     {
@@ -2867,7 +2867,7 @@
       "publisher": "Patrick Barboza <patrickbarboza774@gmail.com>, Wendrill Aksenow Brandão <wendrillaksenow@gmail.com>",
       "submission_time": 1755264186000,
       "on_github": true,
-      "download_count": 1111,
+      "download_count": 1112,
       "asset_missing": false
     },
     {
@@ -2891,7 +2891,7 @@
       "publisher": "Rui Fontes",
       "submission_time": 1749658601000,
       "on_github": true,
-      "download_count": 7409,
+      "download_count": 7410,
       "asset_missing": false
     },
     {
@@ -2975,7 +2975,7 @@
       "publisher": "Neil Soiffer",
       "submission_time": 1763442561000,
       "on_github": true,
-      "download_count": 3446,
+      "download_count": 3449,
       "asset_missing": false
     },
     {
@@ -3023,7 +3023,7 @@
       "publisher": "NVDA_TH",
       "submission_time": 1773878525000,
       "on_github": true,
-      "download_count": 50,
+      "download_count": 54,
       "asset_missing": false
     },
     {
@@ -3071,7 +3071,7 @@
       "publisher": "ruifontes",
       "submission_time": 1754873822000,
       "on_github": true,
-      "download_count": 3458,
+      "download_count": 3459,
       "asset_missing": false
     },
     {
@@ -3083,7 +3083,7 @@
       "publisher": "Pierre-Louis Renaud",
       "submission_time": 1767941643000,
       "on_github": true,
-      "download_count": 3320,
+      "download_count": 3325,
       "asset_missing": false
     },
     {
@@ -3095,7 +3095,7 @@
       "publisher": "Tony Malykh",
       "submission_time": 1751485504000,
       "on_github": true,
-      "download_count": 1883,
+      "download_count": 1884,
       "asset_missing": false
     },
     {
@@ -3167,7 +3167,7 @@
       "publisher": "Darko Milošević",
       "submission_time": 1750376679000,
       "on_github": true,
-      "download_count": 2134,
+      "download_count": 2135,
       "asset_missing": false
     },
     {
@@ -3191,7 +3191,7 @@
       "publisher": "Quin Gillespie <TheQuinbox@gmail.com>",
       "submission_time": null,
       "on_github": true,
-      "download_count": 3946,
+      "download_count": 3947,
       "asset_missing": false
     },
     {
@@ -3287,7 +3287,7 @@
       "publisher": "tspivey",
       "submission_time": 1750992277000,
       "on_github": true,
-      "download_count": 1948,
+      "download_count": 1949,
       "asset_missing": false
     },
     {
@@ -3299,7 +3299,7 @@
       "publisher": "mesteranas",
       "submission_time": null,
       "on_github": true,
-      "download_count": 2613,
+      "download_count": 2615,
       "asset_missing": false
     },
     {
@@ -3323,7 +3323,7 @@
       "publisher": "Nael Sayegh",
       "submission_time": 1771879481000,
       "on_github": true,
-      "download_count": 391,
+      "download_count": 392,
       "asset_missing": false
     },
     {
@@ -3405,7 +3405,7 @@
       "publisher": "Tony Malykh",
       "submission_time": 1751486137000,
       "on_github": true,
-      "download_count": 3994,
+      "download_count": 3996,
       "asset_missing": false
     },
     {
@@ -3441,7 +3441,7 @@
       "publisher": "josephsl",
       "submission_time": 1771612054000,
       "on_github": true,
-      "download_count": 1992,
+      "download_count": 2001,
       "asset_missing": false
     },
     {
@@ -3501,7 +3501,7 @@
       "publisher": "Sujan Rai",
       "submission_time": 1763696854000,
       "on_github": true,
-      "download_count": 1789,
+      "download_count": 1790,
       "asset_missing": false
     },
     {
@@ -3537,7 +3537,7 @@
       "publisher": "Colton Loftus",
       "submission_time": null,
       "on_github": true,
-      "download_count": 1145,
+      "download_count": 1146,
       "asset_missing": false
     },
     {
@@ -3549,7 +3549,7 @@
       "publisher": "Tony Malykh",
       "submission_time": 1751499273000,
       "on_github": true,
-      "download_count": 3745,
+      "download_count": 3746,
       "asset_missing": false
     },
     {
@@ -3573,7 +3573,7 @@
       "publisher": "nvdaes",
       "submission_time": 1754769122000,
       "on_github": true,
-      "download_count": 742,
+      "download_count": 743,
       "asset_missing": false
     },
     {
@@ -3669,7 +3669,7 @@
       "publisher": "jmdaweb",
       "submission_time": 1755936860000,
       "on_github": true,
-      "download_count": 21511,
+      "download_count": 21519,
       "asset_missing": false
     },
     {
@@ -3681,7 +3681,7 @@
       "publisher": "josephsl",
       "submission_time": 1771859491000,
       "on_github": true,
-      "download_count": 2633,
+      "download_count": 2638,
       "asset_missing": false
     },
     {
@@ -3717,7 +3717,7 @@
       "publisher": "sujan rai",
       "submission_time": 1749797333000,
       "on_github": true,
-      "download_count": 3106,
+      "download_count": 3108,
       "asset_missing": false
     },
     {
@@ -3753,7 +3753,7 @@
       "publisher": "ruifontes",
       "submission_time": 1749797314000,
       "on_github": true,
-      "download_count": 14160,
+      "download_count": 14161,
       "asset_missing": false
     },
     {
@@ -3777,7 +3777,7 @@
       "publisher": "Rui Fontes",
       "submission_time": 1752519466000,
       "on_github": true,
-      "download_count": 2633,
+      "download_count": 2634,
       "asset_missing": false
     },
     {
@@ -3789,7 +3789,7 @@
       "publisher": "Cyrille Bougot",
       "submission_time": 1770204659000,
       "on_github": true,
-      "download_count": 483,
+      "download_count": 484,
       "asset_missing": false
     },
     {
@@ -3801,7 +3801,7 @@
       "publisher": "Tuukka Ojala",
       "submission_time": 1750081723000,
       "on_github": true,
-      "download_count": 3435,
+      "download_count": 3436,
       "asset_missing": false
     },
     {
@@ -3813,7 +3813,7 @@
       "publisher": "kostya Gladkiy",
       "submission_time": 1743969974000,
       "on_github": true,
-      "download_count": 8626,
+      "download_count": 8629,
       "asset_missing": false
     },
     {
@@ -3825,7 +3825,7 @@
       "publisher": "Oleksandr Gryshchenko",
       "submission_time": 1750364813000,
       "on_github": true,
-      "download_count": 8822,
+      "download_count": 8824,
       "asset_missing": false
     },
     {
@@ -3873,7 +3873,7 @@
       "publisher": "nvdaes",
       "submission_time": 1754767930000,
       "on_github": true,
-      "download_count": 1898,
+      "download_count": 1899,
       "asset_missing": false
     },
     {
@@ -3921,7 +3921,7 @@
       "publisher": "chai chaimee",
       "submission_time": 1774068100000,
       "on_github": true,
-      "download_count": 13,
+      "download_count": 16,
       "asset_missing": false
     },
     {
@@ -3933,7 +3933,7 @@
       "publisher": "ruifontes",
       "submission_time": 1749866739000,
       "on_github": true,
-      "download_count": 5941,
+      "download_count": 5942,
       "asset_missing": false
     },
     {
@@ -3945,7 +3945,7 @@
       "publisher": "josephsl",
       "submission_time": 1772038066000,
       "on_github": true,
-      "download_count": 1148,
+      "download_count": 1154,
       "asset_missing": false
     },
     {
@@ -4029,7 +4029,7 @@
       "publisher": "Javi Dominguez",
       "submission_time": 1750245007000,
       "on_github": true,
-      "download_count": 2206,
+      "download_count": 2207,
       "asset_missing": false
     },
     {
@@ -4089,7 +4089,7 @@
       "publisher": "josephsl",
       "submission_time": 1771859177000,
       "on_github": true,
-      "download_count": 5419,
+      "download_count": 5435,
       "asset_missing": false
     },
     {
@@ -4137,7 +4137,7 @@
       "publisher": "ruifontes",
       "submission_time": 1770595807000,
       "on_github": true,
-      "download_count": 5731,
+      "download_count": 5743,
       "asset_missing": false
     },
     {
@@ -4149,7 +4149,7 @@
       "publisher": "ahmed samy",
       "submission_time": 1750080379000,
       "on_github": true,
-      "download_count": 1846,
+      "download_count": 1847,
       "asset_missing": false
     },
     {
@@ -4173,7 +4173,7 @@
       "publisher": "Oriol Gomez Sentis",
       "submission_time": 1770361282000,
       "on_github": true,
-      "download_count": 760,
+      "download_count": 763,
       "asset_missing": false
     },
     {
@@ -4209,7 +4209,7 @@
       "publisher": "Rainer Brell",
       "submission_time": 1773588592000,
       "on_github": true,
-      "download_count": 11,
+      "download_count": 12,
       "asset_missing": false
     },
     {
@@ -4233,7 +4233,7 @@
       "publisher": "Javi Dominguez",
       "submission_time": null,
       "on_github": true,
-      "download_count": 1181,
+      "download_count": 1182,
       "asset_missing": false
     },
     {
@@ -4245,7 +4245,7 @@
       "publisher": "Ibrahim Hamadeh",
       "submission_time": 1771927755000,
       "on_github": true,
-      "download_count": 188,
+      "download_count": 189,
       "asset_missing": false
     },
     {
@@ -4257,7 +4257,7 @@
       "publisher": "abdel792",
       "submission_time": 1772971899000,
       "on_github": true,
-      "download_count": 113,
+      "download_count": 114,
       "asset_missing": false
     },
     {
@@ -4353,7 +4353,7 @@
       "publisher": "Pratik Patel",
       "submission_time": 1774168873000,
       "on_github": true,
-      "download_count": 28,
+      "download_count": 34,
       "asset_missing": false
     },
     {
@@ -4413,7 +4413,7 @@
       "publisher": "Leonard de Ruijter",
       "submission_time": 1772141363000,
       "on_github": true,
-      "download_count": 188,
+      "download_count": 191,
       "asset_missing": false
     },
     {
@@ -4507,7 +4507,7 @@
       "publisher": "Edilberto Fonseca",
       "submission_time": 1766161140000,
       "on_github": true,
-      "download_count": 139,
+      "download_count": 140,
       "asset_missing": false
     },
     {
@@ -4519,7 +4519,7 @@
       "publisher": "Rui Fontes",
       "submission_time": 1771788412000,
       "on_github": true,
-      "download_count": 283,
+      "download_count": 285,
       "asset_missing": false
     },
     {
@@ -4555,7 +4555,7 @@
       "publisher": "Pierre-Louis Renaud",
       "submission_time": 1772000231000,
       "on_github": true,
-      "download_count": 128,
+      "download_count": 130,
       "asset_missing": false
     },
     {
@@ -4579,7 +4579,7 @@
       "publisher": "fastfinge",
       "submission_time": 1768912514000,
       "on_github": true,
-      "download_count": 150,
+      "download_count": 151,
       "asset_missing": false
     },
     {
@@ -4603,7 +4603,7 @@
       "publisher": "nvdaes",
       "submission_time": 1772876003000,
       "on_github": true,
-      "download_count": 28,
+      "download_count": 29,
       "asset_missing": false
     },
     {
@@ -4743,7 +4743,7 @@
       "publisher": "Corentin Bacqué-Cazenave",
       "submission_time": 1772300493000,
       "on_github": true,
-      "download_count": 140,
+      "download_count": 141,
       "asset_missing": false
     },
     {
@@ -4863,7 +4863,7 @@
       "publisher": "Rainer Brell",
       "submission_time": 1771775039000,
       "on_github": true,
-      "download_count": 665,
+      "download_count": 669,
       "asset_missing": false
     },
     {
@@ -4923,7 +4923,7 @@
       "publisher": "abdel792",
       "submission_time": 1761125560000,
       "on_github": true,
-      "download_count": 419,
+      "download_count": 420,
       "asset_missing": false
     },
     {
@@ -4935,7 +4935,7 @@
       "publisher": "Alessandro Albano, Simone Dal Maso, Davide Decarne",
       "submission_time": 1734082639000,
       "on_github": true,
-      "download_count": 105170,
+      "download_count": 105190,
       "asset_missing": false
     },
     {
@@ -4983,7 +4983,7 @@
       "publisher": "Pierre-Louis Renaud",
       "submission_time": 1771229049000,
       "on_github": true,
-      "download_count": 665,
+      "download_count": 670,
       "asset_missing": false
     },
     {
@@ -5055,7 +5055,7 @@
       "publisher": "Hear2Read",
       "submission_time": 1760311886000,
       "on_github": true,
-      "download_count": 382,
+      "download_count": 383,
       "asset_missing": false
     },
     {
@@ -5151,7 +5151,7 @@
       "publisher": "Edilberto Fonseca",
       "submission_time": 1772470883000,
       "on_github": true,
-      "download_count": 52,
+      "download_count": 53,
       "asset_missing": false
     },
     {
@@ -5175,7 +5175,7 @@
       "publisher": "Çağrı Doğan <cagrid@hotmail.com>",
       "submission_time": 1773203770000,
       "on_github": true,
-      "download_count": 41,
+      "download_count": 42,
       "asset_missing": false
     },
     {
@@ -5295,7 +5295,7 @@
       "publisher": "josephsl",
       "submission_time": 1771859158000,
       "on_github": true,
-      "download_count": 711,
+      "download_count": 717,
       "asset_missing": false
     },
     {
@@ -5331,7 +5331,7 @@
       "publisher": "Rainer Brell",
       "submission_time": null,
       "on_github": true,
-      "download_count": 778,
+      "download_count": 779,
       "asset_missing": false
     },
     {
@@ -5451,7 +5451,7 @@
       "publisher": "Alberto Buffolino",
       "submission_time": 1732698273000,
       "on_github": true,
-      "download_count": 780,
+      "download_count": 781,
       "asset_missing": false
     },
     {
@@ -5571,7 +5571,7 @@
       "publisher": "nvdaes",
       "submission_time": 1738412072000,
       "on_github": true,
-      "download_count": 959,
+      "download_count": 960,
       "asset_missing": false
     },
     {
@@ -5715,7 +5715,7 @@
       "publisher": "nvdaes",
       "submission_time": null,
       "on_github": true,
-      "download_count": 838,
+      "download_count": 840,
       "asset_missing": false
     },
     {
@@ -5871,7 +5871,7 @@
       "publisher": "Luke Davis",
       "submission_time": 1773672189000,
       "on_github": true,
-      "download_count": 66,
+      "download_count": 68,
       "asset_missing": false
     },
     {
@@ -6015,7 +6015,7 @@
       "publisher": "Luke Davis",
       "submission_time": 1750297984000,
       "on_github": true,
-      "download_count": 348,
+      "download_count": 349,
       "asset_missing": false
     },
     {
