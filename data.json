@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-19T18:57:44.813070Z",
-    "generation_duration_seconds": 139.35,
-    "total_addons": 534,
-    "github_api_requests": 520
+    "generated_at": "2026-04-20T03:25:15.398364Z",
+    "generation_duration_seconds": 139.87,
+    "total_addons": 535,
+    "github_api_requests": 521
   },
   "items": [
     {
@@ -27,7 +27,7 @@
       "publisher": "Alano",
       "submission_time": 1768213596000,
       "on_github": true,
-      "download_count": 470,
+      "download_count": 471,
       "asset_missing": false
     },
     {
@@ -39,7 +39,7 @@
       "publisher": "Halimon Alexandr",
       "submission_time": 1774542269000,
       "on_github": true,
-      "download_count": 358,
+      "download_count": 359,
       "asset_missing": false
     },
     {
@@ -99,7 +99,7 @@
       "publisher": "abdel792",
       "submission_time": 1752501570000,
       "on_github": true,
-      "download_count": 16338,
+      "download_count": 16352,
       "asset_missing": false
     },
     {
@@ -111,7 +111,7 @@
       "publisher": "Cary-rowen <manchen_0528@outlook.com>",
       "submission_time": 1769741242000,
       "on_github": true,
-      "download_count": 172,
+      "download_count": 173,
       "asset_missing": false
     },
     {
@@ -123,7 +123,7 @@
       "publisher": "Alberto Zanella",
       "submission_time": 1751114278000,
       "on_github": true,
-      "download_count": 1544,
+      "download_count": 1545,
       "asset_missing": false
     },
     {
@@ -135,7 +135,7 @@
       "publisher": "Darko Milošević",
       "submission_time": 1750447632000,
       "on_github": true,
-      "download_count": 3875,
+      "download_count": 3876,
       "asset_missing": false
     },
     {
@@ -147,19 +147,7 @@
       "publisher": "rayo-alcantar",
       "submission_time": 1752633677000,
       "on_github": true,
-      "download_count": 3070,
-      "asset_missing": false
-    },
-    {
-      "id": "directLink",
-      "name": "Direct Link",
-      "url": "https://github.com/fawazar94/DirectLink/releases/download/2.2/directLink-2.2.nvda-addon",
-      "version": "2.2",
-      "channel": "stable",
-      "publisher": "Fawaz Abdul Rahman",
-      "submission_time": null,
-      "on_github": true,
-      "download_count": 4658,
+      "download_count": 3071,
       "asset_missing": false
     },
     {
@@ -183,7 +171,7 @@
       "publisher": "Javi Dominguez",
       "submission_time": 1750403212000,
       "on_github": true,
-      "download_count": 7369,
+      "download_count": 7371,
       "asset_missing": false
     },
     {
@@ -231,7 +219,7 @@
       "publisher": "Angel Alcántar",
       "submission_time": null,
       "on_github": true,
-      "download_count": 1217,
+      "download_count": 1218,
       "asset_missing": false
     },
     {
@@ -267,7 +255,7 @@
       "publisher": "Aldenor Neto",
       "submission_time": 1772377993000,
       "on_github": true,
-      "download_count": 343,
+      "download_count": 344,
       "asset_missing": false
     },
     {
@@ -291,7 +279,7 @@
       "publisher": "Oleksandr Gryshchenko",
       "submission_time": 1750364127000,
       "on_github": true,
-      "download_count": 4232,
+      "download_count": 4233,
       "asset_missing": false
     },
     {
@@ -315,7 +303,7 @@
       "publisher": "Cary-rowen <manchen_0528@outlook.com>",
       "submission_time": 1774350342000,
       "on_github": true,
-      "download_count": 1156,
+      "download_count": 1159,
       "asset_missing": false
     },
     {
@@ -363,7 +351,7 @@
       "publisher": "Alberto Buffolino",
       "submission_time": null,
       "on_github": true,
-      "download_count": 8028,
+      "download_count": 8030,
       "asset_missing": false
     },
     {
@@ -399,7 +387,7 @@
       "publisher": "Tony Malykh",
       "submission_time": 1751482997000,
       "on_github": true,
-      "download_count": 3853,
+      "download_count": 3854,
       "asset_missing": false
     },
     {
@@ -435,19 +423,7 @@
       "publisher": "Oleksandr Gryshchenko",
       "submission_time": 1750364966000,
       "on_github": true,
-      "download_count": 7858,
-      "asset_missing": false
-    },
-    {
-      "id": "Access8Math",
-      "name": "Access8Math",
-      "url": "https://github.com/tsengwoody/Access8Math/releases/download/v4.5/Access8Math-4.5.nvda-addon",
-      "version": "4.5",
-      "channel": "stable",
-      "publisher": "Tseng Woody",
-      "submission_time": 1774624588000,
-      "on_github": true,
-      "download_count": 1736,
+      "download_count": 7860,
       "asset_missing": false
     },
     {
@@ -459,7 +435,7 @@
       "publisher": "Rui Fontes",
       "submission_time": 1754234117000,
       "on_github": true,
-      "download_count": 2982,
+      "download_count": 2983,
       "asset_missing": false
     },
     {
@@ -471,7 +447,7 @@
       "publisher": "Edilberto Fonseca",
       "submission_time": 1775482647000,
       "on_github": true,
-      "download_count": 381,
+      "download_count": 384,
       "asset_missing": false
     },
     {
@@ -487,6 +463,18 @@
       "asset_missing": false
     },
     {
+      "id": "VLC",
+      "name": "VLC Media Player",
+      "url": "https://github.com/javidominguez/VLC/releases/download/2025.1.0/VLC-2025.1.0.nvda-addon",
+      "version": "2025.1.0",
+      "channel": "stable",
+      "publisher": "Javi Dominguez",
+      "submission_time": 1750281268000,
+      "on_github": true,
+      "download_count": 15028,
+      "asset_missing": false
+    },
+    {
       "id": "enhancedLanguageDetection",
       "name": "Enhanced Language Detection",
       "url": "https://github.com/Emil-18/enhanced_language_switching/releases/download/v1.2.3/enhancedLanguageDetection-1.2.3.nvda-addon",
@@ -495,7 +483,7 @@
       "publisher": "Emil-18",
       "submission_time": 1766870379000,
       "on_github": true,
-      "download_count": 887,
+      "download_count": 888,
       "asset_missing": false
     },
     {
@@ -565,7 +553,7 @@
       "publisher": "Nuno Costa",
       "submission_time": 1775852777000,
       "on_github": true,
-      "download_count": 1767,
+      "download_count": 1781,
       "asset_missing": false
     },
     {
@@ -577,7 +565,7 @@
       "publisher": "addonFactory",
       "submission_time": 1752614630000,
       "on_github": true,
-      "download_count": 22332,
+      "download_count": 22345,
       "asset_missing": false
     },
     {
@@ -589,7 +577,7 @@
       "publisher": "Rui Fontes",
       "submission_time": 1752425509000,
       "on_github": true,
-      "download_count": 11223,
+      "download_count": 11229,
       "asset_missing": false
     },
     {
@@ -601,7 +589,7 @@
       "publisher": "mrido1",
       "submission_time": 1771376564000,
       "on_github": true,
-      "download_count": 2557,
+      "download_count": 2562,
       "asset_missing": false
     },
     {
@@ -673,7 +661,7 @@
       "publisher": "josephsl",
       "submission_time": 1775420786000,
       "on_github": true,
-      "download_count": 2523,
+      "download_count": 2546,
       "asset_missing": false
     },
     {
@@ -685,7 +673,19 @@
       "publisher": "Alberto Buffolino",
       "submission_time": 1750214457000,
       "on_github": true,
-      "download_count": 1857,
+      "download_count": 1859,
+      "asset_missing": false
+    },
+    {
+      "id": "outlookExtended",
+      "name": "Outlook Extended",
+      "url": "https://github.com/CyrilleB79/outlookExtended/releases/download/V3.2/outlookExtended-3.2.nvda-addon",
+      "version": "3.2",
+      "channel": "stable",
+      "publisher": "Cyrille Bougot",
+      "submission_time": 1749651445000,
+      "on_github": true,
+      "download_count": 7176,
       "asset_missing": false
     },
     {
@@ -722,6 +722,18 @@
       "submission_time": 1746777572000,
       "on_github": true,
       "download_count": 2572,
+      "asset_missing": false
+    },
+    {
+      "id": "officeDesk",
+      "name": "Office Desk",
+      "url": "https://github.com/josephsl/officeDesk/releases/download/25.09/officeDesk-25.09.nvda-addon",
+      "version": "25.09",
+      "channel": "stable",
+      "publisher": "josephsl",
+      "submission_time": 1756739681000,
+      "on_github": true,
+      "download_count": 3868,
       "asset_missing": false
     },
     {
@@ -781,7 +793,7 @@
       "publisher": "huaiyinfeilong",
       "submission_time": 1751739234000,
       "on_github": true,
-      "download_count": 8660,
+      "download_count": 8663,
       "asset_missing": false
     },
     {
@@ -809,18 +821,6 @@
       "asset_missing": false
     },
     {
-      "id": "winWizard",
-      "name": "Win Wizard",
-      "url": "https://github.com/jakubl7545/winWizard/releases/download/v5.0.7/winWizard-5.0.7.nvda-addon",
-      "version": "5.0.7",
-      "channel": "stable",
-      "publisher": "Jakub Lukowicz",
-      "submission_time": 1750424470000,
-      "on_github": true,
-      "download_count": 5700,
-      "asset_missing": false
-    },
-    {
       "id": "atlastiAccessibility",
       "name": "Atlas.ti Accessibility Enhancements",
       "url": "https://github.com/ChristosBouronikos/NVDApluginAtlasTI/releases/download/v1.0.0/atlastiAccessibility-1.0.0.nvda-addon",
@@ -842,18 +842,6 @@
       "submission_time": 1750127845000,
       "on_github": true,
       "download_count": 2391,
-      "asset_missing": false
-    },
-    {
-      "id": "consoleToolkit",
-      "name": "Console Toolkit",
-      "url": "https://github.com/mltony/nvda-console-toolkit/releases/download/v1.4.5/consoleToolkit-1.4.5.nvda-addon",
-      "version": "1.4.5",
-      "channel": "stable",
-      "publisher": "Tony Malykh",
-      "submission_time": 1751486070000,
-      "on_github": true,
-      "download_count": 4290,
       "asset_missing": false
     },
     {
@@ -887,7 +875,7 @@
       "publisher": "NVDACN",
       "submission_time": 1749887609000,
       "on_github": true,
-      "download_count": 3545,
+      "download_count": 3546,
       "asset_missing": false
     },
     {
@@ -947,7 +935,7 @@
       "publisher": "nvdaes",
       "submission_time": 1754768162000,
       "on_github": true,
-      "download_count": 2049,
+      "download_count": 2051,
       "asset_missing": false
     },
     {
@@ -961,18 +949,6 @@
       "on_github": false
     },
     {
-      "id": "inputLock",
-      "name": "Input lock",
-      "url": "https://github.com/jmdaweb/inputLock/releases/download/v1.19/inputLock-1.19.nvda-addon",
-      "version": "1.19",
-      "channel": "stable",
-      "publisher": "jmdaweb",
-      "submission_time": 1749839767000,
-      "on_github": true,
-      "download_count": 10593,
-      "asset_missing": false
-    },
-    {
       "id": "AbsoluteSite",
       "name": "AbsoluteSite",
       "url": "https://github.com/chaichaimee/AbsoluteSite/releases/download/2026.3.2/AbsoluteSite-v2026.3.2.nvda-addon",
@@ -981,7 +957,7 @@
       "publisher": "chai chaimee",
       "submission_time": 1773230053000,
       "on_github": true,
-      "download_count": 165,
+      "download_count": 167,
       "asset_missing": false
     },
     {
@@ -1005,19 +981,7 @@
       "publisher": "Aakash",
       "submission_time": 1767685485000,
       "on_github": true,
-      "download_count": 2533,
-      "asset_missing": false
-    },
-    {
-      "id": "quickDictionary",
-      "name": "Quick Dictionary",
-      "url": "https://github.com/grisov/quickDictionary/releases/download/v2.2.2/quickDictionary-2.2.2.nvda-addon",
-      "version": "2.2.2",
-      "channel": "stable",
-      "publisher": "Oleksandr Gryshchenko",
-      "submission_time": 1750364580000,
-      "on_github": true,
-      "download_count": 2165,
+      "download_count": 2535,
       "asset_missing": false
     },
     {
@@ -1041,7 +1005,7 @@
       "publisher": "Mehran Latifi",
       "submission_time": 1769971079000,
       "on_github": true,
-      "download_count": 342,
+      "download_count": 343,
       "asset_missing": false
     },
     {
@@ -1081,18 +1045,6 @@
       "asset_missing": false
     },
     {
-      "id": "outlookExtended",
-      "name": "Outlook Extended",
-      "url": "https://github.com/CyrilleB79/outlookExtended/releases/download/V3.2/outlookExtended-3.2.nvda-addon",
-      "version": "3.2",
-      "channel": "stable",
-      "publisher": "Cyrille Bougot",
-      "submission_time": 1749651445000,
-      "on_github": true,
-      "download_count": 7175,
-      "asset_missing": false
-    },
-    {
       "id": "commandHelper",
       "name": "Command Helper",
       "url": "https://github.com/javidominguez/commandHelper/releases/download/2025.1.0/commandHelper-2025.1.0.nvda-addon",
@@ -1101,7 +1053,7 @@
       "publisher": "Javi Dominguez",
       "submission_time": 1750256976000,
       "on_github": true,
-      "download_count": 2097,
+      "download_count": 2099,
       "asset_missing": false
     },
     {
@@ -1125,7 +1077,7 @@
       "publisher": "David Parduhn",
       "submission_time": 1750058606000,
       "on_github": true,
-      "download_count": 3315,
+      "download_count": 3316,
       "asset_missing": false
     },
     {
@@ -1137,7 +1089,7 @@
       "publisher": "Muhammad",
       "submission_time": 1775297391000,
       "on_github": true,
-      "download_count": 1267,
+      "download_count": 1275,
       "asset_missing": false
     },
     {
@@ -1161,7 +1113,7 @@
       "publisher": "chai chaimee",
       "submission_time": 1776242592000,
       "on_github": true,
-      "download_count": 177,
+      "download_count": 185,
       "asset_missing": false
     },
     {
@@ -1173,7 +1125,7 @@
       "publisher": "Stefan Tsvyatkov",
       "submission_time": 1772129676000,
       "on_github": true,
-      "download_count": 249,
+      "download_count": 250,
       "asset_missing": false
     },
     {
@@ -1186,18 +1138,6 @@
       "submission_time": 1759465518000,
       "on_github": true,
       "download_count": 990,
-      "asset_missing": false
-    },
-    {
-      "id": "winMag",
-      "name": "Windows Magnifier",
-      "url": "https://github.com/CyrilleB79/winMag/releases/download/V4.3/winMag-4.3.nvda-addon",
-      "version": "4.3",
-      "channel": "stable",
-      "publisher": "Cyrille Bougot",
-      "submission_time": 1771330357000,
-      "on_github": true,
-      "download_count": 951,
       "asset_missing": false
     },
     {
@@ -1219,7 +1159,7 @@
       "publisher": "josephsl",
       "submission_time": 1774146382000,
       "on_github": true,
-      "download_count": 397,
+      "download_count": 399,
       "asset_missing": false
     },
     {
@@ -1231,7 +1171,7 @@
       "publisher": "Rui Fontes",
       "submission_time": 1754184084000,
       "on_github": true,
-      "download_count": 4437,
+      "download_count": 4438,
       "asset_missing": false
     },
     {
@@ -1243,7 +1183,7 @@
       "publisher": "Sergey Shishmintsev, Alexy Sadovoi, Sergey A.K.A. Electrik, Kvark and other developers",
       "submission_time": 1743157102000,
       "on_github": true,
-      "download_count": 3044,
+      "download_count": 3045,
       "asset_missing": false
     },
     {
@@ -1255,7 +1195,7 @@
       "publisher": "Leo Guima",
       "submission_time": 1751851648000,
       "on_github": true,
-      "download_count": 2355,
+      "download_count": 2356,
       "asset_missing": false
     },
     {
@@ -1279,7 +1219,7 @@
       "publisher": "Cary-rowen <manchen_0528@outlook.com>",
       "submission_time": 1776437786000,
       "on_github": true,
-      "download_count": 103,
+      "download_count": 108,
       "asset_missing": false
     },
     {
@@ -1315,7 +1255,7 @@
       "publisher": "snippetsForNVDA contributors",
       "submission_time": 1758478261000,
       "on_github": true,
-      "download_count": 1044,
+      "download_count": 1045,
       "asset_missing": false
     },
     {
@@ -1339,7 +1279,7 @@
       "publisher": "ruifontes",
       "submission_time": 1749925143000,
       "on_github": true,
-      "download_count": 4629,
+      "download_count": 4632,
       "asset_missing": false
     },
     {
@@ -1389,30 +1329,6 @@
       "on_github": false
     },
     {
-      "id": "officeDesk",
-      "name": "Office Desk",
-      "url": "https://github.com/josephsl/officeDesk/releases/download/25.09/officeDesk-25.09.nvda-addon",
-      "version": "25.09",
-      "channel": "stable",
-      "publisher": "josephsl",
-      "submission_time": 1756739681000,
-      "on_github": true,
-      "download_count": 3868,
-      "asset_missing": false
-    },
-    {
-      "id": "GestorDePomodoros",
-      "name": "Pomodoros Manager",
-      "url": "https://github.com/jpavonabian/Gestor-de-Pomodoros/releases/download/1.21/GestorDePomodoros-1.21.nvda-addon",
-      "version": "1.21",
-      "channel": "stable",
-      "publisher": "jpavonabian",
-      "submission_time": 1776061511000,
-      "on_github": true,
-      "download_count": 169,
-      "asset_missing": false
-    },
-    {
       "id": "emoticons",
       "name": "Emoticons",
       "url": "https://github.com/nvdaes/emoticons/releases/download/37.0.0/emoticons-37.0.0.nvda-addon",
@@ -1421,7 +1337,7 @@
       "publisher": "nvdaes",
       "submission_time": 1754768288000,
       "on_github": true,
-      "download_count": 10528,
+      "download_count": 10537,
       "asset_missing": false
     },
     {
@@ -1433,7 +1349,7 @@
       "publisher": "Abdalrahmen Maher",
       "submission_time": 1750156654000,
       "on_github": true,
-      "download_count": 2459,
+      "download_count": 2461,
       "asset_missing": false
     },
     {
@@ -1445,7 +1361,7 @@
       "publisher": "koruzbiz",
       "submission_time": 1776393443000,
       "on_github": true,
-      "download_count": 25,
+      "download_count": 26,
       "asset_missing": false
     },
     {
@@ -1469,7 +1385,7 @@
       "publisher": "Accessible tech labs india",
       "submission_time": 1775107500000,
       "on_github": true,
-      "download_count": 118,
+      "download_count": 119,
       "asset_missing": false
     },
     {
@@ -1481,7 +1397,7 @@
       "publisher": "Carter Temm, Carter Temm <cartertemm@gmail.com> and other contributors",
       "submission_time": 1750194945000,
       "on_github": true,
-      "download_count": 7197,
+      "download_count": 7198,
       "asset_missing": false
     },
     {
@@ -1533,6 +1449,18 @@
       "asset_missing": false
     },
     {
+      "id": "quickDictionary",
+      "name": "Quick Dictionary",
+      "url": "https://github.com/grisov/quickDictionary/releases/download/v2.2.2/quickDictionary-2.2.2.nvda-addon",
+      "version": "2.2.2",
+      "channel": "stable",
+      "publisher": "Oleksandr Gryshchenko",
+      "submission_time": 1750364580000,
+      "on_github": true,
+      "download_count": 2165,
+      "asset_missing": false
+    },
+    {
       "id": "phoneticPunctuation",
       "name": "Earcons and speech rules",
       "url": "https://github.com/mltony/nvda-phonetic-punctuation/releases/download/v3.0.6/phoneticPunctuation-3.0.6.nvda-addon",
@@ -1565,7 +1493,7 @@
       "publisher": "Karl-Otto Rosenqvist",
       "submission_time": 1762141468000,
       "on_github": true,
-      "download_count": 546,
+      "download_count": 548,
       "asset_missing": false
     },
     {
@@ -1589,7 +1517,7 @@
       "publisher": "alekssamos",
       "submission_time": 1766405626000,
       "on_github": true,
-      "download_count": 2379,
+      "download_count": 2381,
       "asset_missing": false
     },
     {
@@ -1613,7 +1541,7 @@
       "publisher": "Leo Guima",
       "submission_time": 1758240526000,
       "on_github": true,
-      "download_count": 1512,
+      "download_count": 1513,
       "asset_missing": false
     },
     {
@@ -1625,7 +1553,7 @@
       "publisher": "hamidrehzaey",
       "submission_time": 1753726292000,
       "on_github": true,
-      "download_count": 2385,
+      "download_count": 2386,
       "asset_missing": false
     },
     {
@@ -1661,7 +1589,7 @@
       "publisher": "alekssamos",
       "submission_time": 1750133764000,
       "on_github": true,
-      "download_count": 696,
+      "download_count": 697,
       "asset_missing": false
     },
     {
@@ -1685,7 +1613,7 @@
       "publisher": "Yannick Plassiard <plassiardyannick@gmail.com> Hxebolax",
       "submission_time": null,
       "on_github": true,
-      "download_count": 15092,
+      "download_count": 15093,
       "asset_missing": false
     },
     {
@@ -1709,7 +1637,19 @@
       "publisher": "josephsl",
       "submission_time": 1774996689000,
       "on_github": true,
-      "download_count": 559,
+      "download_count": 562,
+      "asset_missing": false
+    },
+    {
+      "id": "wordNav",
+      "name": "WordNav",
+      "url": "https://github.com/mltony/nvda-word-nav/releases/download/v2.2.13/wordNav-2.2.13.nvda-addon",
+      "version": "2.2.13",
+      "channel": "stable",
+      "publisher": "Tony Malykh",
+      "submission_time": 1751485504000,
+      "on_github": true,
+      "download_count": 1968,
       "asset_missing": false
     },
     {
@@ -1721,7 +1661,7 @@
       "publisher": "chai chaimee",
       "submission_time": 1776244183000,
       "on_github": true,
-      "download_count": 139,
+      "download_count": 142,
       "asset_missing": false
     },
     {
@@ -1781,7 +1721,7 @@
       "publisher": "Rafael Fernandes",
       "submission_time": 1730137760000,
       "on_github": true,
-      "download_count": 1074,
+      "download_count": 1075,
       "asset_missing": false
     },
     {
@@ -1805,7 +1745,7 @@
       "publisher": "Leandro Souza",
       "submission_time": 1776041490000,
       "on_github": true,
-      "download_count": 63,
+      "download_count": 64,
       "asset_missing": false
     },
     {
@@ -1817,7 +1757,7 @@
       "publisher": "Kefas Lungu",
       "submission_time": 1772699862000,
       "on_github": true,
-      "download_count": 301,
+      "download_count": 302,
       "asset_missing": false
     },
     {
@@ -1853,7 +1793,7 @@
       "publisher": "Cary-rowen <manchen_0528@outlook.com>",
       "submission_time": 1769248651000,
       "on_github": true,
-      "download_count": 228,
+      "download_count": 230,
       "asset_missing": false
     },
     {
@@ -1877,7 +1817,7 @@
       "publisher": "nvdaes",
       "submission_time": 1754769258000,
       "on_github": true,
-      "download_count": 3738,
+      "download_count": 3740,
       "asset_missing": false
     },
     {
@@ -1925,7 +1865,7 @@
       "publisher": "Volkan Ozdemir Software Services <bilgi@volkan-ozdemir.com.tr>",
       "submission_time": 1768110661000,
       "on_github": true,
-      "download_count": 263,
+      "download_count": 264,
       "asset_missing": false
     },
     {
@@ -1937,7 +1877,7 @@
       "publisher": "Leandro Souza",
       "submission_time": 1772169783000,
       "on_github": true,
-      "download_count": 108,
+      "download_count": 109,
       "asset_missing": false
     },
     {
@@ -1949,7 +1889,7 @@
       "publisher": "ahmed samy",
       "submission_time": 1750080995000,
       "on_github": true,
-      "download_count": 12187,
+      "download_count": 12191,
       "asset_missing": false
     },
     {
@@ -1973,7 +1913,7 @@
       "publisher": "Cary-rowen",
       "submission_time": 1749831748000,
       "on_github": true,
-      "download_count": 2645,
+      "download_count": 2646,
       "asset_missing": false
     },
     {
@@ -1989,6 +1929,18 @@
       "asset_missing": false
     },
     {
+      "id": "evtTracker",
+      "name": "Event Tracker",
+      "url": "https://github.com/opensourcesys/evtTracker/releases/download/26.1/evtTracker-26.1.1.nvda-addon",
+      "version": "26.1.1",
+      "channel": "stable",
+      "publisher": "josephsl",
+      "submission_time": 1775444889000,
+      "on_github": true,
+      "download_count": 231,
+      "asset_missing": false
+    },
+    {
       "id": "xBlock",
       "name": "xBlock",
       "url": "https://github.com/chaichaimee/xBlock/releases/download/2026.4.4/xBlock-v2026.4.4.nvda-addon",
@@ -1997,7 +1949,7 @@
       "publisher": "chai chaimee",
       "submission_time": 1776343681000,
       "on_github": true,
-      "download_count": 47,
+      "download_count": 49,
       "asset_missing": false
     },
     {
@@ -2071,15 +2023,15 @@
       "asset_missing": false
     },
     {
-      "id": "searchWith",
-      "name": "Search With",
-      "url": "https://github.com/ibrahim-s/searchWith/releases/download/2.6.6/searchWith-2.6.6.nvda-addon",
-      "version": "2.6.6",
+      "id": "winMag",
+      "name": "Windows Magnifier",
+      "url": "https://github.com/CyrilleB79/winMag/releases/download/V4.3/winMag-4.3.nvda-addon",
+      "version": "4.3",
       "channel": "stable",
-      "publisher": "Ibrahim Hamadeh",
-      "submission_time": 1749824115000,
+      "publisher": "Cyrille Bougot",
+      "submission_time": 1771330357000,
       "on_github": true,
-      "download_count": 3415,
+      "download_count": 951,
       "asset_missing": false
     },
     {
@@ -2091,7 +2043,7 @@
       "publisher": "Luke Davis, Josephsl",
       "submission_time": 1774263959000,
       "on_github": true,
-      "download_count": 577,
+      "download_count": 579,
       "asset_missing": false
     },
     {
@@ -2103,7 +2055,7 @@
       "publisher": "Rui Fontes",
       "submission_time": null,
       "on_github": true,
-      "download_count": 6587,
+      "download_count": 6588,
       "asset_missing": false
     },
     {
@@ -2115,7 +2067,7 @@
       "publisher": "Sujan Rai",
       "submission_time": 1770967287000,
       "on_github": true,
-      "download_count": 184,
+      "download_count": 186,
       "asset_missing": false
     },
     {
@@ -2140,6 +2092,18 @@
       "submission_time": 1753407409000,
       "on_github": true,
       "download_count": 1377,
+      "asset_missing": false
+    },
+    {
+      "id": "IndentNav",
+      "name": "IndentNav",
+      "url": "https://github.com/mltony/nvda-indent-nav/releases/download/v2.2.7/IndentNav-2.2.7.nvda-addon",
+      "version": "2.2.7",
+      "channel": "stable",
+      "publisher": "Tony Malykh",
+      "submission_time": 1751485465000,
+      "on_github": true,
+      "download_count": 2509,
       "asset_missing": false
     },
     {
@@ -2211,7 +2175,7 @@
       "publisher": "Tyler Spivey <tspivey@pcdesk.net>, Christopher Toth <q@q-continuum.net>",
       "submission_time": null,
       "on_github": true,
-      "download_count": 45502,
+      "download_count": 45504,
       "asset_missing": false
     },
     {
@@ -2223,7 +2187,7 @@
       "publisher": "nvdaes",
       "submission_time": 1754767544000,
       "on_github": true,
-      "download_count": 2620,
+      "download_count": 2622,
       "asset_missing": false
     },
     {
@@ -2235,7 +2199,7 @@
       "publisher": "mzanm",
       "submission_time": 1762545020000,
       "on_github": true,
-      "download_count": 2990,
+      "download_count": 2993,
       "asset_missing": false
     },
     {
@@ -2249,18 +2213,6 @@
       "on_github": false
     },
     {
-      "id": "IndentNav",
-      "name": "IndentNav",
-      "url": "https://github.com/mltony/nvda-indent-nav/releases/download/v2.2.7/IndentNav-2.2.7.nvda-addon",
-      "version": "2.2.7",
-      "channel": "stable",
-      "publisher": "Tony Malykh",
-      "submission_time": 1751485465000,
-      "on_github": true,
-      "download_count": 2509,
-      "asset_missing": false
-    },
-    {
       "id": "goldenCursor",
       "name": "Golden Cursor",
       "url": "https://github.com/nvda-es/goldenCursor/releases/download/6.12/goldenCursor-6.12.nvda-addon",
@@ -2269,7 +2221,7 @@
       "publisher": "jmdaweb",
       "submission_time": 1749839710000,
       "on_github": true,
-      "download_count": 10709,
+      "download_count": 10710,
       "asset_missing": false
     },
     {
@@ -2319,18 +2271,6 @@
       "asset_missing": false
     },
     {
-      "id": "evtTracker",
-      "name": "Event Tracker",
-      "url": "https://github.com/opensourcesys/evtTracker/releases/download/26.1/evtTracker-26.1.1.nvda-addon",
-      "version": "26.1.1",
-      "channel": "stable",
-      "publisher": "josephsl",
-      "submission_time": 1775444889000,
-      "on_github": true,
-      "download_count": 230,
-      "asset_missing": false
-    },
-    {
       "id": "PPAWakeUp",
       "name": "PPAWakeUp",
       "url": "https://github.com/chaichaimee/PPAWakeUp/releases/download/v2026.1/PPAWakeUp-V2026.1.nvda-addon",
@@ -2363,19 +2303,7 @@
       "publisher": "Cary-rowen <manchen_0528@outlook.com>",
       "submission_time": 1768724241000,
       "on_github": true,
-      "download_count": 851,
-      "asset_missing": false
-    },
-    {
-      "id": "VLC",
-      "name": "VLC Media Player",
-      "url": "https://github.com/javidominguez/VLC/releases/download/2025.1.0/VLC-2025.1.0.nvda-addon",
-      "version": "2025.1.0",
-      "channel": "stable",
-      "publisher": "Javi Dominguez",
-      "submission_time": 1750281268000,
-      "on_github": true,
-      "download_count": 15025,
+      "download_count": 852,
       "asset_missing": false
     },
     {
@@ -2399,7 +2327,19 @@
       "publisher": "Hamada Trichine",
       "submission_time": 1761218002000,
       "on_github": true,
-      "download_count": 2700,
+      "download_count": 2702,
+      "asset_missing": false
+    },
+    {
+      "id": "addonsHelp",
+      "name": "Add-ons documentation",
+      "url": "https://github.com/ruifontes/addonsHelp/releases/download/2025.06.11/addonsHelp-2025.06.11.nvda-addon",
+      "version": "2025.06.11",
+      "channel": "stable",
+      "publisher": "Rui Fontes",
+      "submission_time": 1749658601000,
+      "on_github": true,
+      "download_count": 7661,
       "asset_missing": false
     },
     {
@@ -2435,7 +2375,7 @@
       "publisher": "Kostya Gladkiy",
       "submission_time": null,
       "on_github": true,
-      "download_count": 21751,
+      "download_count": 21752,
       "asset_missing": false
     },
     {
@@ -2447,7 +2387,7 @@
       "publisher": "Tony Malykh",
       "submission_time": 1751492098000,
       "on_github": true,
-      "download_count": 3598,
+      "download_count": 3599,
       "asset_missing": false
     },
     {
@@ -2459,7 +2399,19 @@
       "publisher": "tspivey",
       "submission_time": 1750077769000,
       "on_github": true,
-      "download_count": 3384,
+      "download_count": 3385,
+      "asset_missing": false
+    },
+    {
+      "id": "searchWith",
+      "name": "Search With",
+      "url": "https://github.com/ibrahim-s/searchWith/releases/download/2.6.6/searchWith-2.6.6.nvda-addon",
+      "version": "2.6.6",
+      "channel": "stable",
+      "publisher": "Ibrahim Hamadeh",
+      "submission_time": 1749824115000,
+      "on_github": true,
+      "download_count": 3416,
       "asset_missing": false
     },
     {
@@ -2483,7 +2435,7 @@
       "publisher": "chaichaimee",
       "submission_time": 1767855013000,
       "on_github": true,
-      "download_count": 406,
+      "download_count": 407,
       "asset_missing": false
     },
     {
@@ -2517,7 +2469,7 @@
       "publisher": "Corentin Bacqué-Cazenave",
       "submission_time": 1753607754000,
       "on_github": true,
-      "download_count": 4795,
+      "download_count": 4796,
       "asset_missing": false
     },
     {
@@ -2565,7 +2517,7 @@
       "publisher": "nvdaes",
       "submission_time": 1773600841000,
       "on_github": true,
-      "download_count": 627,
+      "download_count": 629,
       "asset_missing": false
     },
     {
@@ -2589,7 +2541,19 @@
       "publisher": "Rui Fontes",
       "submission_time": 1730588339000,
       "on_github": true,
-      "download_count": 9805,
+      "download_count": 9806,
+      "asset_missing": false
+    },
+    {
+      "id": "winWizard",
+      "name": "Win Wizard",
+      "url": "https://github.com/jakubl7545/winWizard/releases/download/v5.0.7/winWizard-5.0.7.nvda-addon",
+      "version": "5.0.7",
+      "channel": "stable",
+      "publisher": "Jakub Lukowicz",
+      "submission_time": 1750424470000,
+      "on_github": true,
+      "download_count": 5703,
       "asset_missing": false
     },
     {
@@ -2613,7 +2577,7 @@
       "publisher": "Mahmood Hozhabri",
       "submission_time": 1771772372000,
       "on_github": true,
-      "download_count": 3415,
+      "download_count": 3423,
       "asset_missing": false
     },
     {
@@ -2625,7 +2589,7 @@
       "publisher": "Tseng Woody",
       "submission_time": 1755828141000,
       "on_github": true,
-      "download_count": 5970,
+      "download_count": 5973,
       "asset_missing": false
     },
     {
@@ -2649,7 +2613,19 @@
       "publisher": "James Scholes",
       "submission_time": 1750287698000,
       "on_github": true,
-      "download_count": 20307,
+      "download_count": 20316,
+      "asset_missing": false
+    },
+    {
+      "id": "consoleToolkit",
+      "name": "Console Toolkit",
+      "url": "https://github.com/mltony/nvda-console-toolkit/releases/download/v1.4.5/consoleToolkit-1.4.5.nvda-addon",
+      "version": "1.4.5",
+      "channel": "stable",
+      "publisher": "Tony Malykh",
+      "submission_time": 1751486070000,
+      "on_github": true,
+      "download_count": 4291,
       "asset_missing": false
     },
     {
@@ -2697,7 +2673,7 @@
       "publisher": "nvdaes",
       "submission_time": 1754858203000,
       "on_github": true,
-      "download_count": 2603,
+      "download_count": 2606,
       "asset_missing": false
     },
     {
@@ -2721,7 +2697,7 @@
       "publisher": "Sarper Arıkan",
       "submission_time": 1766987092000,
       "on_github": true,
-      "download_count": 514,
+      "download_count": 516,
       "asset_missing": false
     },
     {
@@ -2745,7 +2721,19 @@
       "publisher": "福恩",
       "submission_time": 1774941578000,
       "on_github": true,
-      "download_count": 1187,
+      "download_count": 1188,
+      "asset_missing": false
+    },
+    {
+      "id": "directLink",
+      "name": "Direct Link",
+      "url": "https://github.com/fawazar94/DirectLink/releases/download/2.2/directLink-2.2.nvda-addon",
+      "version": "2.2",
+      "channel": "stable",
+      "publisher": "Fawaz Abdul Rahman",
+      "submission_time": null,
+      "on_github": true,
+      "download_count": 4658,
       "asset_missing": false
     },
     {
@@ -2757,7 +2745,7 @@
       "publisher": "kamal yaser",
       "submission_time": 1773326113000,
       "on_github": true,
-      "download_count": 154,
+      "download_count": 155,
       "asset_missing": false
     },
     {
@@ -2817,7 +2805,7 @@
       "publisher": "Munawar Bijani",
       "submission_time": 1751356329000,
       "on_github": true,
-      "download_count": 1834,
+      "download_count": 1835,
       "asset_missing": false
     },
     {
@@ -2853,7 +2841,7 @@
       "publisher": "Rainer Brell",
       "submission_time": 1769338283000,
       "on_github": true,
-      "download_count": 5685,
+      "download_count": 5691,
       "asset_missing": false
     },
     {
@@ -2865,7 +2853,7 @@
       "publisher": "hwf1324",
       "submission_time": 1776447896000,
       "on_github": true,
-      "download_count": 229,
+      "download_count": 247,
       "asset_missing": false
     },
     {
@@ -2889,7 +2877,7 @@
       "publisher": "ruifontes",
       "submission_time": 1749846297000,
       "on_github": true,
-      "download_count": 6629,
+      "download_count": 6633,
       "asset_missing": false
     },
     {
@@ -2901,7 +2889,7 @@
       "publisher": "nvdaes",
       "submission_time": 1754768057000,
       "on_github": true,
-      "download_count": 1179,
+      "download_count": 1180,
       "asset_missing": false
     },
     {
@@ -2914,6 +2902,18 @@
       "submission_time": 1774448222000,
       "on_github": true,
       "download_count": 110,
+      "asset_missing": false
+    },
+    {
+      "id": "SentenceNav",
+      "name": "SentenceNav",
+      "url": "https://github.com/mltony/nvda-sentence-nav/releases/download/v2.14.1/SentenceNav-2.14.1.nvda-addon",
+      "version": "2.14.1",
+      "channel": "stable",
+      "publisher": "Tony Malykh",
+      "submission_time": 1751499273000,
+      "on_github": true,
+      "download_count": 3933,
       "asset_missing": false
     },
     {
@@ -2949,7 +2949,7 @@
       "publisher": "Luke Davis",
       "submission_time": 1773238933000,
       "on_github": true,
-      "download_count": 1389,
+      "download_count": 1398,
       "asset_missing": false
     },
     {
@@ -2997,7 +2997,7 @@
       "publisher": "Leandro Souza",
       "submission_time": 1776172966000,
       "on_github": true,
-      "download_count": 68,
+      "download_count": 69,
       "asset_missing": false
     },
     {
@@ -3021,7 +3021,7 @@
       "publisher": "Patrick Barboza <patrickbarboza774@gmail.com>, Wendrill Aksenow Brandão <wendrillaksenow@gmail.com>",
       "submission_time": 1755264186000,
       "on_github": true,
-      "download_count": 1210,
+      "download_count": 1211,
       "asset_missing": false
     },
     {
@@ -3037,18 +3037,6 @@
       "asset_missing": false
     },
     {
-      "id": "addonsHelp",
-      "name": "Add-ons documentation",
-      "url": "https://github.com/ruifontes/addonsHelp/releases/download/2025.06.11/addonsHelp-2025.06.11.nvda-addon",
-      "version": "2025.06.11",
-      "channel": "stable",
-      "publisher": "Rui Fontes",
-      "submission_time": 1749658601000,
-      "on_github": true,
-      "download_count": 7660,
-      "asset_missing": false
-    },
-    {
       "id": "textInformation",
       "name": "text information",
       "url": "https://github.com/cartertemm/text_information/releases/download/v1.4/textInformation-1.4.nvda-addon",
@@ -3057,7 +3045,7 @@
       "publisher": "Carter Temm <cartertemm@gmail.com>",
       "submission_time": 1750195588000,
       "on_github": true,
-      "download_count": 1510,
+      "download_count": 1511,
       "asset_missing": false
     },
     {
@@ -3121,18 +3109,6 @@
       "asset_missing": false
     },
     {
-      "id": "MathCAT",
-      "name": "MathCAT: speech and braille from MathML",
-      "url": "https://github.com/NSoiffer/MathCATForPython/releases/download/0.7.5/MathCAT-0.7.5.nvda-addon",
-      "version": "0.7.5",
-      "channel": "stable",
-      "publisher": "Neil Soiffer",
-      "submission_time": 1763442561000,
-      "on_github": true,
-      "download_count": 3824,
-      "asset_missing": false
-    },
-    {
       "id": "Banking4W",
       "name": "Banking4W - Topbanking",
       "url": "https://github.com/RainerBrell/Banking4W/releases/download/2025.06.16/Banking4W-2025.06.16.nvda-addon",
@@ -3165,7 +3141,7 @@
       "publisher": "Cary-rowen",
       "submission_time": 1749888078000,
       "on_github": true,
-      "download_count": 1688,
+      "download_count": 1689,
       "asset_missing": false
     },
     {
@@ -3177,7 +3153,7 @@
       "publisher": "NVDA_TH",
       "submission_time": 1773878525000,
       "on_github": true,
-      "download_count": 374,
+      "download_count": 376,
       "asset_missing": false
     },
     {
@@ -3225,7 +3201,7 @@
       "publisher": "hxebolax",
       "submission_time": null,
       "on_github": true,
-      "download_count": 4427,
+      "download_count": 4428,
       "asset_missing": false
     },
     {
@@ -3237,7 +3213,7 @@
       "publisher": "ruifontes",
       "submission_time": 1754873822000,
       "on_github": true,
-      "download_count": 3633,
+      "download_count": 3634,
       "asset_missing": false
     },
     {
@@ -3249,19 +3225,7 @@
       "publisher": "Pierre-Louis Renaud",
       "submission_time": 1774864313000,
       "on_github": true,
-      "download_count": 2300,
-      "asset_missing": false
-    },
-    {
-      "id": "wordNav",
-      "name": "WordNav",
-      "url": "https://github.com/mltony/nvda-word-nav/releases/download/v2.2.13/wordNav-2.2.13.nvda-addon",
-      "version": "2.2.13",
-      "channel": "stable",
-      "publisher": "Tony Malykh",
-      "submission_time": 1751485504000,
-      "on_github": true,
-      "download_count": 1968,
+      "download_count": 2304,
       "asset_missing": false
     },
     {
@@ -3323,6 +3287,18 @@
       "on_github": false
     },
     {
+      "id": "professionalMediaDownloader",
+      "name": "Professional Media Downloader",
+      "url": "https://github.com/umesh-rathore2932/professionalMediaDownloader-for-nvda/releases/download/v1.0/professionalMediaDownloader-1.0.nvda-addon",
+      "version": "1.0",
+      "channel": "stable",
+      "publisher": "Umesh Rathore",
+      "submission_time": 1776510720000,
+      "on_github": true,
+      "download_count": 7,
+      "asset_missing": false
+    },
+    {
       "id": "BasicYoutubeDownloader",
       "name": "Basic Youtube Downloader",
       "url": "https://github.com/borfirbora/BasicYoutubeDownloader/releases/download/v2.2/BasicYoutubeDownloader-2.2.nvda-addon",
@@ -3379,7 +3355,7 @@
       "publisher": "Javi Dominguez",
       "submission_time": 1750257861000,
       "on_github": true,
-      "download_count": 2643,
+      "download_count": 2645,
       "asset_missing": false
     },
     {
@@ -3415,7 +3391,7 @@
       "publisher": "rajath tirumangalam",
       "submission_time": 1770361527000,
       "on_github": true,
-      "download_count": 245,
+      "download_count": 246,
       "asset_missing": false
     },
     {
@@ -3451,7 +3427,7 @@
       "publisher": "Satoshi Suzuki",
       "submission_time": null,
       "on_github": true,
-      "download_count": 6954,
+      "download_count": 6955,
       "asset_missing": false
     },
     {
@@ -3463,19 +3439,7 @@
       "publisher": "anmi2004",
       "submission_time": 1774795102000,
       "on_github": true,
-      "download_count": 675,
-      "asset_missing": false
-    },
-    {
-      "id": "killNVDA",
-      "name": "Kill NVDA",
-      "url": "https://github.com/tspivey/killNVDA/releases/download/v0.6.0/killNVDA-0.6.0.nvda-addon",
-      "version": "0.6.0",
-      "channel": "stable",
-      "publisher": "tspivey",
-      "submission_time": 1750992277000,
-      "on_github": true,
-      "download_count": 2040,
+      "download_count": 681,
       "asset_missing": false
     },
     {
@@ -3511,7 +3475,7 @@
       "publisher": "Nael Sayegh",
       "submission_time": 1771879481000,
       "on_github": true,
-      "download_count": 605,
+      "download_count": 606,
       "asset_missing": false
     },
     {
@@ -3524,6 +3488,18 @@
       "submission_time": 1749837449000,
       "on_github": true,
       "download_count": 1041,
+      "asset_missing": false
+    },
+    {
+      "id": "killNVDA",
+      "name": "Kill NVDA",
+      "url": "https://github.com/tspivey/killNVDA/releases/download/v0.6.0/killNVDA-0.6.0.nvda-addon",
+      "version": "0.6.0",
+      "channel": "stable",
+      "publisher": "tspivey",
+      "submission_time": 1750992277000,
+      "on_github": true,
+      "download_count": 2041,
       "asset_missing": false
     },
     {
@@ -3545,7 +3521,7 @@
       "publisher": "chai chaimee",
       "submission_time": 1776245025000,
       "on_github": true,
-      "download_count": 118,
+      "download_count": 123,
       "asset_missing": false
     },
     {
@@ -3557,7 +3533,7 @@
       "publisher": "Cary-rowen",
       "submission_time": 1749836675000,
       "on_github": true,
-      "download_count": 2542,
+      "download_count": 2544,
       "asset_missing": false
     },
     {
@@ -3581,7 +3557,7 @@
       "publisher": "Mahmood-Taghavi",
       "submission_time": null,
       "on_github": true,
-      "download_count": 8330,
+      "download_count": 8331,
       "asset_missing": false
     },
     {
@@ -3593,7 +3569,7 @@
       "publisher": "Tony Malykh",
       "submission_time": 1751486137000,
       "on_github": true,
-      "download_count": 4201,
+      "download_count": 4202,
       "asset_missing": false
     },
     {
@@ -3605,7 +3581,7 @@
       "publisher": "chaichaimee",
       "submission_time": 1764913984000,
       "on_github": true,
-      "download_count": 300,
+      "download_count": 301,
       "asset_missing": false
     },
     {
@@ -3629,7 +3605,7 @@
       "publisher": "josephsl",
       "submission_time": 1775444943000,
       "on_github": true,
-      "download_count": 1707,
+      "download_count": 1714,
       "asset_missing": false
     },
     {
@@ -3641,7 +3617,7 @@
       "publisher": "Tony Gebhard",
       "submission_time": 1775995421000,
       "on_github": true,
-      "download_count": 376,
+      "download_count": 396,
       "asset_missing": false
     },
     {
@@ -3665,7 +3641,7 @@
       "publisher": "Derek Riemer <driemer.riemer@gmail.com>, Tuukka Ojala <tuukka.ojala@gmail.com>",
       "submission_time": 1751376155000,
       "on_github": true,
-      "download_count": 2184,
+      "download_count": 2185,
       "asset_missing": false
     },
     {
@@ -3701,7 +3677,19 @@
       "publisher": "Sujan Rai",
       "submission_time": 1763696854000,
       "on_github": true,
-      "download_count": 2049,
+      "download_count": 2050,
+      "asset_missing": false
+    },
+    {
+      "id": "inputLock",
+      "name": "Input lock",
+      "url": "https://github.com/jmdaweb/inputLock/releases/download/v1.19/inputLock-1.19.nvda-addon",
+      "version": "1.19",
+      "channel": "stable",
+      "publisher": "jmdaweb",
+      "submission_time": 1749839767000,
+      "on_github": true,
+      "download_count": 10597,
       "asset_missing": false
     },
     {
@@ -3713,7 +3701,7 @@
       "publisher": "nvdaes on behalf of Nick Stockton",
       "submission_time": 1729426083000,
       "on_github": true,
-      "download_count": 1774,
+      "download_count": 1776,
       "asset_missing": false
     },
     {
@@ -3725,7 +3713,7 @@
       "publisher": "addonFactory",
       "submission_time": 1752654574000,
       "on_github": true,
-      "download_count": 2212,
+      "download_count": 2214,
       "asset_missing": false
     },
     {
@@ -3741,18 +3729,6 @@
       "asset_missing": false
     },
     {
-      "id": "SentenceNav",
-      "name": "SentenceNav",
-      "url": "https://github.com/mltony/nvda-sentence-nav/releases/download/v2.14.1/SentenceNav-2.14.1.nvda-addon",
-      "version": "2.14.1",
-      "channel": "stable",
-      "publisher": "Tony Malykh",
-      "submission_time": 1751499273000,
-      "on_github": true,
-      "download_count": 3933,
-      "asset_missing": false
-    },
-    {
       "id": "fenReader",
       "name": "fenCodeReader",
       "url": "https://github.com/javidominguez/FenReader/releases/download/2024.1.0/fenReader-2024.1.0.nvda-addon",
@@ -3761,7 +3737,7 @@
       "publisher": "Javi Dominguez",
       "submission_time": null,
       "on_github": true,
-      "download_count": 2099,
+      "download_count": 2100,
       "asset_missing": false
     },
     {
@@ -3785,7 +3761,7 @@
       "publisher": "addonFactory",
       "submission_time": 1759732346000,
       "on_github": true,
-      "download_count": 2430,
+      "download_count": 2431,
       "asset_missing": false
     },
     {
@@ -3797,7 +3773,7 @@
       "publisher": "chaichaimee",
       "submission_time": 1770967149000,
       "on_github": true,
-      "download_count": 370,
+      "download_count": 371,
       "asset_missing": false
     },
     {
@@ -3869,7 +3845,19 @@
       "publisher": "jmdaweb",
       "submission_time": 1755936860000,
       "on_github": true,
-      "download_count": 22487,
+      "download_count": 22501,
+      "asset_missing": false
+    },
+    {
+      "id": "GestorDePomodoros",
+      "name": "Pomodoros Manager",
+      "url": "https://github.com/jpavonabian/Gestor-de-Pomodoros/releases/download/1.21/GestorDePomodoros-1.21.nvda-addon",
+      "version": "1.21",
+      "channel": "stable",
+      "publisher": "jpavonabian",
+      "submission_time": 1776061511000,
+      "on_github": true,
+      "download_count": 172,
       "asset_missing": false
     },
     {
@@ -3881,7 +3869,7 @@
       "publisher": "josephsl",
       "submission_time": 1771859491000,
       "on_github": true,
-      "download_count": 3581,
+      "download_count": 3590,
       "asset_missing": false
     },
     {
@@ -3893,7 +3881,7 @@
       "publisher": "Edilberto Fonseca",
       "submission_time": 1775483130000,
       "on_github": true,
-      "download_count": 247,
+      "download_count": 249,
       "asset_missing": false
     },
     {
@@ -3933,6 +3921,18 @@
       "asset_missing": false
     },
     {
+      "id": "Access8Math",
+      "name": "Access8Math",
+      "url": "https://github.com/tsengwoody/Access8Math/releases/download/v4.5/Access8Math-4.5.nvda-addon",
+      "version": "4.5",
+      "channel": "stable",
+      "publisher": "Tseng Woody",
+      "submission_time": 1774624588000,
+      "on_github": true,
+      "download_count": 1744,
+      "asset_missing": false
+    },
+    {
       "id": "ClipHistory",
       "name": "ClipHistory",
       "url": "https://github.com/chaichaimee/ClipHistory/releases/download/2026.4.2/ClipHistory-v2026.4.2.nvda-addon",
@@ -3965,7 +3965,7 @@
       "publisher": "ruifontes",
       "submission_time": 1749797314000,
       "on_github": true,
-      "download_count": 14736,
+      "download_count": 14743,
       "asset_missing": false
     },
     {
@@ -3977,7 +3977,7 @@
       "publisher": "lc boy",
       "submission_time": 1774765130000,
       "on_github": true,
-      "download_count": 154,
+      "download_count": 156,
       "asset_missing": false
     },
     {
@@ -4002,6 +4002,18 @@
       "submission_time": 1752519466000,
       "on_github": true,
       "download_count": 2790,
+      "asset_missing": false
+    },
+    {
+      "id": "MathCAT",
+      "name": "MathCAT: speech and braille from MathML",
+      "url": "https://github.com/NSoiffer/MathCATForPython/releases/download/0.7.5/MathCAT-0.7.5.nvda-addon",
+      "version": "0.7.5",
+      "channel": "stable",
+      "publisher": "Neil Soiffer",
+      "submission_time": 1763442561000,
+      "on_github": true,
+      "download_count": 3826,
       "asset_missing": false
     },
     {
@@ -4049,7 +4061,7 @@
       "publisher": "Oleksandr Gryshchenko",
       "submission_time": 1750364813000,
       "on_github": true,
-      "download_count": 9017,
+      "download_count": 9020,
       "asset_missing": false
     },
     {
@@ -4097,7 +4109,7 @@
       "publisher": "nvdaes",
       "submission_time": 1754767930000,
       "on_github": true,
-      "download_count": 2002,
+      "download_count": 2003,
       "asset_missing": false
     },
     {
@@ -4145,7 +4157,7 @@
       "publisher": "chai chaimee",
       "submission_time": 1774068100000,
       "on_github": true,
-      "download_count": 156,
+      "download_count": 157,
       "asset_missing": false
     },
     {
@@ -4157,7 +4169,7 @@
       "publisher": "ruifontes",
       "submission_time": 1749866739000,
       "on_github": true,
-      "download_count": 6096,
+      "download_count": 6097,
       "asset_missing": false
     },
     {
@@ -4169,7 +4181,7 @@
       "publisher": "josephsl",
       "submission_time": 1772038066000,
       "on_github": true,
-      "download_count": 1719,
+      "download_count": 1722,
       "asset_missing": false
     },
     {
@@ -4181,7 +4193,7 @@
       "publisher": "nvdaes",
       "submission_time": 1754768853000,
       "on_github": true,
-      "download_count": 1564,
+      "download_count": 1566,
       "asset_missing": false
     },
     {
@@ -4205,7 +4217,7 @@
       "publisher": "nvdaes",
       "submission_time": 1756657062000,
       "on_github": true,
-      "download_count": 3615,
+      "download_count": 3617,
       "asset_missing": false
     },
     {
@@ -4217,7 +4229,7 @@
       "publisher": "Muhammad",
       "submission_time": 1769488611000,
       "on_github": true,
-      "download_count": 578,
+      "download_count": 579,
       "asset_missing": false
     },
     {
@@ -4229,7 +4241,7 @@
       "publisher": "Md. Hridoy Sheikh",
       "submission_time": 1768532058000,
       "on_github": true,
-      "download_count": 850,
+      "download_count": 851,
       "asset_missing": false
     },
     {
@@ -4313,7 +4325,7 @@
       "publisher": "josephsl",
       "submission_time": 1775445108000,
       "on_github": true,
-      "download_count": 5358,
+      "download_count": 5386,
       "asset_missing": false
     },
     {
@@ -4337,7 +4349,7 @@
       "publisher": "chaichaimee",
       "submission_time": 1772169785000,
       "on_github": true,
-      "download_count": 311,
+      "download_count": 313,
       "asset_missing": false
     },
     {
@@ -4361,7 +4373,7 @@
       "publisher": "ruifontes",
       "submission_time": 1770595807000,
       "on_github": true,
-      "download_count": 6741,
+      "download_count": 6751,
       "asset_missing": false
     },
     {
@@ -4397,7 +4409,7 @@
       "publisher": "Oriol Gomez",
       "submission_time": 1772639422000,
       "on_github": true,
-      "download_count": 936,
+      "download_count": 937,
       "asset_missing": false
     },
     {
@@ -4409,7 +4421,7 @@
       "publisher": "chaichaimee",
       "submission_time": 1771544975000,
       "on_github": true,
-      "download_count": 296,
+      "download_count": 298,
       "asset_missing": false
     },
     {
@@ -4433,7 +4445,7 @@
       "publisher": "Rainer Brell",
       "submission_time": 1773588592000,
       "on_github": true,
-      "download_count": 54,
+      "download_count": 55,
       "asset_missing": false
     },
     {
@@ -4469,7 +4481,7 @@
       "publisher": "Ibrahim Hamadeh",
       "submission_time": 1771927755000,
       "on_github": true,
-      "download_count": 300,
+      "download_count": 301,
       "asset_missing": false
     },
     {
@@ -4569,6 +4581,18 @@
       "asset_missing": false
     },
     {
+      "id": "VLC",
+      "name": "VLC Media Player",
+      "url": "https://github.com/javidominguez/VLC/releases/download/B2024.0.2/VLC-2024.0.2.nvda-addon",
+      "version": "2024.0.2",
+      "channel": "beta",
+      "publisher": "Javi Dominguez",
+      "submission_time": null,
+      "on_github": true,
+      "download_count": 1467,
+      "asset_missing": false
+    },
+    {
       "id": "terminalAccess",
       "name": "Terminal Access for NVDA",
       "url": "https://github.com/PratikP1/Terminal-Access-for-NVDA/releases/download/v1.4.0/terminalAccess-1.4.0.nvda-addon",
@@ -4607,13 +4631,13 @@
     {
       "id": "wintenApps",
       "name": "Windows App Essentials",
-      "url": "https://github.com/josephsl/wintenApps/releases/download/24.08/wintenApps-24.07.99.nvda-addon",
-      "version": "24.07.99",
+      "url": "https://github.com/josephsl/wintenApps/releases/download/26.04/wintenApps-26.04.2000.nvda-addon",
+      "version": "26.04.2000",
       "channel": "beta",
-      "publisher": "ㅓㅐㄴ데ㅗ니",
-      "submission_time": null,
+      "publisher": "josephsl",
+      "submission_time": 1776649201000,
       "on_github": true,
-      "download_count": 899,
+      "download_count": 4,
       "asset_missing": false
     },
     {
@@ -4649,7 +4673,7 @@
       "publisher": "Leonard de Ruijter",
       "submission_time": 1775149858000,
       "on_github": true,
-      "download_count": 199,
+      "download_count": 200,
       "asset_missing": false
     },
     {
@@ -4707,7 +4731,7 @@
       "publisher": "Javi Dominguez",
       "submission_time": 1776189608000,
       "on_github": true,
-      "download_count": 63,
+      "download_count": 64,
       "asset_missing": false
     },
     {
@@ -4755,7 +4779,7 @@
       "publisher": "Rui Fontes",
       "submission_time": 1771788412000,
       "on_github": true,
-      "download_count": 441,
+      "download_count": 444,
       "asset_missing": false
     },
     {
@@ -4791,7 +4815,7 @@
       "publisher": "Pierre-Louis Renaud",
       "submission_time": 1772000231000,
       "on_github": true,
-      "download_count": 221,
+      "download_count": 222,
       "asset_missing": false
     },
     {
@@ -4845,13 +4869,25 @@
     {
       "id": "urlShortener",
       "name": "URL Shortener",
-      "url": "https://github.com/nvdaes/urlShortener/releases/download/17.1.0/urlShortener-17.1.0.nvda-addon",
-      "version": "17.1.0",
+      "url": "https://github.com/nvdaes/urlShortener/releases/download/19.1.0/urlShortener-19.1.0.nvda-addon",
+      "version": "19.1.0",
       "channel": "beta",
       "publisher": "nvdaes",
-      "submission_time": 1745745086000,
+      "submission_time": 1776614007000,
       "on_github": true,
-      "download_count": 415,
+      "download_count": 4,
+      "asset_missing": false
+    },
+    {
+      "id": "evtTracker",
+      "name": "Event Tracker",
+      "url": "https://github.com/opensourcesys/evtTracker/releases/download/26.1/evtTracker-26.1.200.nvda-addon",
+      "version": "26.1.200",
+      "channel": "beta",
+      "publisher": "josephsl",
+      "submission_time": 1775445137000,
+      "on_github": true,
+      "download_count": 85,
       "asset_missing": false
     },
     {
@@ -4863,18 +4899,6 @@
       "publisher": "Adriano Barbieri",
       "submission_time": 1758141961000,
       "on_github": false
-    },
-    {
-      "id": "searchWith",
-      "name": "Search With",
-      "url": "https://github.com/ibrahim-s/searchWith/releases/download/2.6.7/searchWith-2.6.7.nvda-addon",
-      "version": "2.6.7",
-      "channel": "beta",
-      "publisher": "Ibrahim Hamadeh",
-      "submission_time": 1771899490000,
-      "on_github": true,
-      "download_count": 419,
-      "asset_missing": false
     },
     {
       "id": "numpadNavMode",
@@ -4925,18 +4949,6 @@
       "asset_missing": false
     },
     {
-      "id": "evtTracker",
-      "name": "Event Tracker",
-      "url": "https://github.com/opensourcesys/evtTracker/releases/download/26.1/evtTracker-26.1.200.nvda-addon",
-      "version": "26.1.200",
-      "channel": "beta",
-      "publisher": "josephsl",
-      "submission_time": 1775445137000,
-      "on_github": true,
-      "download_count": 84,
-      "asset_missing": false
-    },
-    {
       "id": "readonlyProfiles",
       "name": "Readonly Profiles",
       "url": "https://github.com/nvdaes/readonlyProfiles/releases/download/1.1.0/readonlyProfiles-1.1.0.nvda-addon",
@@ -4949,15 +4961,27 @@
       "asset_missing": false
     },
     {
-      "id": "VLC",
-      "name": "VLC Media Player",
-      "url": "https://github.com/javidominguez/VLC/releases/download/B2024.0.2/VLC-2024.0.2.nvda-addon",
-      "version": "2024.0.2",
+      "id": "addonsHelp",
+      "name": "Add-ons documentation",
+      "url": "https://github.com/ruifontes/addonsHelp/releases/download/2024.01.01/addonsHelp-2024.01.01.nvda-addon",
+      "version": "2024.01.01",
       "channel": "beta",
-      "publisher": "Javi Dominguez",
+      "publisher": "Rui Fontes",
       "submission_time": null,
       "on_github": true,
-      "download_count": 1467,
+      "download_count": 1523,
+      "asset_missing": false
+    },
+    {
+      "id": "searchWith",
+      "name": "Search With",
+      "url": "https://github.com/ibrahim-s/searchWith/releases/download/2.6.7/searchWith-2.6.7.nvda-addon",
+      "version": "2.6.7",
+      "channel": "beta",
+      "publisher": "Ibrahim Hamadeh",
+      "submission_time": 1771899490000,
+      "on_github": true,
+      "download_count": 420,
       "asset_missing": false
     },
     {
@@ -4997,13 +5021,13 @@
     {
       "id": "readFeeds",
       "name": "Read Feeds",
-      "url": "https://github.com/nvdaes/readFeeds/releases/download/43.1.0/readFeeds-43.1.0.nvda-addon",
-      "version": "43.1.0",
+      "url": "https://github.com/nvdaes/readFeeds/releases/download/45.1.0/readFeeds-45.1.0.nvda-addon",
+      "version": "45.1.0",
       "channel": "beta",
       "publisher": "nvdaes",
-      "submission_time": 1755405746000,
+      "submission_time": 1776613697000,
       "on_github": true,
-      "download_count": 790,
+      "download_count": 6,
       "asset_missing": false
     },
     {
@@ -5099,7 +5123,7 @@
       "publisher": "Rainer Brell",
       "submission_time": 1775825983000,
       "on_github": true,
-      "download_count": 577,
+      "download_count": 578,
       "asset_missing": false
     },
     {
@@ -5123,7 +5147,7 @@
       "publisher": "nvdaes",
       "submission_time": 1771162005000,
       "on_github": true,
-      "download_count": 127,
+      "download_count": 128,
       "asset_missing": false
     },
     {
@@ -5151,18 +5175,6 @@
       "asset_missing": false
     },
     {
-      "id": "addonsHelp",
-      "name": "Add-ons documentation",
-      "url": "https://github.com/ruifontes/addonsHelp/releases/download/2024.01.01/addonsHelp-2024.01.01.nvda-addon",
-      "version": "2024.01.01",
-      "channel": "beta",
-      "publisher": "Rui Fontes",
-      "submission_time": null,
-      "on_github": true,
-      "download_count": 1523,
-      "asset_missing": false
-    },
-    {
       "id": "sayCurrentKeyboardLanguage",
       "name": "sayCurrentKeyboardLanguage",
       "url": "https://github.com/abdel792/sayCurrentKeyboardLanguage/releases/download/v25.10.22/sayCurrentKeyboardLanguage-20251022.0.1.nvda-addon",
@@ -5183,19 +5195,7 @@
       "publisher": "Alessandro Albano, Simone Dal Maso, Davide Decarne",
       "submission_time": 1734082639000,
       "on_github": true,
-      "download_count": 109658,
-      "asset_missing": false
-    },
-    {
-      "id": "MathCAT",
-      "name": "MathCAT: speech and braille from MathML",
-      "url": "https://github.com/NSoiffer/MathCATForPython/releases/download/V0.6.9/MathCAT-0.6.9.nvda-addon",
-      "version": "0.6.9",
-      "channel": "beta",
-      "publisher": "Neil Soiffer",
-      "submission_time": 1745394224000,
-      "on_github": true,
-      "download_count": 560,
+      "download_count": 109741,
       "asset_missing": false
     },
     {
@@ -5207,7 +5207,7 @@
       "publisher": "Rainer Brell",
       "submission_time": 1773863279000,
       "on_github": true,
-      "download_count": 117,
+      "download_count": 118,
       "asset_missing": false
     },
     {
@@ -5231,7 +5231,7 @@
       "publisher": "Pierre-Louis Renaud",
       "submission_time": 1771229049000,
       "on_github": true,
-      "download_count": 733,
+      "download_count": 734,
       "asset_missing": false
     },
     {
@@ -5309,13 +5309,13 @@
     {
       "id": "ifInterpreters",
       "name": "IF Interpreters",
-      "url": "https://github.com/nvdaes/ifInterpreters/releases/download/5.1.0/ifInterpreters-5.1.0.nvda-addon",
-      "version": "5.1.0",
+      "url": "https://github.com/nvdaes/ifInterpreters/releases/download/5.2.0/ifInterpreters-5.2.0.nvda-addon",
+      "version": "5.2.0",
       "channel": "beta",
       "publisher": "nvdaes on behalf of Nick Stockton",
-      "submission_time": 1746082003000,
+      "submission_time": 1776613456000,
       "on_github": true,
-      "download_count": 322,
+      "download_count": 17,
       "asset_missing": false
     },
     {
@@ -5327,19 +5327,19 @@
       "publisher": "Javi Dominguez",
       "submission_time": 1770591185000,
       "on_github": true,
-      "download_count": 116,
+      "download_count": 117,
       "asset_missing": false
     },
     {
       "id": "perky",
       "name": "Perky Duck",
-      "url": "https://github.com/nvdaes/perky/releases/download/8.1.0/perky-8.1.0.nvda-addon",
-      "version": "8.1.0",
+      "url": "https://github.com/nvdaes/perky/releases/download/10.1.0/perky-10.1.0.nvda-addon",
+      "version": "10.1.0",
       "channel": "beta",
       "publisher": "nvdaes",
-      "submission_time": 1745557424000,
+      "submission_time": 1776618226000,
       "on_github": true,
-      "download_count": 380,
+      "download_count": 4,
       "asset_missing": false
     },
     {
@@ -5387,7 +5387,7 @@
       "publisher": "josephsl",
       "submission_time": 1771859470000,
       "on_github": true,
-      "download_count": 443,
+      "download_count": 445,
       "asset_missing": false
     },
     {
@@ -5399,7 +5399,7 @@
       "publisher": "Edilberto Fonseca",
       "submission_time": 1776260137000,
       "on_github": true,
-      "download_count": 41,
+      "download_count": 42,
       "asset_missing": false
     },
     {
@@ -5439,6 +5439,18 @@
       "asset_missing": false
     },
     {
+      "id": "MathCAT",
+      "name": "MathCAT: speech and braille from MathML",
+      "url": "https://github.com/NSoiffer/MathCATForPython/releases/download/V0.6.9/MathCAT-0.6.9.nvda-addon",
+      "version": "0.6.9",
+      "channel": "beta",
+      "publisher": "Neil Soiffer",
+      "submission_time": 1745394224000,
+      "on_github": true,
+      "download_count": 560,
+      "asset_missing": false
+    },
+    {
       "id": "documentFormattingRotor",
       "name": "Document Formatting Rotor",
       "url": "https://github.com/derekriemer/nvda-documentFormattingRotor/releases/download/v1.1/documentFormattingRotor-1.1.nvda-addon",
@@ -5447,7 +5459,7 @@
       "publisher": "Derek Riemer <driemer.riemer@gmail.com>",
       "submission_time": 1732609542000,
       "on_github": true,
-      "download_count": 826,
+      "download_count": 827,
       "asset_missing": false
     },
     {
@@ -5459,7 +5471,7 @@
       "publisher": "Oleksandr Hryshchenko",
       "submission_time": 1771280929000,
       "on_github": true,
-      "download_count": 301,
+      "download_count": 302,
       "asset_missing": false
     },
     {
@@ -5543,7 +5555,7 @@
       "publisher": "josephsl",
       "submission_time": 1775445190000,
       "on_github": true,
-      "download_count": 898,
+      "download_count": 902,
       "asset_missing": false
     },
     {
@@ -5603,7 +5615,7 @@
       "publisher": "Burman's Computer and Education Ltd.",
       "submission_time": 1755250543000,
       "on_github": true,
-      "download_count": 542,
+      "download_count": 543,
       "asset_missing": false
     },
     {
@@ -5640,6 +5652,18 @@
       "submission_time": null,
       "on_github": true,
       "download_count": 1282,
+      "asset_missing": false
+    },
+    {
+      "id": "VLC",
+      "name": "VLC Media Player",
+      "url": "https://github.com/javidominguez/VLC/releases/download/dev2024.0.1/VLC-2024.0.1.nvda-addon",
+      "version": "2024.0.1",
+      "channel": "dev",
+      "publisher": "Javi Dominguez",
+      "submission_time": null,
+      "on_github": true,
+      "download_count": 1769,
       "asset_missing": false
     },
     {
@@ -5723,7 +5747,7 @@
       "publisher": "nvdaes",
       "submission_time": null,
       "on_github": true,
-      "download_count": 1006,
+      "download_count": 1008,
       "asset_missing": false
     },
     {
@@ -5747,7 +5771,7 @@
       "publisher": "Ibrahim Hamadeh",
       "submission_time": 1739242774000,
       "on_github": true,
-      "download_count": 600,
+      "download_count": 601,
       "asset_missing": false
     },
     {
@@ -5859,6 +5883,18 @@
       "asset_missing": false
     },
     {
+      "id": "evtTracker",
+      "name": "Event Tracker",
+      "url": "https://github.com/opensourcesys/evtTracker/releases/download/v24.1.502-dev/evtTracker-24.1.502.nvda-addon",
+      "version": "24.1.502",
+      "channel": "dev",
+      "publisher": "Luke Davis",
+      "submission_time": null,
+      "on_github": true,
+      "download_count": 767,
+      "asset_missing": false
+    },
+    {
       "id": "numpadNavMode",
       "name": "Numpad Nav Mode",
       "url": "https://github.com/opensourcesys/numpadNavMode/releases/download/v24.1.504-dev/numpadNavMode-24.1.504.nvda-addon",
@@ -5891,7 +5927,7 @@
       "publisher": "addonFactory",
       "submission_time": 1756491920000,
       "on_github": true,
-      "download_count": 852,
+      "download_count": 853,
       "asset_missing": false
     },
     {
@@ -5919,30 +5955,6 @@
       "asset_missing": false
     },
     {
-      "id": "evtTracker",
-      "name": "Event Tracker",
-      "url": "https://github.com/opensourcesys/evtTracker/releases/download/v24.1.502-dev/evtTracker-24.1.502.nvda-addon",
-      "version": "24.1.502",
-      "channel": "dev",
-      "publisher": "Luke Davis",
-      "submission_time": null,
-      "on_github": true,
-      "download_count": 766,
-      "asset_missing": false
-    },
-    {
-      "id": "VLC",
-      "name": "VLC Media Player",
-      "url": "https://github.com/javidominguez/VLC/releases/download/dev2024.0.1/VLC-2024.0.1.nvda-addon",
-      "version": "2024.0.1",
-      "channel": "dev",
-      "publisher": "Javi Dominguez",
-      "submission_time": null,
-      "on_github": true,
-      "download_count": 1769,
-      "asset_missing": false
-    },
-    {
       "id": "scintillaIMECaretFix",
       "name": "Scintilla IME Composition Caret Fix",
       "url": "https://github.com/keyang556/scintillaIMECaretFix/releases/download/1.1/scintillaIMECaretFix-1.1.nvda-addon",
@@ -5952,6 +5964,18 @@
       "submission_time": 1770362173000,
       "on_github": true,
       "download_count": 119,
+      "asset_missing": false
+    },
+    {
+      "id": "addonsHelp",
+      "name": "Add-ons documentation",
+      "url": "https://github.com/ruifontes/addonsHelp/releases/download/2023.09.21/addonsHelp-2023.09.21.nvda-addon",
+      "version": "2023.09.21",
+      "channel": "dev",
+      "publisher": "Rui Fontes",
+      "submission_time": null,
+      "on_github": true,
+      "download_count": 2712,
       "asset_missing": false
     },
     {
@@ -6023,7 +6047,7 @@
       "publisher": "中央流行LINE NVDA無障礙應變指揮中心",
       "submission_time": 1776405347000,
       "on_github": true,
-      "download_count": 20,
+      "download_count": 21,
       "asset_missing": false
     },
     {
@@ -6131,19 +6155,7 @@
       "publisher": "Luke Davis",
       "submission_time": 1773672189000,
       "on_github": true,
-      "download_count": 289,
-      "asset_missing": false
-    },
-    {
-      "id": "addonsHelp",
-      "name": "Add-ons documentation",
-      "url": "https://github.com/ruifontes/addonsHelp/releases/download/2023.09.21/addonsHelp-2023.09.21.nvda-addon",
-      "version": "2023.09.21",
-      "channel": "dev",
-      "publisher": "Rui Fontes",
-      "submission_time": null,
-      "on_github": true,
-      "download_count": 2712,
+      "download_count": 290,
       "asset_missing": false
     },
     {
